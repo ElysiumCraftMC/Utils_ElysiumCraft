@@ -1,0 +1,13 @@
+{
+	enable: true,
+	// Specify as "modid:id_item":"information"
+	items: {
+		"jewelry:iron_ring": "Un anello magico in grado di potenziare gli incantesimi di un mago novizio",
+		"elysium:core_fragment": "Un misterioso frammento del nucleo magico che anima i mostri dell'Abisso",
+		"elysium:artifact_bag": "Il risultato della trasmutazione di un antico artefatto, il contenuto \u00e8 misterioso",
+	},
+	blocks: {
+		"summoningrituals:altar": "Un altare dove l'Alchimista pu\u00f2 trasmutare oggetti",
+		"candlelight:cobblestone_stove": "Utile per riscaldare il pentolino dove fare le marmellate",
+	},
+}

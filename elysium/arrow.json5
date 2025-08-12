@@ -1,0 +1,39 @@
+{
+	/* An object of `<id_ranged> - <>` pairs, used to change the modifiers of ranged bow or arrow.
+	   Example:
+	   arrow: {
+	   	"soul_arrow": 2.0,
+	   	"bamboo_arrow": 1.25,
+	   	"cobweb_arrow": 0.5,
+	   	"diamond_arrow": 5.0,
+	   	"iron_arrow": 3.0,
+	   	"gold_arrow": 4.0,
+	   	"bone_arrow": 1.25,
+	   	"echo_arrow": 3.5,
+	   	"amethyst_arrow": 1.75,
+	   	"obsidian_arrow": 5.0,
+	   	"prismarine_arrow": 4.5,
+	   	"netherite_arrow": 6.0,
+	   	"nether_quartz_arrow": 3.5,
+	   	"slime_arrow": 1.0,
+	   	"copper_arrow": 2.0,
+	   	"ender_arrow": 1.0,
+	   	"tnt_arrow": 1.5,
+	   	"chorus_arrow": 0.5,
+	   	"wood_arrow": 1.0,
+	   },
+	*/
+	arrow: {
+		"bamboo_arrow": 2.1,
+		"prismarine_arrow": 3.5,
+		"iron_arrow": 3.25,
+		"diamond_arrow": 4.0,
+		"nether_quartz_arrow": 3.0,
+		"gold_arrow": 3.75,
+		"netherite_arrow": 5.0,
+		"bone_arrow": 2.25,
+		"copper_arrow": 2.75,
+		"amethyst_arrow": 2.5,
+		"wood_arrow": 2.0,
+	},
+}
