@@ -1009,7 +1009,7 @@
 		"elysium:copper_excavator": "elysium:cote_copper",
 		"elysium:copper_hammer": "elysium:cote_copper"
 		"elysium:tin_excavator": "elysium:cote_tin"
-		"elysium:tin_excavator": "elysium:cote_tin"
+		"elysium:tin_hammer": "elysium:cote_tin"
 
 	},
 }
