@@ -77,6 +77,71 @@
 				],
 			},
 		},
+				"elysium:copper_excavator": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3",
+					"0",
+				],
+				"generic.attack_damage": [
+					"-2",
+					"0",
+				],
+				"generic.durability": [
+					"960",
+					"0",
+				],
+			},
+		},
+		"elysium:copper_hammer": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3",
+					"0",
+				],
+				"generic.attack_damage": [
+					"-2",
+					"0",
+				],
+				"generic.durability": [
+					"960",
+					"0",
+				],
+			},
+		},
+
+						"elysium:tin_excavator": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3",
+					"0",
+				],
+				"generic.attack_damage": [
+					"-2",
+					"0",
+				],
+				"generic.durability": [
+					"480",
+					"0",
+				],
+			},
+		},
+		"elysium:tin_hammer": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3",
+					"0",
+				],
+				"generic.attack_damage": [
+					"-2",
+					"0",
+				],
+				"generic.durability": [
+					"480",
+					"0",
+				],
+			},
+		},
 		"magistuarmory:gold_shortsword": {
 			modifiers: {
 				"generic.attack_speed": [
