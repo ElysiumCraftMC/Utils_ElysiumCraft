@@ -1,1 +1,1 @@
-raknet;tester.elysiumcraft.it
+tester.elysiumcraft.it
