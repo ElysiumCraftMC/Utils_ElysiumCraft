@@ -15,6 +15,9 @@
 		"minecraft:name_tag": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"elysium:t3_frost_robe_feet": [
+			"\u00a7eCrafted by: \u00a77Alchemist",
+		],
 		"luphieclutteredmod:luphie_plated_chocolate_croissant": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -111,7 +114,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"reinfchest:copper_chest": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:magenta_silver_chandelier": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -126,7 +129,6 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"minecraft:loom": [
-			"\u00a7eClass: \u00a77Carpenter \u00a7eRank: \u00a770",
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"excessive_building:obsidian_brick_slab": [
@@ -256,7 +258,6 @@
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"alloy_forgery:bricks_forge_controller": [
-			"\u00a7eClass: \u00a77Blacksmith \u00a7eRank: \u00a772",
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"luphieclutteredmod:luphie_plated_croissant": [
@@ -298,9 +299,7 @@
 		"mcwroofs:warped_roof": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"dramaticdoors:tall_canopy_door": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
+		"dramaticdoors:tall_canopy_door": [],
 		"mcwfences:railing_deepslate_wall": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -337,6 +336,9 @@
 		"twigs:azalea_flowers": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"culturaldelights:egg_roll": [
+			"\u00a7eCrafted by: \u00a77Cook",
+		],
 		"clutter:crimson_chair": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -364,9 +366,7 @@
 		"luphieclutteredmod:luphie_flowering_pink_bookshelf": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"dramaticdoors:tall_chipped_modern_jungle_door": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
+		"dramaticdoors:tall_chipped_modern_jungle_door": [],
 		"clutter:pink_golden_wall_candle": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -555,9 +555,7 @@
 		"projectiles:diamond_arrow": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
-		"dramaticdoors:tall_chipped_modern_crimson_door": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
+		"dramaticdoors:tall_chipped_modern_crimson_door": [],
 		"magistuarmory:diamond_bastardsword": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
@@ -595,7 +593,6 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"chipped:botanist_workbench": [
-			"\u00a7eClass: \u00a77Carpenter \u00a7eRank: \u00a770",
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"excessive_building:deepslate_brick_vertical_stairs": [
@@ -632,8 +629,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"bakery:small_cooking_pot": [
-			"\u00a7eClass: \u00a77Cook \u00a7eRank: \u00a771",
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:purple_copper_wall_candle": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -817,9 +813,7 @@
 		"clutter:copper_lantern": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"minecraft:damaged_anvil": [
-			"\u00a7eClass: \u00a77Blacksmith \u00a7eRank: \u00a770",
-		],
+		"minecraft:damaged_anvil": [],
 		"handcrafted:kitchen_hood": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -928,6 +922,9 @@
 		],
 		"farmersdelight:half_tatami_mat": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"onlyhammersandexcavators:iron_excavator": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"twigs:schist_slab": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -1152,6 +1149,9 @@
 		"excessive_building:smooth_soul_sandstone_stairs": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"elysium:t3_arcane_robe_head": [
+			"\u00a7eCrafted by: \u00a77Alchemist",
+		],
 		"mcwroofs:birch_planks_top_roof": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -1276,9 +1276,7 @@
 		"clutter:lime_golden_wall_candle": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"dramaticdoors:tall_chipped_tiled_mangrove_door": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
+		"dramaticdoors:tall_chipped_tiled_mangrove_door": [],
 		"excessive_building:chiseled_dark_oak": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -1322,9 +1320,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"magistuarmory:gold_target": [],
-		"clutter:granite_chimney": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
+		"clutter:granite_chimney": [],
 		"mcwdoors:metal_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -1508,9 +1504,7 @@
 		"mcwtrpdoors:jungle_glass_trapdoor": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"minecraft:chipped_anvil": [
-			"\u00a7eClass: \u00a77Blacksmith \u00a7eRank: \u00a770",
-		],
+		"minecraft:chipped_anvil": [],
 		"mcwbridges:warped_log_bridge_middle": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -1553,6 +1547,9 @@
 		"mcwholidays:blue_present": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"immersive_melodies:triangle": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
 		"dramaticdoors:tall_chipped_secret_acacia_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -1562,9 +1559,7 @@
 		"excessive_building:warped_mosaic": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"dramaticdoors:tall_macaw_acacia_waffle_door": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
+		"dramaticdoors:tall_macaw_acacia_waffle_door": [],
 		"excessive_building:gray_terracotta_tile_stairs": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -1627,6 +1622,9 @@
 		],
 		"mcwdoors:spruce_barn_glass_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"onlyhammersandexcavators:iron_hammer": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"luphieclutteredmod:luphie_flowering_yellow_log": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -1705,6 +1703,9 @@
 		],
 		"clutter:oak_table": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"archers_arsenal:bow_gold": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:lime_golden_candelabra": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -1867,11 +1868,12 @@
 		"luphieclutteredmod:luphie_black_cat_plant_pot": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"dramaticdoors:tall_chipped_sliding_warped_door": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
+		"dramaticdoors:tall_chipped_sliding_warped_door": [],
 		"mcwdoors:acacia_modern_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"elysium:t3_prior_robe_legs": [
+			"\u00a7eCrafted by: \u00a77Alchemist",
 		],
 		"mcwholidays:snow_covered_pine_top": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -2048,9 +2050,7 @@
 		"clutter:orange_iron_chandelier": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"dramaticdoors:tall_macaw_spruce_waffle_door": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
+		"dramaticdoors:tall_macaw_spruce_waffle_door": [],
 		"twigs:polished_schist_brick_wall": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -2213,9 +2213,7 @@
 		"mcwholidays:pine_top": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"dramaticdoors:tall_sortingwood_door": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
+		"dramaticdoors:tall_sortingwood_door": [],
 		"mcwfences:crimson_pyramid_gate": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -2304,15 +2302,10 @@
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"furnish:furniture_workbench": [
-			"\u00a7eClass: \u00a77Carpenter \u00a7eRank: \u00a770",
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"clutter:stone_brick_chimney": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
-		"farmersdelight:cod_roll": [
-			"\u00a7eCrafted by: \u00a77Cook",
-		],
+		"clutter:stone_brick_chimney": [],
+		"farmersdelight:cod_roll": [],
 		"mcwdoors:crimson_classic_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -2374,7 +2367,6 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"extractinator:extractinator": [
-			"\u00a7eClass: \u00a77Miner \u00a7eRank: \u00a770",
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"candlelight:jungle_shelf": [
@@ -2575,6 +2567,9 @@
 		"clutter:pink_iron_chandelier": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"elysium:t3_fire_robe_legs": [
+			"\u00a7eCrafted by: \u00a77Alchemist",
+		],
 		"magistuarmory:copper_kiteshield": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
@@ -2617,9 +2612,7 @@
 		"twigs:copper_pillar": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"clutter:blackstone_chimney": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
+		"clutter:blackstone_chimney": [],
 		"twigs:silt_shingles": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -2694,6 +2687,9 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"mcwholidays:candy_cane": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"immersive_melodies:didgeridoo": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"magistuarmory:iron_shortsword": [
@@ -2796,8 +2792,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"farmersdelight:cooking_pot": [
-			"\u00a7eClass: \u00a77Cook \u00a7eRank: \u00a772",
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_chipped_fortified_crimson_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -2826,9 +2821,7 @@
 		"twigs:lamp": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"dramaticdoors:tall_twilight_mangrove_door": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
+		"dramaticdoors:tall_twilight_mangrove_door": [],
 		"luphieclutteredmod:unpainted_birdhouse": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -2877,9 +2870,7 @@
 		"excessive_building:warped_vertical_stairs": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"clutter:red_nether_brick_chimney": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
+		"clutter:red_nether_brick_chimney": [],
 		"dramaticdoors:tall_macaw_oak_glass_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -3190,7 +3181,6 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"chipped:alchemy_bench": [
-			"\u00a7eClass: \u00a77Carpenter \u00a7eRank: \u00a770",
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"mcwroofs:oak_planks_upper_steep_roof": [
@@ -3366,7 +3356,6 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"vinery:fermentation_barrel": [
-			"\u00a7eClass: \u00a77Cook \u00a7eRank: \u00a772",
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"dramaticdoors:tall_chipped_windowed_birch_door": [
@@ -3441,7 +3430,6 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"alloy_forgery:prismarine_bricks_forge_controller": [
-			"\u00a7eClass: \u00a77Blacksmith \u00a7eRank: \u00a774",
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"handcrafted:wither_skeleton_trophy": [
@@ -3450,9 +3438,7 @@
 		"twigs:gravel_bricks": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"dramaticdoors:tall_chipped_modern_warped_door": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
+		"dramaticdoors:tall_chipped_modern_warped_door": [],
 		"projectiles:gold_arrow": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
@@ -3632,9 +3618,10 @@
 		"magistuarmory:maximilian_leggings": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
-		"dramaticdoors:tall_macaw_jungle_waffle_door": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+		"betterfurnacesreforged:iron_furnace": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
+		"dramaticdoors:tall_macaw_jungle_waffle_door": [],
 		"mcwroofs:warped_attic_roof": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -3688,6 +3675,9 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_exposed_purple_copper_candelabra": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"immersive_melodies:flute": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"mcwdoors:acacia_swamp_door": [
@@ -3903,6 +3893,9 @@
 		"clutter:waxed_exposed_yellow_copper_wall_candle": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"elysium:t3_frost_robe_head": [
+			"\u00a7eCrafted by: \u00a77Alchemist",
+		],
 		"clutter:stripped_warped_bench": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -4055,9 +4048,7 @@
 		"mcwdoors:metal_warning_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"clutter:deepslate_tile_chimney": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
+		"clutter:deepslate_tile_chimney": [],
 		"mcwroofs:birch_upper_lower_roof": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -4139,9 +4130,7 @@
 		"clutter:magenta_copper_wall_candle": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"clutter:end_stone_brick_chimney": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
+		"clutter:end_stone_brick_chimney": [],
 		"clutter:blue_bunk_bed": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -4184,6 +4173,9 @@
 		"mcwlights:acacia_tiki_torch": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"onlyhammersandexcavators:gold_excavator": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
 		"candlelight:oak_drawer": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -4205,9 +4197,7 @@
 		"clutter:waxed_weathered_light_blue_copper_candelabra": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"clutter:polished_blackstone_brick_chimney": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
+		"clutter:polished_blackstone_brick_chimney": [],
 		"excessive_building:pink_terracotta_tile_slab": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -4241,9 +4231,7 @@
 		"dramaticdoors:tall_chipped_paneled_spruce_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"mcwroofs:roofing_hammer": [
-			"\u00a7eCrafted by: \u00a77Blacksmith",
-		],
+		"mcwroofs:roofing_hammer": [],
 		"dramaticdoors:tall_macaw_oak_cottage_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -4520,7 +4508,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"reinfchest:diamond_chest": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"luphieclutteredmod:blue_mushroom_tarrey_town_planter": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -4541,7 +4529,6 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"chipped:mason_table": [
-			"\u00a7eClass: \u00a77Carpenter \u00a7eRank: \u00a770",
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:brown_golden_candelabra": [
@@ -4715,9 +4702,7 @@
 		"excessive_building:mud_tile_stairs": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"dramaticdoors:tall_darkwood_door": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
+		"dramaticdoors:tall_darkwood_door": [],
 		"supplementaries:sign_post_mangrove": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -4819,9 +4804,7 @@
 		"handcrafted:blue_cushion": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"elysium:animal_bait": [
-			"\u00a7eCrafted by: \u00a77Alchemist",
-		],
+		"elysium:animal_bait": [],
 		"mcwtrpdoors:oak_beach_trapdoor": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -4906,6 +4889,9 @@
 		],
 		"clutter:yellow_bunk_bed": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"elysium:t3_arcane_robe_feet": [
+			"\u00a7eCrafted by: \u00a77Alchemist",
 		],
 		"mcwbridges:dark_oak_rope_bridge_stair": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -5356,7 +5342,6 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"minecraft:blast_furnace": [
-			"\u00a7eClass: \u00a77Blacksmith \u00a7eRank: \u00a770",
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"mcwdoors:oak_japanese2_door": [
@@ -5383,14 +5368,26 @@
 		"handcrafted:salmon_trophy": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"elysium:offer1": [
+			"\u00a7eCrafted by: \u00a77Alchemist",
+		],
+		"elysium:offer0": [
+			"\u00a7eCrafted by: \u00a77Alchemist",
+		],
 		"dramaticdoors:tall_macaw_crimson_stable_head_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"table_top_craft:magenta_concrete_connect_four": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"elysium:offer3": [
+			"\u00a7eCrafted by: \u00a77Alchemist",
+		],
 		"immersive_armors:wooden_leggings": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
+		"elysium:offer2": [
+			"\u00a7eCrafted by: \u00a77Alchemist",
 		],
 		"luphieclutteredmod:luphie_blank_paper_pile": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -5567,7 +5564,6 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"chipped:tinkering_table": [
-			"\u00a7eClass: \u00a77Carpenter \u00a7eRank: \u00a770",
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"elysium:ruby_legendary": [
@@ -5699,7 +5695,6 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"expandeddelight:juicer_item": [
-			"\u00a7eClass: \u00a77Cook \u00a7eRank: \u00a770",
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"mcwholidays:red_oak_leaves_carpet": [
@@ -5826,16 +5821,20 @@
 		"bakery:jar": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"immersive_melodies:trumpet": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
 		"magistuarmory:gold_buckler": [],
+		"elysium:t3_fire_robe_chest": [
+			"\u00a7eCrafted by: \u00a77Alchemist",
+		],
 		"luphieclutteredmod:luphie_baking_set_a": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"mcwroofs:light_gray_striped_awning": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"dramaticdoors:tall_chipped_modern_spruce_door": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
+		"dramaticdoors:tall_chipped_modern_spruce_door": [],
 		"uselessreptile:moleclaw_helmet_diamond": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
@@ -5921,7 +5920,6 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"minecraft:furnace": [
-			"\u00a7eClass: \u00a77Carpenter \u00a7eRank: \u00a770",
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"twigs:twisting_polished_blackstone_bricks": [
@@ -5937,7 +5935,6 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"minecraft:smithing_table": [
-			"\u00a7eClass: \u00a77Blacksmith \u00a7eRank: \u00a770",
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"dramaticdoors:tall_chipped_paneled_jungle_door": [
@@ -5952,9 +5949,7 @@
 		"mcwholidays:pair_of_potions": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"dramaticdoors:tall_macaw_bamboo_waffle_door": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
+		"dramaticdoors:tall_macaw_bamboo_waffle_door": [],
 		"supplementaries:lapis_bricks": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -6111,9 +6106,7 @@
 		"dramaticdoors:tall_chipped_heavy_warped_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"dramaticdoors:tall_chipped_modern_mangrove_door": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
+		"dramaticdoors:tall_chipped_modern_mangrove_door": [],
 		"magistuarmory:gold_ranseur": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
@@ -6259,9 +6252,7 @@
 		"dramaticdoors:tall_chipped_barred_dark_oak_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"dramaticdoors:tall_chipped_modern_birch_door": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
+		"dramaticdoors:tall_chipped_modern_birch_door": [],
 		"table_top_craft:gray_terracotta_chess_timer": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -6441,6 +6432,9 @@
 		"excessive_building:sandstone_brick_slab": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"elysium:t3_fire_robe_feet": [
+			"\u00a7eCrafted by: \u00a77Alchemist",
+		],
 		"magistuarmory:wood_bastardsword": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
@@ -6550,9 +6544,7 @@
 		"elysium:ruby_uncommon": [
 			"\u00a73Gemma della Forza",
 		],
-		"dramaticdoors:tall_chipped_screen_mangrove_door": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
+		"dramaticdoors:tall_chipped_screen_mangrove_door": [],
 		"mcwroofs:gutter_middle": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -6640,9 +6632,7 @@
 		"clutter:waxed_oxidized_blue_copper_chandelier": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"dramaticdoors:tall_minewood_door": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
+		"dramaticdoors:tall_minewood_door": [],
 		"twigs:silt_pot": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -6786,7 +6776,6 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"summoningrituals:altar": [
-			"\u00a7eClass: \u00a77Alchemist \u00a7eRank: \u00a770",
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"mcwtrpdoors:birch_mystic_trapdoor": [
@@ -6813,9 +6802,7 @@
 		"luphieclutteredmod:luphie_purple_black_cat_bookshelf": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"clutter:nether_brick_chimney": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
+		"clutter:nether_brick_chimney": [],
 		"clutter:waxed_weathered_copper_chandelier": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -7138,6 +7125,9 @@
 		"excessive_building:mossy_cobblestone_brick_wall": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"elysium:t3_prior_robe_feet": [
+			"\u00a7eCrafted by: \u00a77Alchemist",
+		],
 		"mcwdoors:bamboo_japanese2_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -7239,6 +7229,9 @@
 		],
 		"dramaticdoors:tall_macaw_acacia_barn_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"elysium:t3_arcane_robe_chest": [
+			"\u00a7eCrafted by: \u00a77Alchemist",
 		],
 		"dramaticdoors:tall_crimson_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -7454,9 +7447,7 @@
 		"luphieclutteredmod:luphie_yellow_pressure_plate": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"dramaticdoors:tall_chipped_modern_dark_oak_door": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
+		"dramaticdoors:tall_chipped_modern_dark_oak_door": [],
 		"elysium:patch_copper": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
@@ -7622,9 +7613,7 @@
 		"clutter:yellow_armchair": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"dramaticdoors:tall_macaw_warped_waffle_door": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
+		"dramaticdoors:tall_macaw_warped_waffle_door": [],
 		"mcwlights:light_gray_ceiling_light": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -7676,10 +7665,11 @@
 		"mcwholidays:cornered_cobweb": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"clutter:andesite_chimney": [
+		"clutter:andesite_chimney": [],
+		"excessive_building:dripstone_bricks": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"excessive_building:dripstone_bricks": [
+		"vinery:wine_bottle": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:raw_silver": [
@@ -7715,9 +7705,7 @@
 		"handcrafted:birch_shelf": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"dramaticdoors:tall_twilight_oak_door": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
+		"dramaticdoors:tall_twilight_oak_door": [],
 		"clutter:warped_bench": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -7924,7 +7912,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"reinfbarrel:iron_barrel": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"handcrafted:evoker_trophy": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -8142,6 +8130,9 @@
 		],
 		"clutter:black_silver_chandelier": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"betterfurnacesreforged:gold_furnace": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:brown_copper_chandelier": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -8395,7 +8386,6 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"minecraft:campfire": [
-			"\u00a7eClass: \u00a77Carpenter \u00a7eRank: \u00a770",
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"dramaticdoors:tall_chipped_dual_paneled_dark_oak_door": [
@@ -8727,9 +8717,7 @@
 		"dramaticdoors:tall_chipped_fortified_warped_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"xercapaint:item_palette": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
+		"xercapaint:item_palette": [],
 		"handcrafted:blackstone_corner_trim": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -8827,9 +8815,7 @@
 		"handcrafted:white_glazed_thin_pot": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"farmersdelight:kelp_roll": [
-			"\u00a7eCrafted by: \u00a77Cook",
-		],
+		"farmersdelight:kelp_roll": [],
 		"excessive_building:chiseled_birch": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -8965,9 +8951,7 @@
 		"excessive_building:andesite_vertical_stairs": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"dramaticdoors:tall_macaw_dark_oak_waffle_door": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
+		"dramaticdoors:tall_macaw_dark_oak_waffle_door": [],
 		"supplementaries:feather_block": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -9016,6 +9000,9 @@
 		"clutter:oak_wall_cupboard": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"betterfurnacesreforged:copper_furnace": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
 		"mcwroofs:green_striped_awning": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -9025,9 +9012,7 @@
 		"mcwbridges:acacia_log_bridge_stair": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"clutter:diorite_chimney": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
+		"clutter:diorite_chimney": [],
 		"mcwtrpdoors:bamboo_paper_trapdoor": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -9056,7 +9041,6 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"minecraft:anvil": [
-			"\u00a7eClass: \u00a77Blacksmith \u00a7eRank: \u00a770",
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"luphieclutteredmod:luphie_green_planks": [
@@ -9072,7 +9056,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"reinfchest:iron_chest": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"magistuarmory:silver_zweihander": [],
 		"mcwfences:birch_hedge": [
@@ -9232,7 +9216,6 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"runes:crafting_altar": [
-			"\u00a7eClass: \u00a77Alchemist \u00a7eRank: \u00a770",
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"dramaticdoors:tall_chipped_glass_jungle_door": [
@@ -9251,7 +9234,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"reinfbarrel:copper_barrel": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:waxed_oxidized_gray_copper_candelabra": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -9273,6 +9256,9 @@
 		],
 		"mcwpaths:dark_oak_planks_path": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"elysium:t3_arcane_robe_legs": [
+			"\u00a7eCrafted by: \u00a77Alchemist",
 		],
 		"supplementaries:byg/hanging_sign_baobab": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -9391,6 +9377,9 @@
 		"clutter:tall_purple_lamp": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"onlyhammersandexcavators:diamond_excavator": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
 		"clutter:pink_silver_candelabra": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -9443,9 +9432,7 @@
 		"bakery:tray": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"dramaticdoors:tall_stripped_bamboo_door": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
+		"dramaticdoors:tall_stripped_bamboo_door": [],
 		"magistuarmory:iron_katzbalger": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
@@ -9762,12 +9749,11 @@
 		"excessive_building:smooth_stone_brick_vertical_stairs": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"clutter:mud_brick_chimney": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
+		"clutter:mud_brick_chimney": [],
 		"luphieclutteredmod:luphie_purple_planks": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"betterfurnacesreforged:extreme_furnace": [],
 		"clutter:dark_oak_bench": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -9796,6 +9782,9 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:cyan_copper_wall_candle": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"eypipes:pipe": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"mcwholidays:green_present": [
@@ -9893,6 +9882,9 @@
 		],
 		"table_top_craft:orange_terracotta_connect_four": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"culturaldelights:calamari_roll": [
+			"\u00a7eCrafted by: \u00a77Cook",
 		],
 		"supplementaries:hanging_sign_dark_oak": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -10068,7 +10060,6 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"minecraft:stonecutter": [
-			"\u00a7eClass: \u00a77Carpenter \u00a7eRank: \u00a770",
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"dramaticdoors:tall_macaw_crimson_classic_door": [
@@ -10169,6 +10160,9 @@
 		],
 		"mcwdoors:print_acacia": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"elysium:t3_fire_robe_head": [
+			"\u00a7eCrafted by: \u00a77Alchemist",
 		],
 		"culturaldelights:midori_roll": [
 			"\u00a7eCrafted by: \u00a77Cook",
@@ -10278,6 +10272,9 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"spellbladenext:chainmail_feet": [],
+		"betterfurnacesreforged:diamond_furnace": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
 		"clutter:jungle_cupboard": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -10322,9 +10319,7 @@
 		"clutter:silver_button": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"dramaticdoors:tall_macaw_oak_waffle_door": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
+		"dramaticdoors:tall_macaw_oak_waffle_door": [],
 		"luphieclutteredmod:luphie_purple_plank_set_stairs": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -10628,9 +10623,7 @@
 		"minecraft:map": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"dramaticdoors:tall_chipped_modern_acacia_door": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
+		"dramaticdoors:tall_chipped_modern_acacia_door": [],
 		"excessive_building:polished_diorite_brick_slab": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -10903,6 +10896,9 @@
 		"mcwholidays:green_cube_string_lights": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"elysium:t3_prior_robe_head": [
+			"\u00a7eCrafted by: \u00a77Alchemist",
+		],
 		"elysium:topaz_common": [
 			"\u00a73Gemma del Potere Magico",
 		],
@@ -11049,6 +11045,9 @@
 		],
 		"mcwwindows:dark_oak_pane_window": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"elysium:t3_prior_robe_chest": [
+			"\u00a7eCrafted by: \u00a77Alchemist",
 		],
 		"excessive_building:mossy_cobblestone_bricks": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -11203,6 +11202,7 @@
 		"clutter:waxed_weathered_copper_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"minecraft:air": [],
 		"clutter:waxed_exposed_blue_copper_candelabra": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -11394,7 +11394,13 @@
 		"excessive_building:dark_oak_mosaic_stairs": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"immersive_melodies:bagpipe": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
 		"clutter:gray_golden_wall_candle": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"bakery:baker_station": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"excessive_building:iron_brick_slab": [
@@ -11550,6 +11556,9 @@
 		],
 		"mcwwindows:warped_pane_window": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"elysium:t3_frost_robe_chest": [
+			"\u00a7eCrafted by: \u00a77Alchemist",
 		],
 		"luphieclutteredmod:luphie_yellow_slab": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -11707,7 +11716,6 @@
 		],
 		"spellbladenext:deathchill_head": [],
 		"alloy_forgery:deepslate_bricks_forge_controller": [
-			"\u00a7eClass: \u00a77Blacksmith \u00a7eRank: \u00a773",
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"luphieclutteredmod:luphie_sunflower_garland": [
@@ -11729,7 +11737,6 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"chipped:glassblower": [
-			"\u00a7eClass: \u00a77Carpenter \u00a7eRank: \u00a770",
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"mcwdoors:dark_oak_modern_door": [
@@ -11748,7 +11755,6 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"brewinandchewin:keg": [
-			"\u00a7eClass: \u00a77Cook \u00a7eRank: \u00a771",
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"handcrafted:jungle_pillar_trim": [
@@ -11891,6 +11897,9 @@
 		"mcwroofs:dark_oak_steep_roof": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"immersive_melodies:piano": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
 		"mcwholidays:purple_decorated_christmas_tree_bottom": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -11963,9 +11972,7 @@
 		"mcwtrpdoors:dark_oak_beach_trapdoor": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"minecraft:composter": [
-			"\u00a7eClass: \u00a77Farmer \u00a7eRank: \u00a770",
-		],
+		"minecraft:composter": [],
 		"mcwwindows:acacia_plank_four_window": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -12006,8 +12013,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"candlelight:cooking_pan": [
-			"\u00a7eClass: \u00a77Cook \u00a7eRank: \u00a773",
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwwindows:stripped_spruce_pane_window": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -12090,6 +12096,9 @@
 		"clutter:lime_armchair": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"elysium:t3_frost_robe_legs": [
+			"\u00a7eCrafted by: \u00a77Alchemist",
+		],
 		"excessive_building:warped_mossy_blackstone_brick_stairs": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -12155,12 +12164,9 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"bakery:brick_stove": [
-			"\u00a7eClass: \u00a77Cook \u00a7eRank: \u00a772",
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"dramaticdoors:tall_macaw_birch_waffle_door": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
+		"dramaticdoors:tall_macaw_birch_waffle_door": [],
 		"luphieclutteredmod:luphie_orange_armchair": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -12272,6 +12278,9 @@
 		"mcwwindows:acacia_plank_window": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"onlyhammersandexcavators:gold_hammer": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
 		"woof:magenta_dog_bed": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -12291,7 +12300,6 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"minecraft:smoker": [
-			"\u00a7eClass: \u00a77Cook \u00a7eRank: \u00a770",
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"supplementaries:flax_block": [
@@ -12301,7 +12309,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"reinfbarrel:gold_barrel": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:stripped_acacia_table": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -12522,6 +12530,9 @@
 		"dramaticdoors:tall_oak_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"immersive_melodies:lute": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
 		"magistuarmory:diamond_heatershield": [],
 		"clutter:waxed_exposed_gray_copper_wall_candle": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -12529,9 +12540,7 @@
 		"mcwholidays:carved_shocked_pumpkin": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"dramaticdoors:tall_chipped_shack_mangrove_door": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
+		"dramaticdoors:tall_chipped_shack_mangrove_door": [],
 		"supplementaries:byg/sign_post_fir": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -12590,7 +12599,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"reinfbarrel:diamond_barrel": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"luphieclutteredmod:luphie_retro_cafe_shelf": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -12604,9 +12613,7 @@
 		"clutter:light_gray_iron_wall_candle": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"supplementaries:cog_block": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
+		"supplementaries:cog_block": [],
 		"clutter:light_gray_armchair": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -12685,7 +12692,6 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"alloy_forgery:stone_bricks_forge_controller": [
-			"\u00a7eClass: \u00a77Blacksmith \u00a7eRank: \u00a771",
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"uselessreptile:dragon_tail_armor_iron": [
@@ -12805,9 +12811,7 @@
 		"table_top_craft:light_gray_concrete_connect_four": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"culturaldelights:chicken_roll": [
-			"\u00a7eCrafted by: \u00a77Cook",
-		],
+		"culturaldelights:chicken_roll": [],
 		"mcwlights:classic_street_lamp": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -12970,7 +12974,6 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"farmersdelight:cutting_board": [
-			"\u00a7eClass: \u00a77Cook \u00a7eRank: \u00a770",
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"bakery:cabinet": [
@@ -12992,9 +12995,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"magistuarmory:steel_heatershield": [],
-		"dramaticdoors:tall_macaw_crimson_waffle_door": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
+		"dramaticdoors:tall_macaw_crimson_waffle_door": [],
 		"mcwroofs:jungle_top_roof": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -13023,8 +13024,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"candlelight:cooking_pot": [
-			"\u00a7eClass: \u00a77Cook \u00a7eRank: \u00a773",
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwholidays:blue_candy_cane_slab": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -13035,9 +13035,7 @@
 		"table_top_craft:pink_terracotta_chess": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"dramaticdoors:tall_timewood_door": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
+		"dramaticdoors:tall_timewood_door": [],
 		"dramaticdoors:tall_chipped_tiled_crimson_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -13059,9 +13057,7 @@
 		"twigs:twisting_polished_blackstone_brick_wall": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"dramaticdoors:tall_macaw_mangrove_waffle_door": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
+		"dramaticdoors:tall_macaw_mangrove_waffle_door": [],
 		"mcwlights:white_paper_lamp": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -13241,7 +13237,6 @@
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"alloy_forgery:end_stone_bricks_forge_controller": [
-			"\u00a7eClass: \u00a77Blacksmith \u00a7eRank: \u00a775",
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"dramaticdoors:tall_chipped_gated_oak_door": [
@@ -13353,9 +13348,7 @@
 		"clutter:birch_wall_cupboard": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"clutter:deepslate_brick_chimney": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
+		"clutter:deepslate_brick_chimney": [],
 		"supplementaries:ash_bricks_wall": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -13369,9 +13362,7 @@
 		"candlelight:cobblestone_counter": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"clutter:cobblestone_chimney": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
+		"clutter:cobblestone_chimney": [],
 		"mcwlights:red_ceiling_light": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -13529,12 +13520,8 @@
 		"clutter:silver_trapdoor": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"smallships:cannon_ball": [
-			"\u00a7eCrafted by: \u00a77Blacksmith",
-		],
-		"elysium:fish_bait": [
-			"\u00a7eCrafted by: \u00a77Alchemist",
-		],
+		"smallships:cannon_ball": [],
+		"elysium:fish_bait": [],
 		"mcwholidays:sock_doormat": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -13577,9 +13564,7 @@
 		"mcwholidays:blue_candy_cane_stairs": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"clutter:brick_chimney": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
+		"clutter:brick_chimney": [],
 		"mcwholidays:standing_broomstick": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -13739,6 +13724,9 @@
 		"mcwbridges:mangrove_log_bridge_middle": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"onlyhammersandexcavators:diamond_hammer": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
 		"mcwholidays:carved_smile_pumpkin": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -13797,7 +13785,6 @@
 			"\u00a7eCrafted by: \u00a77Alchemist",
 		],
 		"vinery:grapevine_pot": [
-			"\u00a7eClass: \u00a77Cook \u00a7eRank: \u00a772",
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"dramaticdoors:tall_macaw_warped_japanese_door": [
@@ -14254,7 +14241,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"reinfchest:gold_chest": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:pink_silver_wall_candle": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -14298,9 +14285,7 @@
 		"clutter:magenta_copper_chandelier": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"clutter:mossy_stone_brick_chimney": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
+		"clutter:mossy_stone_brick_chimney": [],
 		"dramaticdoors:tall_spruce_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -14323,7 +14308,6 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"chipped:carpenters_table": [
-			"\u00a7eClass: \u00a77Carpenter \u00a7eRank: \u00a770",
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:green_copper_wall_candle": [
@@ -14391,9 +14375,7 @@
 		"clutter:red_bunk_bed": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"dramaticdoors:tall_transwood_door": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
+		"dramaticdoors:tall_transwood_door": [],
 		"mcwdoors:dark_oak_glass_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -14431,7 +14413,6 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"chipped:loom_table": [
-			"\u00a7eClass: \u00a77Carpenter \u00a7eRank: \u00a770",
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"luphieclutteredmod:luphie_ancient_codex": [
@@ -14644,9 +14625,7 @@
 		"mcwholidays:pile_of_oak_wood": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"farmersdelight:egg_sandwich": [
-			"\u00a7eCrafted by: \u00a77Cook",
-		],
+		"farmersdelight:egg_sandwich": [],
 		"clutter:waxed_oxidized_magenta_copper_wall_candle": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
