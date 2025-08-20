@@ -2538,6 +2538,22 @@
 				],
 			},
 		},
+		"mcdw:hammer_stormlander": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3.0",
+					"0",
+				],
+				"generic.attack_damage": [
+					"-1.0",
+					"0",
+				],
+				"generic.durability": [
+					"1000",
+					"0",
+				],
+			},
+		}
 		"minecraft:diamond_sword": {
 			modifiers: {
 				"generic.attack_speed": [
