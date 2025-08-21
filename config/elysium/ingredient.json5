@@ -1009,7 +1009,18 @@
 		"elysium:copper_excavator": "elysium:cote_copper",
 		"elysium:copper_hammer": "elysium:cote_copper",
 		"elysium:tin_excavator": "elysium:cote_tin",
-		"elysium:tin_hammer": "elysium:cote_tin"
+		"elysium:tin_hammer": "elysium:cote_tin",
+		"magistuarmoryaddon:darkblued_knight_chestplate": "elysium:patch_silver",
+        "magistuarmoryaddon:darkblued_maximilian_boots": "elysium:patch_silver",
+        "magistuarmoryaddon:darkblued_knight_boots": "elysium:patch_silver",
+        "magistuarmoryaddon:darkblued_greenwich_armet": "elysium:patch_silver",
+        "magistuarmoryaddon:darkblued_gothic_boots": "elysium:patch_silver",
+        "magistuarmoryaddon:darkblued_maximilian_leggings": "elysium:patch_silver",
+        "magistuarmoryaddon:darkblued_maximilian_helmet": "elysium:patch_silver",
+        "magistuarmoryaddon:darkblued_gothic_chestplate": "elysium:patch_silver",
+        "magistuarmoryaddon:darkblued_gothic_leggings": "elysium:patch_silver",
+        "magistuarmoryaddon:darkblued_knight_leggings": "elysium:patch_silver",
+        "magistuarmoryaddon:darkblued_maximilian_chestplate": "elysium:patch_silver"
 
 	},
 }
