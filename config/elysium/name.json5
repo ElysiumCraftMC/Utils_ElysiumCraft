@@ -84,6 +84,11 @@
 		"elysium:t5_frost_robe_head": "Superior Frost Robe Head",
 		"elysium:t5_frost_robe_feet": "Superior Frost Robe Feet",
 		"elysium:t5_frost_robe_chest": "Superior Frost Robe Chest",
-		"elysium:t5_frost_robe_legs": "Superior Frost Robe Legs"
+		"elysium:t5_frost_robe_legs": "Superior Frost Robe Legs",
+		"elysium:iron_scroll": "Attestato Nobiliare: Signore",
+		"elysium:gold_scroll": "Attestato Nobiliare: Visconte",
+		"elysium:diamond_scroll": "Attestato Nobiliare: Conte",
+		"elysium:emerald_scroll": "Attestato Nobiliare: Arconte"
+
 	},
 }
