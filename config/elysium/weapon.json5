@@ -142,18 +142,14 @@
 				],
 			},
 		},
-		"magistuarmory:gold_shortsword": {
+		"mythicmobs:kobold_spear": { 
 			modifiers: {
 				"generic.attack_speed": [
-					"-2.3",
-					"0",
-				],
-				"generic.piercing": [
-					"25",
+					"-4.0",
 					"0",
 				],
 				"generic.attack_damage": [
-					"5.91",
+					"0.01",
 					"0",
 				],
 			},
@@ -2553,7 +2549,7 @@
 					"0",
 				],
 			},
-		}
+		},
 		"minecraft:diamond_sword": {
 			modifiers: {
 				"generic.attack_speed": [
