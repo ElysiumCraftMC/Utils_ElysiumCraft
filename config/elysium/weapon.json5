@@ -56,7 +56,7 @@
 					"0",
 				],
 				"generic.durability": [
-					"2880",
+							"3940",		
 					"0",
 				],
 			},
@@ -72,7 +72,7 @@
 					"0",
 				],
 				"generic.durability": [
-					"2880",
+							"3940",		
 					"0",
 				],
 			},
@@ -1788,8 +1788,8 @@
 					"-2",
 					"0",
 				],
-				"generic.durability": [
-					"5680",
+								"generic.durability": [
+					"7680",		
 					"0",
 				],
 			},
@@ -2868,8 +2868,8 @@
 					"-2",
 					"0",
 				],
-				"generic.durability": [
-					"5680",
+								"generic.durability": [
+					"7680",		
 					"0",
 				],
 			},
