@@ -1628,6 +1628,10 @@
 					"-0.9",
 					"0",
 				],
+				"generic.durability": [
+					"940",
+					"0"
+				]
 			},
 		},
 		"elysium:staff_fire_t2": {
@@ -2722,6 +2726,22 @@
 				],
 				"generic.durability": [
 					"2160",
+					"0",
+				],
+			},
+		},
+		"spellbladenext:orb_fire": {
+			modifiers: {
+				"spell_power:fire": [
+					"20.0",
+					"0",
+				],
+			},
+		},
+		"spellbladenext:orb_arcane": {
+			modifiers: {
+				"spell_power:arcane": [
+					"20.0",
 					"0",
 				],
 			},

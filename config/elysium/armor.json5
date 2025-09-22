@@ -1,38 +1,373 @@
 {
-	// Enable the registration of the items with the values modified
-	enable: true,
-	/* An object of `<id_armor> - <>` pairs, used to change the modifiers of armor.
-	   Example:
-	   "minecraft:iron_chestplate": {   // id of item
-	   			modifiers: {
-	   				"generic.armor": [  // id of attribute
-	   					"6",			// value
-	   					"0",			// OPERATION  0 -> Addition, 1 -> Multiply base, 2 -> Multiply total
-	   				],
-	   			},
-	   		},
-	*/
 	armor: {
-		"minecraft:iron_leggings": {
+		"candlelight:cooking_hat": {
 			modifiers: {
 				"generic.armor": [
-					"4",
+					"0",
 					"0",
 				],
 				"generic.durability": [
-					"480",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"1",
+					"120",
 					"0",
 				],
 			},
 		},
-		"magistuarmoryaddon:landsknecht_lime_hat_decoration": {
+		"elysium:bandana": {
 			modifiers: {
 				"generic.armor": [
 					"0",
+					"0",
+				],
+				"generic.durability": [
+					"60",
+					"0",
+				],
+			},
+		},
+		"elysium:cappello": {
+			modifiers: {
+				"generic.armor": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"60",
+					"0",
+				],
+			},
+		},
+		"elysium:maglia_acqua_corta": {
+			modifiers: {
+				"generic.armor": [
+					"1",
+					"0",
+				],
+				"generic.durability": [
+					"60",
+					"0",
+				],
+			},
+		},
+		"elysium:maglia_acqua_corta_alt": {
+			modifiers: {
+				"generic.armor": [
+					"1",
+					"0",
+				],
+				"generic.durability": [
+					"60",
+					"0",
+				],
+			},
+		},
+		"elysium:maglia_acqua_lunga": {
+			modifiers: {
+				"generic.armor": [
+					"1",
+					"0",
+				],
+				"generic.durability": [
+					"60",
+					"0",
+				],
+			},
+		},
+		"elysium:maglia_acqua_lunga_alt": {
+			modifiers: {
+				"generic.armor": [
+					"1",
+					"0",
+				],
+				"generic.durability": [
+					"60",
+					"0",
+				],
+			},
+		},
+		"elysium:maglia_blu_corta": {
+			modifiers: {
+				"generic.armor": [
+					"1",
+					"0",
+				],
+				"generic.durability": [
+					"60",
+					"0",
+				],
+			},
+		},
+		"elysium:maglia_blu_corta_alt": {
+			modifiers: {
+				"generic.armor": [
+					"1",
+					"0",
+				],
+				"generic.durability": [
+					"60",
+					"0",
+				],
+			},
+		},
+		"elysium:maglia_blu_lunga": {
+			modifiers: {
+				"generic.armor": [
+					"1",
+					"0",
+				],
+				"generic.durability": [
+					"60",
+					"0",
+				],
+			},
+		},
+		"elysium:maglia_blu_lunga_alt": {
+			modifiers: {
+				"generic.armor": [
+					"1",
+					"0",
+				],
+				"generic.durability": [
+					"60",
+					"0",
+				],
+			},
+		},
+		"elysium:maglia_corta": {
+			modifiers: {
+				"generic.armor": [
+					"1",
+					"0",
+				],
+				"generic.durability": [
+					"60",
+					"0",
+				],
+			},
+		},
+		"elysium:maglia_lunga": {
+			modifiers: {
+				"generic.armor": [
+					"1",
+					"0",
+				],
+				"generic.durability": [
+					"60",
+					"0",
+				],
+			},
+		},
+		"elysium:maglia_marrone_corta": {
+			modifiers: {
+				"generic.armor": [
+					"1",
+					"0",
+				],
+				"generic.durability": [
+					"60",
+					"0",
+				],
+			},
+		},
+		"elysium:maglia_marrone_corta_alt": {
+			modifiers: {
+				"generic.armor": [
+					"1",
+					"0",
+				],
+				"generic.durability": [
+					"60",
+					"0",
+				],
+			},
+		},
+		"elysium:maglia_marrone_lunga": {
+			modifiers: {
+				"generic.armor": [
+					"1",
+					"0",
+				],
+				"generic.durability": [
+					"60",
+					"0",
+				],
+			},
+		},
+		"elysium:maglia_marrone_lunga_alt": {
+			modifiers: {
+				"generic.armor": [
+					"1",
+					"0",
+				],
+				"generic.durability": [
+					"60",
+					"0",
+				],
+			},
+		},
+		"elysium:maglia_rossa_corta": {
+			modifiers: {
+				"generic.armor": [
+					"1",
+					"0",
+				],
+				"generic.durability": [
+					"60",
+					"0",
+				],
+			},
+		},
+		"elysium:maglia_rossa_corta_alt": {
+			modifiers: {
+				"generic.armor": [
+					"1",
+					"0",
+				],
+				"generic.durability": [
+					"60",
+					"0",
+				],
+			},
+		},
+		"elysium:maglia_rossa_lunga": {
+			modifiers: {
+				"generic.armor": [
+					"1",
+					"0",
+				],
+				"generic.durability": [
+					"60",
+					"0",
+				],
+			},
+		},
+		"elysium:maglia_rossa_lunga_alt": {
+			modifiers: {
+				"generic.armor": [
+					"1",
+					"0",
+				],
+				"generic.durability": [
+					"60",
+					"0",
+				],
+			},
+		},
+		"elysium:maglia_verde_corta": {
+			modifiers: {
+				"generic.armor": [
+					"1",
+					"0",
+				],
+				"generic.durability": [
+					"60",
+					"0",
+				],
+			},
+		},
+		"elysium:maglia_verde_corta_alt": {
+			modifiers: {
+				"generic.armor": [
+					"1",
+					"0",
+				],
+				"generic.durability": [
+					"60",
+					"0",
+				],
+			},
+		},
+		"elysium:maglia_verde_lunga": {
+			modifiers: {
+				"generic.armor": [
+					"1",
+					"0",
+				],
+				"generic.durability": [
+					"60",
+					"0",
+				],
+			},
+		},
+		"elysium:maglia_verde_lunga_alt": {
+			modifiers: {
+				"generic.armor": [
+					"1",
+					"0",
+				],
+				"generic.durability": [
+					"60",
+					"0",
+				],
+			},
+		},
+		"elysium:maglia_viola_corta": {
+			modifiers: {
+				"generic.armor": [
+					"1",
+					"0",
+				],
+				"generic.durability": [
+					"60",
+					"0",
+				],
+			},
+		},
+		"elysium:maglia_viola_corta_alt": {
+			modifiers: {
+				"generic.armor": [
+					"1",
+					"0",
+				],
+				"generic.durability": [
+					"60",
+					"0",
+				],
+			},
+		},
+		"elysium:maglia_viola_lunga": {
+			modifiers: {
+				"generic.armor": [
+					"1",
+					"0",
+				],
+				"generic.durability": [
+					"60",
+					"0",
+				],
+			},
+		},
+		"elysium:maglia_viola_lunga_alt": {
+			modifiers: {
+				"generic.armor": [
+					"1",
+					"0",
+				],
+				"generic.durability": [
+					"60",
+					"0",
+				],
+			},
+		},
+		"elysium:pantalone": {
+			modifiers: {
+				"generic.armor": [
+					"1",
+					"0",
+				],
+				"generic.durability": [
+					"60",
+					"0",
+				],
+			},
+		},
+		"elysium:pantalone_acqua": {
+			modifiers: {
+				"generic.armor": [
+					"1",
+					"0",
+				],
+				"generic.durability": [
+					"60",
 					"0",
 				],
 			},
@@ -49,34 +384,338 @@
 				],
 			},
 		},
-		"elysium:t4_arcane_robe_chest": {
+		"elysium:pantalone_marrone": {
 			modifiers: {
 				"generic.armor": [
-					"3",
+					"1",
 					"0",
 				],
 				"generic.durability": [
-					"1920",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"2",
+					"60",
 					"0",
 				],
 			},
 		},
-		"elysium:t3_frost_robe_feet": {
+		"elysium:pantalone_rosso": {
+			modifiers: {
+				"generic.armor": [
+					"1",
+					"0",
+				],
+				"generic.durability": [
+					"60",
+					"0",
+				],
+			},
+		},
+		"elysium:pantalone_verde": {
+			modifiers: {
+				"generic.armor": [
+					"1",
+					"0",
+				],
+				"generic.durability": [
+					"60",
+					"0",
+				],
+			},
+		},
+		"elysium:pantalone_viola": {
+			modifiers: {
+				"generic.armor": [
+					"1",
+					"0",
+				],
+				"generic.durability": [
+					"60",
+					"0",
+				],
+			},
+		},
+		"elysium:stivali": {
+			modifiers: {
+				"generic.armor": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"60",
+					"0",
+				],
+			},
+		},
+		"elysium:stracci": {
+			modifiers: {
+				"generic.armor": [
+					"1",
+					"0",
+				],
+				"generic.durability": [
+					"60",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:coif": {
+			modifiers: {
+				"generic.armor": [
+					"1",
+					"0",
+				],
+				"generic.durability": [
+					"120",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:gambeson_boots": {
+			modifiers: {
+				"generic.armor": [
+					"1",
+					"0",
+				],
+				"generic.durability": [
+					"120",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:gambeson_chestplate": {
+			modifiers: {
+				"generic.armor": [
+					"2",
+					"0",
+				],
+				"generic.durability": [
+					"120",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:pantyhose": {
+			modifiers: {
+				"generic.armor": [
+					"2",
+					"0",
+				],
+				"generic.durability": [
+					"120",
+					"0",
+				],
+			},
+		},
+		"magistuarmoryaddon:tunic": {
+			modifiers: {
+				"generic.armor": [
+					"1",
+					"0",
+				],
+				"generic.durability": [
+					"60",
+					"0",
+				],
+			},
+		},
+		"magistuarmoryaddon:tunic_boots": {
+			modifiers: {
+				"generic.armor": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"60",
+					"0",
+				],
+			},
+		},
+		"paladins:priest_robe_chest": {
+			modifiers: {
+				"generic.armor": [
+					"1",
+					"0",
+				],
+				"generic.durability": [
+					"120",
+					"0",
+				],
+			},
+		},
+		"paladins:priest_robe_feet": {
+			modifiers: {
+				"generic.armor": [
+					"1",
+					"0",
+				],
+				"generic.durability": [
+					"120",
+					"0",
+				],
+			},
+		},
+		"paladins:priest_robe_head": {
+			modifiers: {
+				"generic.armor": [
+					"1",
+					"0",
+				],
+				"generic.durability": [
+					"120",
+					"0",
+				],
+			},
+		},
+		"paladins:priest_robe_legs": {
+			modifiers: {
+				"generic.armor": [
+					"1",
+					"0",
+				],
+				"generic.durability": [
+					"120",
+					"0",
+				],
+			},
+		},
+		"immersive_armors:robe_boots": {
+			modifiers: {
+				"generic.armor": [
+					"1",
+					"0",
+				],
+				"generic.durability": [
+					"240",
+					"0",
+				],
+			},
+		},
+		"immersive_armors:robe_chestplate": {
+			modifiers: {
+				"generic.armor": [
+					"2",
+					"0",
+				],
+				"generic.durability": [
+					"240",
+					"0",
+				],
+			},
+		},
+		"immersive_armors:robe_helmet": {
+			modifiers: {
+				"generic.armor": [
+					"1",
+					"0",
+				],
+				"generic.durability": [
+					"240",
+					"0",
+				],
+			},
+		},
+		"immersive_armors:robe_leggings": {
+			modifiers: {
+				"generic.armor": [
+					"2",
+					"0",
+				],
+				"generic.durability": [
+					"240",
+					"0",
+				],
+			},
+		},
+		"immersive_armors:wooden_boots": {
+			modifiers: {
+				"generic.armor": [
+					"2",
+					"0",
+				],
+				"generic.durability": [
+					"240",
+					"0",
+				],
+			},
+		},
+		"immersive_armors:wooden_chestplate": {
 			modifiers: {
 				"generic.armor": [
 					"3",
 					"0",
 				],
 				"generic.durability": [
-					"960",
+					"240",
 					"0",
 				],
-				"generic.armor_toughness": [
-					"1",
+			},
+		},
+		"immersive_armors:wooden_helmet": {
+			modifiers: {
+				"generic.armor": [
+					"2",
+					"0",
+				],
+				"generic.durability": [
+					"240",
+					"0",
+				],
+			},
+		},
+		"immersive_armors:wooden_leggings": {
+			modifiers: {
+				"generic.armor": [
+					"3",
+					"0",
+				],
+				"generic.durability": [
+					"240",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:brigandine_chestplate": {
+			modifiers: {
+				"generic.armor": [
+					"3",
+					"0",
+				],
+				"generic.durability": [
+					"240",
+					"0",
+				],
+			},
+		},
+		"magistuarmoryaddon:chained_gambeson": {
+			modifiers: {
+				"generic.armor": [
+					"3",
+					"0",
+				],
+				"generic.durability": [
+					"240",
+					"0",
+				],
+			},
+		},
+		"magistuarmoryaddon:chained_gambeson_boots": {
+			modifiers: {
+				"generic.armor": [
+					"2",
+					"0",
+				],
+				"generic.durability": [
+					"240",
+					"0",
+				],
+			},
+		},
+		"magistuarmoryaddon:chapel": {
+			modifiers: {
+				"generic.armor": [
+					"2",
+					"0",
+				],
+				"generic.durability": [
+					"240",
 					"0",
 				],
 			},
@@ -89,6 +728,310 @@
 				],
 				"generic.durability": [
 					"240",
+					"0",
+				],
+			},
+		},
+		"magistuarmoryaddon:coat_of_plates_chestplate": {
+			modifiers: {
+				"generic.armor": [
+					"3",
+					"0",
+				],
+				"generic.durability": [
+					"240",
+					"0",
+				],
+			},
+		},
+		"magistuarmoryaddon:gallowglass_leggings": {
+			modifiers: {
+				"generic.armor": [
+					"3",
+					"0",
+				],
+				"generic.durability": [
+					"240",
+					"0",
+				],
+			},
+		},
+		"magistuarmoryaddon:heavy_brigandine_chestplate": {
+			modifiers: {
+				"generic.armor": [
+					"3",
+					"0",
+				],
+				"generic.durability": [
+					"240",
+					"0",
+				],
+			},
+		},
+		"magistuarmoryaddon:heavy_brigandine_leggings": {
+			modifiers: {
+				"generic.armor": [
+					"3",
+					"0",
+				],
+				"generic.durability": [
+					"240",
+					"0",
+				],
+			},
+		},
+		"magistuarmoryaddon:linen_coif": {
+			modifiers: {
+				"generic.armor": [
+					"2",
+					"0",
+				],
+				"generic.durability": [
+					"240",
+					"0",
+				],
+			},
+		},
+		"minecraft:leather_boots": {
+			modifiers: {
+				"generic.armor": [
+					"1",
+					"0",
+				],
+				"generic.durability": [
+					"240",
+					"0",
+				],
+			},
+		},
+		"minecraft:leather_chestplate": {
+			modifiers: {
+				"generic.armor": [
+					"2",
+					"0",
+				],
+				"generic.durability": [
+					"240",
+					"0",
+				],
+			},
+		},
+		"minecraft:leather_helmet": {
+			modifiers: {
+				"generic.armor": [
+					"1",
+					"0",
+				],
+				"generic.durability": [
+					"240",
+					"0",
+				],
+			},
+		},
+		"minecraft:leather_leggings": {
+			modifiers: {
+				"generic.armor": [
+					"2",
+					"0",
+				],
+				"generic.durability": [
+					"240",
+					"0",
+				],
+			},
+		},
+		"wizards:wizard_robe_chest": {
+			modifiers: {
+				"generic.armor": [
+					"2",
+					"0",
+				],
+				"generic.durability": [
+					"240",
+					"0",
+				],
+			},
+		},
+		"wizards:wizard_robe_feet": {
+			modifiers: {
+				"generic.armor": [
+					"2",
+					"0",
+				],
+				"generic.durability": [
+					"240",
+					"0",
+				],
+			},
+		},
+		"wizards:wizard_robe_head": {
+			modifiers: {
+				"generic.armor": [
+					"2",
+					"0",
+				],
+				"generic.durability": [
+					"240",
+					"0",
+				],
+			},
+		},
+		"wizards:wizard_robe_legs": {
+			modifiers: {
+				"generic.armor": [
+					"2",
+					"0",
+				],
+				"generic.durability": [
+					"240",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:chainmail_boots": {
+			modifiers: {
+				"generic.armor": [
+					"3",
+					"0",
+				],
+				"generic.durability": [
+					"480",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:chainmail_chestplate": {
+			modifiers: {
+				"generic.armor": [
+					"4",
+					"0",
+				],
+				"generic.durability": [
+					"480",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:chainmail_helmet": {
+			modifiers: {
+				"generic.armor": [
+					"3",
+					"0",
+				],
+				"generic.durability": [
+					"480",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:chainmail_leggings": {
+			modifiers: {
+				"generic.armor": [
+					"4",
+					"0",
+				],
+				"generic.durability": [
+					"480",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:cuirassier_boots": {
+			modifiers: {
+				"generic.armor": [
+					"3",
+					"0",
+				],
+				"generic.durability": [
+					"480",
+					"0",
+				],
+				"generic.armor_toughness": [
+					"1",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:cuirassier_chestplate": {
+			modifiers: {
+				"generic.armor": [
+					"4",
+					"0",
+				],
+				"generic.durability": [
+					"480",
+					"0",
+				],
+				"generic.armor_toughness": [
+					"1",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:cuirassier_helmet": {
+			modifiers: {
+				"generic.armor": [
+					"3",
+					"0",
+				],
+				"generic.durability": [
+					"480",
+					"0",
+				],
+				"generic.armor_toughness": [
+					"1",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:cuirassier_leggings": {
+			modifiers: {
+				"generic.armor": [
+					"4",
+					"0",
+				],
+				"generic.durability": [
+					"480",
+					"0",
+				],
+				"generic.armor_toughness": [
+					"1",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:lamellar_chestplate": {
+			modifiers: {
+				"generic.armor": [
+					"4",
+					"0",
+				],
+				"generic.durability": [
+					"480",
+					"0",
+				],
+			},
+		},
+		"minecraft:chainmail_boots": {
+			modifiers: {
+				"generic.armor": [
+					"3",
+					"0",
+				],
+				"generic.durability": [
+					"480",
+					"0",
+				],
+			},
+		},
+		"minecraft:chainmail_chestplate": {
+			modifiers: {
+				"generic.armor": [
+					"4",
+					"0",
+				],
+				"generic.durability": [
+					"480",
 					"0",
 				],
 			},
@@ -117,26 +1060,266 @@
 				],
 			},
 		},
-		"paladins:priest_robe_feet": {
+		"minecraft:iron_boots": {
 			modifiers: {
 				"generic.armor": [
-					"1",
+					"3",
 					"0",
 				],
 				"generic.durability": [
-					"120",
+					"480",
+					"0",
+				],
+				"generic.armor_toughness": [
+					"1",
 					"0",
 				],
 			},
 		},
-		"magistuarmory:knight_boots": {
+		"minecraft:iron_chestplate": {
 			modifiers: {
-				"generic.max_health": [
+				"generic.armor": [
+					"4",
+					"0",
+				],
+				"generic.durability": [
+					"480",
+					"0",
+				],
+				"generic.armor_toughness": [
 					"1",
 					"0",
 				],
+			},
+		},
+		"minecraft:iron_helmet": {
+			modifiers: {
+				"generic.armor": [
+					"3",
+					"0",
+				],
+				"generic.durability": [
+					"480",
+					"0",
+				],
+				"generic.armor_toughness": [
+					"1",
+					"0",
+				],
+			},
+		},
+		"minecraft:iron_leggings": {
+			modifiers: {
 				"generic.armor": [
 					"4",
+					"0",
+				],
+				"generic.durability": [
+					"480",
+					"0",
+				],
+				"generic.armor_toughness": [
+					"1",
+					"0",
+				],
+			},
+		},
+		"paladins:prior_robe_chest": {
+			modifiers: {
+				"generic.armor": [
+					"3",
+					"0",
+				],
+				"generic.durability": [
+					"480",
+					"0",
+				],
+			},
+		},
+		"paladins:prior_robe_feet": {
+			modifiers: {
+				"generic.armor": [
+					"3",
+					"0",
+				],
+				"generic.durability": [
+					"480",
+					"0",
+				],
+			},
+		},
+		"paladins:prior_robe_head": {
+			modifiers: {
+				"generic.armor": [
+					"3",
+					"0",
+				],
+				"generic.durability": [
+					"480",
+					"0",
+				],
+			},
+		},
+		"paladins:prior_robe_legs": {
+			modifiers: {
+				"generic.armor": [
+					"3",
+					"0",
+				],
+				"generic.durability": [
+					"480",
+					"0",
+				],
+			},
+		},
+		"wizards:arcane_robe_chest": {
+			modifiers: {
+				"generic.armor": [
+					"3",
+					"0",
+				],
+				"generic.durability": [
+					"480",
+					"0",
+				],
+			},
+		},
+		"wizards:arcane_robe_feet": {
+			modifiers: {
+				"generic.armor": [
+					"3",
+					"0",
+				],
+				"generic.durability": [
+					"480",
+					"0",
+				],
+			},
+		},
+		"wizards:arcane_robe_head": {
+			modifiers: {
+				"generic.armor": [
+					"3",
+					"0",
+				],
+				"generic.durability": [
+					"480",
+					"0",
+				],
+			},
+		},
+		"wizards:arcane_robe_legs": {
+			modifiers: {
+				"generic.armor": [
+					"3",
+					"0",
+				],
+				"generic.durability": [
+					"480",
+					"0",
+				],
+			},
+		},
+		"wizards:fire_robe_chest": {
+			modifiers: {
+				"generic.armor": [
+					"3",
+					"0",
+				],
+				"generic.durability": [
+					"480",
+					"0",
+				],
+			},
+		},
+		"wizards:fire_robe_feet": {
+			modifiers: {
+				"generic.armor": [
+					"3",
+					"0",
+				],
+				"generic.durability": [
+					"480",
+					"0",
+				],
+			},
+		},
+		"wizards:fire_robe_head": {
+			modifiers: {
+				"generic.armor": [
+					"3",
+					"0",
+				],
+				"generic.durability": [
+					"480",
+					"0",
+				],
+			},
+		},
+		"wizards:fire_robe_legs": {
+			modifiers: {
+				"generic.armor": [
+					"3",
+					"0",
+				],
+				"generic.durability": [
+					"480",
+					"0",
+				],
+			},
+		},
+		"wizards:frost_robe_chest": {
+			modifiers: {
+				"generic.armor": [
+					"3",
+					"0",
+				],
+				"generic.durability": [
+					"480",
+					"0",
+				],
+			},
+		},
+		"wizards:frost_robe_feet": {
+			modifiers: {
+				"generic.armor": [
+					"3",
+					"0",
+				],
+				"generic.durability": [
+					"480",
+					"0",
+				],
+			},
+		},
+		"wizards:frost_robe_head": {
+			modifiers: {
+				"generic.armor": [
+					"3",
+					"0",
+				],
+				"generic.durability": [
+					"480",
+					"0",
+				],
+			},
+		},
+		"wizards:frost_robe_legs": {
+			modifiers: {
+				"generic.armor": [
+					"3",
+					"0",
+				],
+				"generic.durability": [
+					"480",
+					"0",
+				],
+			},
+		},
+		"elysium:t3_arcane_robe_chest": {
+			modifiers: {
+				"generic.armor": [
+					"3",
 					"0",
 				],
 				"generic.durability": [
@@ -144,19 +1327,71 @@
 					"0",
 				],
 				"generic.armor_toughness": [
-					"2",
+					"1",
 					"0",
 				],
 			},
 		},
-		"miskatonicmysteries:dark_hood": {
+		"elysium:t3_arcane_robe_feet": {
 			modifiers: {
 				"generic.armor": [
-					"0",
+					"3",
 					"0",
 				],
 				"generic.durability": [
-					"120",
+					"960",
+					"0",
+				],
+				"generic.armor_toughness": [
+					"1",
+					"0",
+				],
+			},
+		},
+		"elysium:t3_arcane_robe_head": {
+			modifiers: {
+				"generic.armor": [
+					"3",
+					"0",
+				],
+				"generic.durability": [
+					"960",
+					"0",
+				],
+				"generic.armor_toughness": [
+					"1",
+					"0",
+				],
+			},
+		},
+		"elysium:t3_arcane_robe_legs": {
+			modifiers: {
+				"generic.armor": [
+					"3",
+					"0",
+				],
+				"generic.durability": [
+					"960",
+					"0",
+				],
+				"generic.armor_toughness": [
+					"1",
+					"0",
+				],
+			},
+		},
+		"elysium:t3_fire_robe_chest": {
+			modifiers: {
+				"generic.armor": [
+					"3",
+					"0",
+				],
+				"generic.durability": [
+					"960",
+					"0",
+				],
+				"generic.armor_toughness": [
+					"1",
 					"0",
 				],
 			},
@@ -177,75 +1412,7 @@
 				],
 			},
 		},
-		"magistuarmoryaddon:xiii_century_knight_chestplate": {
-			modifiers: {
-				"generic.armor": [
-					"4",
-					"0",
-				],
-				"generic.durability": [
-					"960",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"1",
-					"0",
-				],
-			},
-		},
-		"elysium:pantalone_verde": {
-			modifiers: {
-				"generic.armor": [
-					"1",
-					"0",
-				],
-				"generic.durability": [
-					"60",
-					"0",
-				],
-			},
-		},
-		"elysium:maglia_verde_lunga": {
-			modifiers: {
-				"generic.armor": [
-					"1",
-					"0",
-				],
-				"generic.durability": [
-					"60",
-					"0",
-				],
-			},
-		},
-		"elysium:t5_arcane_robe_chest": {
-			modifiers: {
-				"generic.armor": [
-					"3",
-					"0",
-				],
-				"generic.durability": [
-					"2160",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"3",
-					"0",
-				],
-			},
-		},
-		"paladins:priest_robe_chest": {
-			modifiers: {
-				"generic.armor": [
-					"1",
-					"0",
-				],
-				"generic.durability": [
-					"120",
-					"0",
-				],
-			},
-		},
-		"elysium:t3_prior_robe_legs": {
+		"elysium:t3_fire_robe_head": {
 			modifiers: {
 				"generic.armor": [
 					"3",
@@ -261,70 +1428,10 @@
 				],
 			},
 		},
-		"elysium:maglia_marrone_corta_alt": {
+		"elysium:t3_fire_robe_legs": {
 			modifiers: {
 				"generic.armor": [
-					"1",
-					"0",
-				],
-				"generic.durability": [
-					"60",
-					"0",
-				],
-			},
-		},
-		"miskatonicmysteries:dark_robe": {
-			modifiers: {
-				"generic.armor": [
-					"0",
-					"0",
-				],
-				"generic.durability": [
-					"120",
-					"0",
-				],
-			},
-		},
-		"elysium:maglia_verde_corta_alt": {
-			modifiers: {
-				"generic.armor": [
-					"1",
-					"0",
-				],
-				"generic.durability": [
-					"60",
-					"0",
-				],
-			},
-		},
-		"elysium:maglia_acqua_lunga": {
-			modifiers: {
-				"generic.armor": [
-					"1",
-					"0",
-				],
-				"generic.durability": [
-					"60",
-					"0",
-				],
-			},
-		},
-		"magistuarmory:rustednorman_helmet": {
-			modifiers: {
-				"generic.armor": [
-					"0",
-					"0",
-				],
-				"generic.durability": [
-					"480",
-					"0",
-				],
-			},
-		},
-		"magistuarmory:norman_helmet": {
-			modifiers: {
-				"generic.armor": [
-					"4",
+					"3",
 					"0",
 				],
 				"generic.durability": [
@@ -337,55 +1444,55 @@
 				],
 			},
 		},
-		"paladins:priest_robe_head": {
+		"elysium:t3_frost_robe_chest": {
 			modifiers: {
 				"generic.armor": [
+					"3",
+					"0",
+				],
+				"generic.durability": [
+					"960",
+					"0",
+				],
+				"generic.armor_toughness": [
 					"1",
 					"0",
 				],
-				"generic.durability": [
-					"120",
-					"0",
-				],
 			},
 		},
-		"minecraft:leather_leggings": {
+		"elysium:t3_frost_robe_feet": {
 			modifiers: {
 				"generic.armor": [
-					"2",
+					"3",
 					"0",
 				],
 				"generic.durability": [
-					"240",
+					"960",
 					"0",
 				],
-			},
-		},
-		"elysium:maglia_blu_corta": {
-			modifiers: {
-				"generic.armor": [
+				"generic.armor_toughness": [
 					"1",
 					"0",
 				],
-				"generic.durability": [
-					"60",
-					"0",
-				],
 			},
 		},
-		"elysium:maglia_rossa_corta_alt": {
+		"elysium:t3_frost_robe_head": {
 			modifiers: {
 				"generic.armor": [
+					"3",
+					"0",
+				],
+				"generic.durability": [
+					"960",
+					"0",
+				],
+				"generic.armor_toughness": [
 					"1",
 					"0",
 				],
-				"generic.durability": [
-					"60",
-					"0",
-				],
 			},
 		},
-		"elysium:t3_arcane_robe_legs": {
+		"elysium:t3_frost_robe_legs": {
 			modifiers: {
 				"generic.armor": [
 					"3",
@@ -417,40 +1524,56 @@
 				],
 			},
 		},
-		"magistuarmoryaddon:landsknecht_brown_hat_decoration": {
+		"elysium:t3_prior_robe_feet": {
 			modifiers: {
 				"generic.armor": [
-					"0",
-					"0",
-				],
-			},
-		},
-		"magistuarmoryaddon:landsknecht_black_hat_decoration": {
-			modifiers: {
-				"generic.armor": [
-					"0",
-					"0",
-				],
-			},
-		},
-		"elysium:maglia_corta": {
-			modifiers: {
-				"generic.armor": [
-					"1",
+					"3",
 					"0",
 				],
 				"generic.durability": [
-					"60",
+					"960",
+					"0",
+				],
+				"generic.armor_toughness": [
+					"1",
 					"0",
 				],
 			},
 		},
-		"magistuarmory:maximilian_boots": {
+		"elysium:t3_prior_robe_head": {
 			modifiers: {
-				"generic.max_health": [
+				"generic.armor": [
+					"3",
+					"0",
+				],
+				"generic.durability": [
+					"960",
+					"0",
+				],
+				"generic.armor_toughness": [
 					"1",
 					"0",
 				],
+			},
+		},
+		"elysium:t3_prior_robe_legs": {
+			modifiers: {
+				"generic.armor": [
+					"3",
+					"0",
+				],
+				"generic.durability": [
+					"960",
+					"0",
+				],
+				"generic.armor_toughness": [
+					"1",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:jousting_boots": {
+			modifiers: {
 				"generic.armor": [
 					"4",
 					"0",
@@ -459,44 +1582,320 @@
 					"960",
 					"0",
 				],
-				"generic.armor_toughness": [
+				"elysium:armor_unbreaking": [
+					"0.08",
 					"2",
-					"0",
-				],
-			},
-		},
-		"magistuarmoryaddon:landsknecht_orange_hat_decoration": {
-			modifiers: {
-				"generic.armor": [
-					"0",
-					"0",
-				],
-			},
-		},
-		"elysium:t4_prior_robe_chest": {
-			modifiers: {
-				"generic.armor": [
-					"3",
-					"0",
-				],
-				"generic.durability": [
-					"1920",
-					"0",
 				],
 				"generic.armor_toughness": [
 					"2",
 					"0",
 				],
+				"generic.max_health": [
+					"1",
+					"0",
+				],
 			},
 		},
-		"magistuarmory:rustedhalfarmor_chestplate": {
+		"magistuarmory:jousting_chestplate": {
 			modifiers: {
 				"generic.armor": [
-					"0",
+					"4",
 					"0",
 				],
 				"generic.durability": [
-					"480",
+					"960",
+					"0",
+				],
+				"elysium:armor_unbreaking": [
+					"0.08",
+					"2",
+				],
+				"generic.armor_toughness": [
+					"2",
+					"0",
+				],
+				"generic.max_health": [
+					"1",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:jousting_leggings": {
+			modifiers: {
+				"generic.armor": [
+					"4",
+					"0",
+				],
+				"generic.durability": [
+					"960",
+					"0",
+				],
+				"elysium:armor_unbreaking": [
+					"0.08",
+					"2",
+				],
+				"generic.armor_toughness": [
+					"2",
+					"0",
+				],
+				"generic.max_health": [
+					"1",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:kettlehat": {
+			modifiers: {
+				"generic.armor": [
+					"4",
+					"0",
+				],
+				"generic.durability": [
+					"960",
+					"0",
+				],
+				"elysium:armor_unbreaking": [
+					"0.04",
+					"2",
+				],
+				"generic.armor_toughness": [
+					"1",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:knight_boots": {
+			modifiers: {
+				"generic.armor": [
+					"4",
+					"0",
+				],
+				"generic.durability": [
+					"960",
+					"0",
+				],
+				"elysium:armor_unbreaking": [
+					"0.08",
+					"2",
+				],
+				"generic.armor_toughness": [
+					"2",
+					"0",
+				],
+				"generic.max_health": [
+					"1",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:knight_chestplate": {
+			modifiers: {
+				"generic.armor": [
+					"4",
+					"0",
+				],
+				"generic.durability": [
+					"960",
+					"0",
+				],
+				"elysium:armor_unbreaking": [
+					"0.08",
+					"2",
+				],
+				"generic.armor_toughness": [
+					"2",
+					"0",
+				],
+				"generic.max_health": [
+					"1",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:knight_leggings": {
+			modifiers: {
+				"generic.armor": [
+					"4",
+					"0",
+				],
+				"generic.durability": [
+					"960",
+					"0",
+				],
+				"elysium:armor_unbreaking": [
+					"0.08",
+					"2",
+				],
+				"generic.armor_toughness": [
+					"2",
+					"0",
+				],
+				"generic.max_health": [
+					"1",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:maximilian_boots": {
+			modifiers: {
+				"generic.armor": [
+					"4",
+					"0",
+				],
+				"generic.durability": [
+					"960",
+					"0",
+				],
+				"elysium:armor_unbreaking": [
+					"0.08",
+					"2",
+				],
+				"generic.armor_toughness": [
+					"2",
+					"0",
+				],
+				"generic.max_health": [
+					"1",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:maximilian_chestplate": {
+			modifiers: {
+				"generic.armor": [
+					"4",
+					"0",
+				],
+				"generic.durability": [
+					"960",
+					"0",
+				],
+				"elysium:armor_unbreaking": [
+					"0.08",
+					"2",
+				],
+				"generic.armor_toughness": [
+					"2",
+					"0",
+				],
+				"generic.max_health": [
+					"1",
+					"0",
+				],
+			},
+		},
+		"magistuarmoryaddon:dark_gilded_greenwich_chestplate": {
+			modifiers: {
+				"generic.armor": [
+					"80",
+					"0",
+				],
+				"generic.durability": [
+					"3000",
+					"0",
+				],
+				"elysium:armor_unbreaking": [
+					"1.0",
+					"2",
+				],
+				"generic.armor_toughness": [
+					"2",
+					"0",
+				],
+				"generic.max_health": [
+					"80",
+					"0",
+				],
+			},
+		},
+
+
+
+
+		"magistuarmory:maximilian_helmet": {
+			modifiers: {
+				"generic.armor": [
+					"4",
+					"0",
+				],
+				"generic.durability": [
+					"960",
+					"0",
+				],
+				"elysium:armor_unbreaking": [
+					"0.08",
+					"2",
+				],
+				"generic.armor_toughness": [
+					"2",
+					"0",
+				],
+				"generic.max_health": [
+					"1",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:maximilian_leggings": {
+			modifiers: {
+				"generic.armor": [
+					"4",
+					"0",
+				],
+				"generic.durability": [
+					"960",
+					"0",
+				],
+				"elysium:armor_unbreaking": [
+					"0.08",
+					"2",
+				],
+				"generic.armor_toughness": [
+					"2",
+					"0",
+				],
+				"generic.max_health": [
+					"1",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:norman_helmet": {
+			modifiers: {
+				"generic.armor": [
+					"4",
+					"0",
+				],
+				"generic.durability": [
+					"960",
+					"0",
+				],
+				"elysium:armor_unbreaking": [
+					"0.04",
+					"2",
+				],
+				"generic.armor_toughness": [
+					"1",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:platemail_boots": {
+			modifiers: {
+				"generic.armor": [
+					"4",
+					"0",
+				],
+				"generic.durability": [
+					"960",
+					"0",
+				],
+				"elysium:armor_unbreaking": [
+					"0.04",
+					"2",
+				],
+				"generic.armor_toughness": [
+					"1",
 					"0",
 				],
 			},
@@ -511,78 +1910,18 @@
 					"960",
 					"0",
 				],
+				"elysium:armor_unbreaking": [
+					"0.04",
+					"2",
+				],
 				"generic.armor_toughness": [
 					"1",
 					"0",
 				],
 			},
 		},
-		"candlelight:cooking_hat": {
+		"magistuarmory:platemail_leggings": {
 			modifiers: {
-				"generic.armor": [
-					"0",
-					"0",
-				],
-				"generic.durability": [
-					"120",
-					"0",
-				],
-			},
-		},
-		"magistuarmoryaddon:dark_jousting_boots": {
-			modifiers: {
-				"generic.max_health": [
-					"3",
-					"0",
-				],
-				"generic.armor": [
-					"5",
-					"0",
-				],
-				"generic.durability": [
-					"2160",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"4",
-					"0",
-				],
-			},
-		},
-		"magistuarmory:rustedbarbute": {
-			modifiers: {
-				"generic.armor": [
-					"0",
-					"0",
-				],
-				"generic.durability": [
-					"480",
-					"0",
-				],
-			},
-		},
-		"elysium:t5_arcane_robe_feet": {
-			modifiers: {
-				"generic.armor": [
-					"3",
-					"0",
-				],
-				"generic.durability": [
-					"2160",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"3",
-					"0",
-				],
-			},
-		},
-		"magistuarmory:stechhelm": {
-			modifiers: {
-				"generic.max_health": [
-					"1",
-					"0",
-				],
 				"generic.armor": [
 					"4",
 					"0",
@@ -591,18 +1930,18 @@
 					"960",
 					"0",
 				],
-				"generic.armor_toughness": [
+				"elysium:armor_unbreaking": [
+					"0.04",
 					"2",
+				],
+				"generic.armor_toughness": [
+					"1",
 					"0",
 				],
 			},
 		},
 		"magistuarmory:sallet": {
 			modifiers: {
-				"generic.max_health": [
-					"1",
-					"0",
-				],
 				"generic.armor": [
 					"4",
 					"0",
@@ -611,373 +1950,97 @@
 					"960",
 					"0",
 				],
-				"generic.armor_toughness": [
+				"elysium:armor_unbreaking": [
+					"0.08",
 					"2",
-					"0",
-				],
-			},
-		},
-		"elysium:stracci": {
-			modifiers: {
-				"generic.armor": [
-					"1",
-					"0",
-				],
-				"generic.durability": [
-					"60",
-					"0",
-				],
-			},
-		},
-		"immersive_armors:robe_boots": {
-			modifiers: {
-				"generic.armor": [
-					"1",
-					"0",
-				],
-				"generic.durability": [
-					"240",
-					"0",
-				],
-			},
-		},
-		"immersive_armors:robe_leggings": {
-			modifiers: {
-				"generic.armor": [
-					"2",
-					"0",
-				],
-				"generic.durability": [
-					"240",
-					"0",
-				],
-			},
-		},
-		"elysium:bandana": {
-			modifiers: {
-				"generic.armor": [
-					"0",
-					"0",
-				],
-				"generic.durability": [
-					"60",
-					"0",
-				],
-			},
-		},
-		"magistuarmory:minicrown_decoration": {
-			modifiers: {
-				"generic.armor": [
-					"0",
-					"0",
-				],
-			},
-		},
-		"elysium:t3_fire_robe_head": {
-			modifiers: {
-				"generic.armor": [
-					"3",
-					"0",
-				],
-				"generic.durability": [
-					"960",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"1",
-					"0",
-				],
-			},
-		},
-		"minecraft:iron_boots": {
-			modifiers: {
-				"generic.armor": [
-					"3",
-					"0",
-				],
-				"generic.durability": [
-					"480",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"1",
-					"0",
-				],
-			},
-		},
-		"magistuarmoryaddon:chapel": {
-			modifiers: {
-				"generic.armor": [
-					"2",
-					"0",
-				],
-				"generic.durability": [
-					"240",
-					"0",
-				],
-			},
-		},
-		"elysium:t3_frost_robe_head": {
-			modifiers: {
-				"generic.armor": [
-					"3",
-					"0",
-				],
-				"generic.durability": [
-					"960",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"1",
-					"0",
-				],
-			},
-		},
-		"magistuarmoryaddon:chained_gambeson": {
-			modifiers: {
-				"generic.armor": [
-					"3",
-					"0",
-				],
-				"generic.durability": [
-					"240",
-					"0",
-				],
-			},
-		},
-		"magistuarmory:cuirassier_boots": {
-			modifiers: {
-				"generic.armor": [
-					"3",
-					"0",
-				],
-				"generic.durability": [
-					"480",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"1",
-					"0",
-				],
-			},
-		},
-		"magistuarmoryaddon:landsknecht_green_hat_decoration": {
-			modifiers: {
-				"generic.armor": [
-					"0",
-					"0",
-				],
-			},
-		},
-		"elysium:t4_fire_robe_chest": {
-			modifiers: {
-				"generic.armor": [
-					"3",
-					"0",
-				],
-				"generic.durability": [
-					"1920",
-					"0",
 				],
 				"generic.armor_toughness": [
 					"2",
 					"0",
 				],
+				"generic.max_health": [
+					"1",
+					"0",
+				],
 			},
 		},
-		"minecraft:chainmail_chestplate": {
+		"magistuarmory:stechhelm": {
 			modifiers: {
 				"generic.armor": [
 					"4",
 					"0",
 				],
 				"generic.durability": [
-					"480",
+					"960",
 					"0",
 				],
-			},
-		},
-		"elysium:t4_frost_robe_legs": {
-			modifiers: {
-				"generic.armor": [
-					"3",
-					"0",
-				],
-				"generic.durability": [
-					"1920",
-					"0",
+				"elysium:armor_unbreaking": [
+					"0.08",
+					"2",
 				],
 				"generic.armor_toughness": [
 					"2",
 					"0",
 				],
-			},
-		},
-		"elysium:alchemist_helmet": {
-			modifiers: {
-				"generic.armor": [
-					"0",
-					"0",
-				],
-				"generic.durability": [
-					"120",
-					"0",
-				],
-			},
-		},
-		"elysium:maglia_viola_lunga": {
-			modifiers: {
-				"generic.armor": [
+				"generic.max_health": [
 					"1",
 					"0",
 				],
-				"generic.durability": [
-					"60",
-					"0",
-				],
 			},
 		},
-		"wizards:wizard_robe_chest": {
+		"magistuarmory:xivcenturyknight_boots": {
 			modifiers: {
-				"generic.armor": [
-					"2",
-					"0",
-				],
-				"generic.durability": [
-					"240",
-					"0",
-				],
-			},
-		},
-		"elysium:maglia_rossa_corta": {
-			modifiers: {
-				"generic.armor": [
-					"1",
-					"0",
-				],
-				"generic.durability": [
-					"60",
-					"0",
-				],
-			},
-		},
-		"magistuarmoryaddon:darkblued_knight_chestplate": {
-			modifiers: {
-				"generic.max_health": [
-					"2",
-					"0",
-				],
-				"generic.armor": [
-					"5",
-					"0",
-				],
-				"generic.durability": [
-					"1920",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"3",
-					"0",
-				],
-			},
-		},
-		"magistuarmory:rustedchainmail_chestplate": {
-			modifiers: {
-				"generic.armor": [
-					"0",
-					"0",
-				],
-				"generic.durability": [
-					"480",
-					"0",
-				],
-			},
-		},
-		"magistuarmoryaddon:darkblued_knight_boots": {
-			modifiers: {
-				"generic.max_health": [
-					"2",
-					"0",
-				],
 				"generic.armor": [
 					"4",
-					"0",
-				],
-				"generic.durability": [
-					"1920",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"3",
-					"0",
-				],
-			},
-		},
-		"magistuarmoryaddon:landsknecht_gray_hat_decoration": {
-			modifiers: {
-				"generic.armor": [
-					"0",
-					"0",
-				],
-			},
-		},
-		"magistuarmoryaddon:darkblued_maximilian_helmet": {
-			modifiers: {
-				"generic.max_health": [
-					"2",
-					"0",
-				],
-				"generic.armor": [
-					"4",
-					"0",
-				],
-				"generic.durability": [
-					"1920",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"3",
-					"0",
-				],
-			},
-		},
-		"elysium:t4_frost_robe_head": {
-			modifiers: {
-				"generic.armor": [
-					"3",
-					"0",
-				],
-				"generic.durability": [
-					"1920",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"2",
-					"0",
-				],
-			},
-		},
-		"immersive_armors:wooden_chestplate": {
-			modifiers: {
-				"generic.armor": [
-					"3",
-					"0",
-				],
-				"generic.durability": [
-					"240",
-					"0",
-				],
-			},
-		},
-		"elysium:t3_frost_robe_legs": {
-			modifiers: {
-				"generic.armor": [
-					"3",
 					"0",
 				],
 				"generic.durability": [
 					"960",
 					"0",
+				],
+				"elysium:armor_unbreaking": [
+					"0.04",
+					"2",
+				],
+				"generic.armor_toughness": [
+					"1",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:xivcenturyknight_chestplate": {
+			modifiers: {
+				"generic.armor": [
+					"4",
+					"0",
+				],
+				"generic.durability": [
+					"960",
+					"0",
+				],
+				"elysium:armor_unbreaking": [
+					"0.04",
+					"2",
+				],
+				"generic.armor_toughness": [
+					"1",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:xivcenturyknight_leggings": {
+			modifiers: {
+				"generic.armor": [
+					"4",
+					"0",
+				],
+				"generic.durability": [
+					"960",
+					"0",
+				],
+				"elysium:armor_unbreaking": [
+					"0.04",
+					"2",
 				],
 				"generic.armor_toughness": [
 					"1",
@@ -995,101 +2058,113 @@
 					"960",
 					"0",
 				],
+				"elysium:armor_unbreaking": [
+					"0.04",
+					"2",
+				],
 				"generic.armor_toughness": [
 					"1",
 					"0",
 				],
 			},
 		},
-		"wizards:fire_robe_legs": {
+		"magistuarmoryaddon:xiii_century_knight_boots": {
 			modifiers: {
 				"generic.armor": [
-					"3",
-					"0",
-				],
-				"generic.durability": [
-					"480",
-					"0",
-				],
-			},
-		},
-		"immersive_armors:wooden_helmet": {
-			modifiers: {
-				"generic.armor": [
-					"2",
-					"0",
-				],
-				"generic.durability": [
-					"240",
-					"0",
-				],
-			},
-		},
-		"magistuarmoryaddon:dark_knight_chestplate": {
-			modifiers: {
-				"generic.max_health": [
-					"3",
-					"0",
-				],
-				"generic.armor": [
-					"5",
-					"0",
-				],
-				"generic.durability": [
-					"2160",
-					"0",
-				],
-				"generic.armor_toughness": [
 					"4",
-					"0",
-				],
-			},
-		},
-		"elysium:t3_arcane_robe_head": {
-			modifiers: {
-				"generic.armor": [
-					"3",
 					"0",
 				],
 				"generic.durability": [
 					"960",
 					"0",
 				],
+				"elysium:armor_unbreaking": [
+					"0.04",
+					"2",
+				],
 				"generic.armor_toughness": [
 					"1",
 					"0",
 				],
 			},
 		},
-		"elysium:t5_prior_robe_head": {
+		"magistuarmoryaddon:xiii_century_knight_chestplate": {
 			modifiers: {
 				"generic.armor": [
-					"3",
+					"4",
 					"0",
 				],
 				"generic.durability": [
-					"2160",
+					"960",
 					"0",
+				],
+				"elysium:armor_unbreaking": [
+					"0.04",
+					"2",
 				],
 				"generic.armor_toughness": [
-					"3",
-					"0",
-				],
-			},
-		},
-		"magistuarmoryaddon:tunic": {
-			modifiers: {
-				"generic.armor": [
 					"1",
 					"0",
 				],
+			},
+		},
+		"magistuarmoryaddon:xiii_century_knight_leggings": {
+			modifiers: {
+				"generic.armor": [
+					"4",
+					"0",
+				],
 				"generic.durability": [
-					"60",
+					"960",
+					"0",
+				],
+				"elysium:armor_unbreaking": [
+					"0.04",
+					"2",
+				],
+				"generic.armor_toughness": [
+					"1",
 					"0",
 				],
 			},
 		},
-		"magistuarmoryaddon:landsknecht_purple_hat_decoration": {
+		"elysium:alchemist_helmet": {
+			modifiers: {
+				"generic.armor": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"120",
+					"0",
+				],
+			},
+		},
+		"elysium:miner_helmet": {
+			modifiers: {
+				"generic.armor": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"120",
+					"0",
+				],
+			},
+		},
+		"immersive_armors:steampunk_helmet": {
+			modifiers: {
+				"generic.armor": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"120",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:crown_decoration": {
 			modifiers: {
 				"generic.armor": [
 					"0",
@@ -1097,10 +2172,18 @@
 				],
 			},
 		},
-		"paladins:prior_robe_head": {
+		"magistuarmory:minicrown_decoration": {
 			modifiers: {
 				"generic.armor": [
-					"3",
+					"0",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:rustedbarbute": {
+			modifiers: {
+				"generic.armor": [
+					"0",
 					"0",
 				],
 				"generic.durability": [
@@ -1109,119 +2192,67 @@
 				],
 			},
 		},
-		"magistuarmoryaddon:dark_maximilian_boots": {
+		"magistuarmory:rustedchainmail_boots": {
 			modifiers: {
-				"generic.max_health": [
-					"3",
-					"0",
-				],
 				"generic.armor": [
-					"5",
+					"0",
 					"0",
 				],
 				"generic.durability": [
-					"2160",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"4",
+					"480",
 					"0",
 				],
 			},
 		},
-		"magistuarmoryaddon:dark_jousting_leggings": {
+		"magistuarmory:rustedchainmail_chestplate": {
 			modifiers: {
-				"generic.max_health": [
-					"3",
-					"0",
-				],
 				"generic.armor": [
-					"5",
+					"0",
 					"0",
 				],
 				"generic.durability": [
-					"2160",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"4",
+					"480",
 					"0",
 				],
 			},
 		},
-		"elysium:maglia_viola_lunga_alt": {
+		"magistuarmory:rustedchainmail_helmet": {
 			modifiers: {
 				"generic.armor": [
-					"1",
+					"0",
 					"0",
 				],
 				"generic.durability": [
-					"60",
-					"0",
-				],
-			},
-		},
-		"magistuarmoryaddon:landsknecht_light_blue_hat_decoration": {
-			modifiers: {
-				"generic.armor": [
-					"0",
-					"0",
-				],
-			},
-		},
-		"magistuarmoryaddon:heavy_brigandine_leggings": {
-			modifiers: {
-				"generic.armor": [
-					"3",
-					"0",
-				],
-				"generic.durability": [
-					"240",
-					"0",
-				],
-			},
-		},
-		"minecraft:leather_helmet": {
-			modifiers: {
-				"generic.armor": [
-					"1",
-					"0",
-				],
-				"generic.durability": [
-					"240",
-					"0",
-				],
-			},
-		},
-		"magistuarmoryaddon:chained_gambeson_boots": {
-			modifiers: {
-				"generic.armor": [
-					"2",
-					"0",
-				],
-				"generic.durability": [
-					"240",
-					"0",
-				],
-			},
-		},
-		"elysium:t5_arcane_robe_head": {
-			modifiers: {
-				"generic.armor": [
-					"3",
-					"0",
-				],
-				"generic.durability": [
-					"2160",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"3",
+					"480",
 					"0",
 				],
 			},
 		},
 		"magistuarmory:rustedchainmail_leggings": {
+			modifiers: {
+				"generic.armor": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"480",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:rustedcrusader_boots": {
+			modifiers: {
+				"generic.armor": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"480",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:rustedcrusader_chestplate": {
 			modifiers: {
 				"generic.armor": [
 					"0",
@@ -1245,19 +2276,7 @@
 				],
 			},
 		},
-		"wizards:arcane_robe_chest": {
-			modifiers: {
-				"generic.armor": [
-					"3",
-					"0",
-				],
-				"generic.durability": [
-					"480",
-					"0",
-				],
-			},
-		},
-		"magistuarmory:rustedcrusader_chestplate": {
+		"magistuarmory:rustedhalfarmor_chestplate": {
 			modifiers: {
 				"generic.armor": [
 					"0",
@@ -1265,1182 +2284,6 @@
 				],
 				"generic.durability": [
 					"480",
-					"0",
-				],
-			},
-		},
-		"magistuarmoryaddon:dark_maximilian_chestplate": {
-			modifiers: {
-				"generic.max_health": [
-					"3",
-					"0",
-				],
-				"generic.armor": [
-					"5",
-					"0",
-				],
-				"generic.durability": [
-					"2160",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"4",
-					"0",
-				],
-			},
-		},
-		"magistuarmory:crown_decoration": {
-			modifiers: {
-				"generic.armor": [
-					"0",
-					"0",
-				],
-			},
-		},
-		"minecraft:leather_chestplate": {
-			modifiers: {
-				"generic.armor": [
-					"2",
-					"0",
-				],
-				"generic.durability": [
-					"240",
-					"0",
-				],
-			},
-		},
-		"elysium:t3_arcane_robe_feet": {
-			modifiers: {
-				"generic.armor": [
-					"3",
-					"0",
-				],
-				"generic.durability": [
-					"960",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"1",
-					"0",
-				],
-			},
-		},
-		"elysium:t5_frost_robe_chest": {
-			modifiers: {
-				"generic.armor": [
-					"3",
-					"0",
-				],
-				"generic.durability": [
-					"2160",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"3",
-					"0",
-				],
-			},
-		},
-		"elysium:t4_fire_robe_feet": {
-			modifiers: {
-				"generic.armor": [
-					"3",
-					"0",
-				],
-				"generic.durability": [
-					"1920",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"2",
-					"0",
-				],
-			},
-		},
-		"magistuarmory:cuirassier_helmet": {
-			modifiers: {
-				"generic.armor": [
-					"3",
-					"0",
-				],
-				"generic.durability": [
-					"480",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"1",
-					"0",
-				],
-			},
-		},
-		"magistuarmory:platemail_boots": {
-			modifiers: {
-				"generic.armor": [
-					"4",
-					"0",
-				],
-				"generic.durability": [
-					"960",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"1",
-					"0",
-				],
-			},
-		},
-		"elysium:t3_fire_robe_chest": {
-			modifiers: {
-				"generic.armor": [
-					"3",
-					"0",
-				],
-				"generic.durability": [
-					"960",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"1",
-					"0",
-				],
-			},
-		},
-		"magistuarmory:chainmail_boots": {
-			modifiers: {
-				"generic.armor": [
-					"3",
-					"0",
-				],
-				"generic.durability": [
-					"480",
-					"0",
-				],
-			},
-		},
-		"wizards:fire_robe_head": {
-			modifiers: {
-				"generic.armor": [
-					"3",
-					"0",
-				],
-				"generic.durability": [
-					"480",
-					"0",
-				],
-			},
-		},
-		"minecraft:iron_helmet": {
-			modifiers: {
-				"generic.armor": [
-					"3",
-					"0",
-				],
-				"generic.durability": [
-					"480",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"1",
-					"0",
-				],
-			},
-		},
-		"magistuarmoryaddon:landsknecht_red_hat_decoration": {
-			modifiers: {
-				"generic.armor": [
-					"0",
-					"0",
-				],
-			},
-		},
-		"elysium:t5_prior_robe_feet": {
-			modifiers: {
-				"generic.armor": [
-					"3",
-					"0",
-				],
-				"generic.durability": [
-					"2160",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"3",
-					"0",
-				],
-			},
-		},
-		"elysium:cappello": {
-			modifiers: {
-				"generic.armor": [
-					"0",
-					"0",
-				],
-				"generic.durability": [
-					"60",
-					"0",
-				],
-			},
-		},
-		"magistuarmory:chainmail_helmet": {
-			modifiers: {
-				"generic.armor": [
-					"3",
-					"0",
-				],
-				"generic.durability": [
-					"480",
-					"0",
-				],
-			},
-		},
-		"magistuarmory:kettlehat": {
-			modifiers: {
-				"generic.armor": [
-					"4",
-					"0",
-				],
-				"generic.durability": [
-					"960",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"1",
-					"0",
-				],
-			},
-		},
-		"elysium:t4_prior_robe_legs": {
-			modifiers: {
-				"generic.armor": [
-					"3",
-					"0",
-				],
-				"generic.durability": [
-					"1920",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"2",
-					"0",
-				],
-			},
-		},
-		"elysium:maglia_acqua_corta": {
-			modifiers: {
-				"generic.armor": [
-					"1",
-					"0",
-				],
-				"generic.durability": [
-					"60",
-					"0",
-				],
-			},
-		},
-		"paladins:prior_robe_legs": {
-			modifiers: {
-				"generic.armor": [
-					"3",
-					"0",
-				],
-				"generic.durability": [
-					"480",
-					"0",
-				],
-			},
-		},
-		"elysium:maglia_acqua_lunga_alt": {
-			modifiers: {
-				"generic.armor": [
-					"1",
-					"0",
-				],
-				"generic.durability": [
-					"60",
-					"0",
-				],
-			},
-		},
-		"magistuarmoryaddon:darkblued_maximilian_leggings": {
-			modifiers: {
-				"generic.max_health": [
-					"2",
-					"0",
-				],
-				"generic.armor": [
-					"5",
-					"0",
-				],
-				"generic.durability": [
-					"1920",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"3",
-					"0",
-				],
-			},
-		},
-		"magistuarmoryaddon:coat_of_plates_chestplate": {
-			modifiers: {
-				"generic.armor": [
-					"3",
-					"0",
-				],
-				"generic.durability": [
-					"240",
-					"0",
-				],
-			},
-		},
-		"magistuarmoryaddon:darkblued_knight_leggings": {
-			modifiers: {
-				"generic.max_health": [
-					"2",
-					"0",
-				],
-				"generic.armor": [
-					"5",
-					"0",
-				],
-				"generic.durability": [
-					"1920",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"3",
-					"0",
-				],
-			},
-		},
-		"elysium:t5_arcane_robe_legs": {
-			modifiers: {
-				"generic.armor": [
-					"3",
-					"0",
-				],
-				"generic.durability": [
-					"2160",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"3",
-					"0",
-				],
-			},
-		},
-		"elysium:pantalone_marrone": {
-			modifiers: {
-				"generic.armor": [
-					"1",
-					"0",
-				],
-				"generic.durability": [
-					"60",
-					"0",
-				],
-			},
-		},
-		"immersive_armors:wooden_boots": {
-			modifiers: {
-				"generic.armor": [
-					"2",
-					"0",
-				],
-				"generic.durability": [
-					"240",
-					"0",
-				],
-			},
-		},
-		"magistuarmoryaddon:linen_coif": {
-			modifiers: {
-				"generic.armor": [
-					"2",
-					"0",
-				],
-				"generic.durability": [
-					"240",
-					"0",
-				],
-			},
-		},
-		"elysium:t4_frost_robe_feet": {
-			modifiers: {
-				"generic.armor": [
-					"3",
-					"0",
-				],
-				"generic.durability": [
-					"1920",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"2",
-					"0",
-				],
-			},
-		},
-		"elysium:t4_fire_robe_head": {
-			modifiers: {
-				"generic.armor": [
-					"3",
-					"0",
-				],
-				"generic.durability": [
-					"1920",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"2",
-					"0",
-				],
-			},
-		},
-		"minecraft:iron_chestplate": {
-			modifiers: {
-				"generic.armor": [
-					"4",
-					"0",
-				],
-				"generic.durability": [
-					"480",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"1",
-					"0",
-				],
-			},
-		},
-		"magistuarmory:maximilian_helmet": {
-			modifiers: {
-				"generic.max_health": [
-					"1",
-					"0",
-				],
-				"generic.armor": [
-					"4",
-					"0",
-				],
-				"generic.durability": [
-					"960",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"2",
-					"0",
-				],
-			},
-		},
-		"elysium:pantalone_acqua": {
-			modifiers: {
-				"generic.armor": [
-					"1",
-					"0",
-				],
-				"generic.durability": [
-					"60",
-					"0",
-				],
-			},
-		},
-		"wizards:arcane_robe_head": {
-			modifiers: {
-				"generic.armor": [
-					"3",
-					"0",
-				],
-				"generic.durability": [
-					"480",
-					"0",
-				],
-			},
-		},
-		"elysium:t4_arcane_robe_head": {
-			modifiers: {
-				"generic.armor": [
-					"3",
-					"0",
-				],
-				"generic.durability": [
-					"1920",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"2",
-					"0",
-				],
-			},
-		},
-		"elysium:t5_fire_robe_legs": {
-			modifiers: {
-				"generic.armor": [
-					"3",
-					"0",
-				],
-				"generic.durability": [
-					"2160",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"3",
-					"0",
-				],
-			},
-		},
-		"magistuarmory:chainmail_leggings": {
-			modifiers: {
-				"generic.armor": [
-					"4",
-					"0",
-				],
-				"generic.durability": [
-					"480",
-					"0",
-				],
-			},
-		},
-		"elysium:pantalone_viola": {
-			modifiers: {
-				"generic.armor": [
-					"1",
-					"0",
-				],
-				"generic.durability": [
-					"60",
-					"0",
-				],
-			},
-		},
-		"wizards:fire_robe_feet": {
-			modifiers: {
-				"generic.armor": [
-					"3",
-					"0",
-				],
-				"generic.durability": [
-					"480",
-					"0",
-				],
-			},
-		},
-		"magistuarmory:gambeson_boots": {
-			modifiers: {
-				"generic.armor": [
-					"1",
-					"0",
-				],
-				"generic.durability": [
-					"120",
-					"0",
-				],
-			},
-		},
-		"magistuarmory:pantyhose": {
-			modifiers: {
-				"generic.armor": [
-					"2",
-					"0",
-				],
-				"generic.durability": [
-					"120",
-					"0",
-				],
-			},
-		},
-		"elysium:maglia_viola_corta": {
-			modifiers: {
-				"generic.armor": [
-					"1",
-					"0",
-				],
-				"generic.durability": [
-					"60",
-					"0",
-				],
-			},
-		},
-		"magistuarmory:cuirassier_leggings": {
-			modifiers: {
-				"generic.armor": [
-					"4",
-					"0",
-				],
-				"generic.durability": [
-					"480",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"1",
-					"0",
-				],
-			},
-		},
-		"elysium:maglia_blu_lunga_alt": {
-			modifiers: {
-				"generic.armor": [
-					"1",
-					"0",
-				],
-				"generic.durability": [
-					"60",
-					"0",
-				],
-			},
-		},
-		"elysium:maglia_rossa_lunga_alt": {
-			modifiers: {
-				"generic.armor": [
-					"1",
-					"0",
-				],
-				"generic.durability": [
-					"60",
-					"0",
-				],
-			},
-		},
-		"magistuarmory:platemail_leggings": {
-			modifiers: {
-				"generic.armor": [
-					"4",
-					"0",
-				],
-				"generic.durability": [
-					"960",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"1",
-					"0",
-				],
-			},
-		},
-		"elysium:t4_prior_robe_head": {
-			modifiers: {
-				"generic.armor": [
-					"3",
-					"0",
-				],
-				"generic.durability": [
-					"1920",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"2",
-					"0",
-				],
-			},
-		},
-		"magistuarmory:cuirassier_chestplate": {
-			modifiers: {
-				"generic.armor": [
-					"4",
-					"0",
-				],
-				"generic.durability": [
-					"480",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"1",
-					"0",
-				],
-			},
-		},
-		"vinery:straw_hat": {
-			modifiers: {
-				"generic.armor": [
-					"0",
-					"0",
-				],
-				"generic.durability": [
-					"120",
-					"0",
-				],
-			},
-		},
-		"elysium:t5_frost_robe_legs": {
-			modifiers: {
-				"generic.armor": [
-					"3",
-					"0",
-				],
-				"generic.durability": [
-					"2160",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"3",
-					"0",
-				],
-			},
-		},
-		"magistuarmory:jousting_leggings": {
-			modifiers: {
-				"generic.max_health": [
-					"1",
-					"0",
-				],
-				"generic.armor": [
-					"4",
-					"0",
-				],
-				"generic.durability": [
-					"960",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"2",
-					"0",
-				],
-			},
-		},
-		"magistuarmoryaddon:dark_knight_boots": {
-			modifiers: {
-				"generic.max_health": [
-					"3",
-					"0",
-				],
-				"generic.armor": [
-					"5",
-					"0",
-				],
-				"generic.durability": [
-					"2160",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"4",
-					"0",
-				],
-			},
-		},
-		"elysium:t5_fire_robe_chest": {
-			modifiers: {
-				"generic.armor": [
-					"3",
-					"0",
-				],
-				"generic.durability": [
-					"2160",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"3",
-					"0",
-				],
-			},
-		},
-		"immersive_armors:robe_chestplate": {
-			modifiers: {
-				"generic.armor": [
-					"2",
-					"0",
-				],
-				"generic.durability": [
-					"240",
-					"0",
-				],
-			},
-		},
-		"elysium:maglia_rossa_lunga": {
-			modifiers: {
-				"generic.armor": [
-					"1",
-					"0",
-				],
-				"generic.durability": [
-					"60",
-					"0",
-				],
-			},
-		},
-		"magistuarmoryaddon:darkblued_gothic_chestplate": {
-			modifiers: {
-				"generic.max_health": [
-					"2",
-					"0",
-				],
-				"generic.armor": [
-					"5",
-					"0",
-				],
-				"generic.durability": [
-					"1920",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"3",
-					"0",
-				],
-			},
-		},
-		"wizards:wizard_robe_head": {
-			modifiers: {
-				"generic.armor": [
-					"2",
-					"0",
-				],
-				"generic.durability": [
-					"240",
-					"0",
-				],
-			},
-		},
-		"magistuarmory:rustedchainmail_boots": {
-			modifiers: {
-				"generic.armor": [
-					"0",
-					"0",
-				],
-				"generic.durability": [
-					"480",
-					"0",
-				],
-			},
-		},
-		"magistuarmoryaddon:dark_knight_leggings": {
-			modifiers: {
-				"generic.max_health": [
-					"3",
-					"0",
-				],
-				"generic.armor": [
-					"5",
-					"0",
-				],
-				"generic.durability": [
-					"2160",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"4",
-					"0",
-				],
-			},
-		},
-		"magistuarmory:rustedcrusader_boots": {
-			modifiers: {
-				"generic.armor": [
-					"0",
-					"0",
-				],
-				"generic.durability": [
-					"480",
-					"0",
-				],
-			},
-		},
-		"immersive_armors:robe_helmet": {
-			modifiers: {
-				"generic.armor": [
-					"1",
-					"0",
-				],
-				"generic.durability": [
-					"240",
-					"0",
-				],
-			},
-		},
-		"elysium:maglia_marrone_lunga_alt": {
-			modifiers: {
-				"generic.armor": [
-					"1",
-					"0",
-				],
-				"generic.durability": [
-					"60",
-					"0",
-				],
-			},
-		},
-		"magistuarmoryaddon:landsknecht_magenta_hat_decoration": {
-			modifiers: {
-				"generic.armor": [
-					"0",
-					"0",
-				],
-			},
-		},
-		"elysium:t4_fire_robe_legs": {
-			modifiers: {
-				"generic.armor": [
-					"3",
-					"0",
-				],
-				"generic.durability": [
-					"1920",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"2",
-					"0",
-				],
-			},
-		},
-		"magistuarmoryaddon:darkblued_greenwich_armet": {
-			modifiers: {
-				"generic.max_health": [
-					"2",
-					"0",
-				],
-				"generic.armor": [
-					"4",
-					"0",
-				],
-				"generic.durability": [
-					"1920",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"3",
-					"0",
-				],
-			},
-		},
-		"elysium:t5_fire_robe_head": {
-			modifiers: {
-				"generic.armor": [
-					"3",
-					"0",
-				],
-				"generic.durability": [
-					"2160",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"3",
-					"0",
-				],
-			},
-		},
-		"paladins:prior_robe_feet": {
-			modifiers: {
-				"generic.armor": [
-					"3",
-					"0",
-				],
-				"generic.durability": [
-					"480",
-					"0",
-				],
-			},
-		},
-		"elysium:t5_frost_robe_feet": {
-			modifiers: {
-				"generic.armor": [
-					"3",
-					"0",
-				],
-				"generic.durability": [
-					"2160",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"3",
-					"0",
-				],
-			},
-		},
-		"magistuarmoryaddon:dark_jousting_helmet": {
-			modifiers: {
-				"generic.max_health": [
-					"3",
-					"0",
-				],
-				"generic.armor": [
-					"5",
-					"0",
-				],
-				"generic.durability": [
-					"2160",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"4",
-					"0",
-				],
-			},
-		},
-		"magistuarmory:jousting_boots": {
-			modifiers: {
-				"generic.max_health": [
-					"1",
-					"0",
-				],
-				"generic.armor": [
-					"4",
-					"0",
-				],
-				"generic.durability": [
-					"960",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"2",
-					"0",
-				],
-			},
-		},
-		"magistuarmory:jousting_chestplate": {
-			modifiers: {
-				"generic.max_health": [
-					"1",
-					"0",
-				],
-				"generic.armor": [
-					"4",
-					"0",
-				],
-				"generic.durability": [
-					"960",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"2",
-					"0",
-				],
-			},
-		},
-		"elysium:t5_prior_robe_legs": {
-			modifiers: {
-				"generic.armor": [
-					"3",
-					"0",
-				],
-				"generic.durability": [
-					"2160",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"3",
-					"0",
-				],
-			},
-		},
-		"elysium:t4_arcane_robe_legs": {
-			modifiers: {
-				"generic.armor": [
-					"3",
-					"0",
-				],
-				"generic.durability": [
-					"1920",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"2",
-					"0",
-				],
-			},
-		},
-		"elysium:maglia_viola_corta_alt": {
-			modifiers: {
-				"generic.armor": [
-					"1",
-					"0",
-				],
-				"generic.durability": [
-					"60",
-					"0",
-				],
-			},
-		},
-		"elysium:miner_helmet": {
-			modifiers: {
-				"generic.armor": [
-					"0",
-					"0",
-				],
-				"generic.durability": [
-					"120",
-					"0",
-				],
-			},
-		},
-		"elysium:t3_frost_robe_chest": {
-			modifiers: {
-				"generic.armor": [
-					"3",
-					"0",
-				],
-				"generic.durability": [
-					"960",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"1",
-					"0",
-				],
-			},
-		},
-		"elysium:maglia_marrone_corta": {
-			modifiers: {
-				"generic.armor": [
-					"1",
-					"0",
-				],
-				"generic.durability": [
-					"60",
-					"0",
-				],
-			},
-		},
-		"wizards:wizard_robe_feet": {
-			modifiers: {
-				"generic.armor": [
-					"2",
-					"0",
-				],
-				"generic.durability": [
-					"240",
-					"0",
-				],
-			},
-		},
-		"elysium:t4_prior_robe_feet": {
-			modifiers: {
-				"generic.armor": [
-					"3",
-					"0",
-				],
-				"generic.durability": [
-					"1920",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"2",
-					"0",
-				],
-			},
-		},
-		"magistuarmoryaddon:landsknecht_light_gray_hat_decoration": {
-			modifiers: {
-				"generic.armor": [
-					"0",
-					"0",
-				],
-			},
-		},
-		"magistuarmory:knight_chestplate": {
-			modifiers: {
-				"generic.max_health": [
-					"1",
-					"0",
-				],
-				"generic.armor": [
-					"4",
-					"0",
-				],
-				"generic.durability": [
-					"960",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"2",
 					"0",
 				],
 			},
@@ -2457,22 +2300,10 @@
 				],
 			},
 		},
-		"immersive_armors:steampunk_helmet": {
+		"magistuarmory:rustednorman_helmet": {
 			modifiers: {
 				"generic.armor": [
 					"0",
-					"0",
-				],
-				"generic.durability": [
-					"120",
-					"0",
-				],
-			},
-		},
-		"wizards:arcane_robe_legs": {
-			modifiers: {
-				"generic.armor": [
-					"3",
 					"0",
 				],
 				"generic.durability": [
@@ -2481,42 +2312,10 @@
 				],
 			},
 		},
-		"magistuarmoryaddon:xiii_century_knight_boots": {
+		"magistuarmoryaddon:landsknecht_black_hat_decoration": {
 			modifiers: {
 				"generic.armor": [
-					"4",
 					"0",
-				],
-				"generic.durability": [
-					"960",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"1",
-					"0",
-				],
-			},
-		},
-		"elysium:maglia_lunga": {
-			modifiers: {
-				"generic.armor": [
-					"1",
-					"0",
-				],
-				"generic.durability": [
-					"60",
-					"0",
-				],
-			},
-		},
-		"wizards:wizard_robe_legs": {
-			modifiers: {
-				"generic.armor": [
-					"2",
-					"0",
-				],
-				"generic.durability": [
-					"240",
 					"0",
 				],
 			},
@@ -2529,130 +2328,114 @@
 				],
 			},
 		},
-		"wizards:frost_robe_feet": {
+		"magistuarmoryaddon:landsknecht_brown_hat_decoration": {
 			modifiers: {
 				"generic.armor": [
-					"3",
 					"0",
-				],
-				"generic.durability": [
-					"480",
 					"0",
 				],
 			},
 		},
-		"magistuarmoryaddon:dark_maximilian_helmet": {
+		"magistuarmoryaddon:landsknecht_cyan_hat_decoration": {
 			modifiers: {
-				"generic.max_health": [
-					"3",
-					"0",
-				],
 				"generic.armor": [
-					"5",
 					"0",
-				],
-				"generic.durability": [
-					"2160",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"4",
 					"0",
 				],
 			},
 		},
-		"elysium:maglia_verde_corta": {
+		"magistuarmoryaddon:landsknecht_gray_hat_decoration": {
 			modifiers: {
 				"generic.armor": [
-					"1",
 					"0",
-				],
-				"generic.durability": [
-					"60",
 					"0",
 				],
 			},
 		},
-		"elysium:t3_fire_robe_legs": {
+		"magistuarmoryaddon:landsknecht_green_hat_decoration": {
 			modifiers: {
 				"generic.armor": [
-					"3",
 					"0",
-				],
-				"generic.durability": [
-					"960",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"1",
 					"0",
 				],
 			},
 		},
-		"magistuarmoryaddon:darkblued_gothic_boots": {
+		"magistuarmoryaddon:landsknecht_light_blue_hat_decoration": {
 			modifiers: {
-				"generic.max_health": [
-					"2",
-					"0",
-				],
 				"generic.armor": [
-					"4",
 					"0",
-				],
-				"generic.durability": [
-					"1920",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"3",
 					"0",
 				],
 			},
 		},
-		"magistuarmory:brigandine_chestplate": {
+		"magistuarmoryaddon:landsknecht_light_gray_hat_decoration": {
 			modifiers: {
 				"generic.armor": [
-					"3",
 					"0",
-				],
-				"generic.durability": [
-					"240",
 					"0",
 				],
 			},
 		},
-		"minecraft:diamond_boots": {
+		"magistuarmoryaddon:landsknecht_lime_hat_decoration": {
 			modifiers: {
 				"generic.armor": [
-					"4",
 					"0",
-				],
-				"generic.durability": [
-					"1920",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"2",
 					"0",
 				],
 			},
 		},
-		"elysium:maglia_marrone_lunga": {
+		"magistuarmoryaddon:landsknecht_magenta_hat_decoration": {
 			modifiers: {
 				"generic.armor": [
-					"1",
 					"0",
-				],
-				"generic.durability": [
-					"60",
 					"0",
 				],
 			},
 		},
-		"paladins:priest_robe_legs": {
+		"magistuarmoryaddon:landsknecht_orange_hat_decoration": {
 			modifiers: {
 				"generic.armor": [
-					"1",
+					"0",
+					"0",
+				],
+			},
+		},
+		"magistuarmoryaddon:landsknecht_purple_hat_decoration": {
+			modifiers: {
+				"generic.armor": [
+					"0",
+					"0",
+				],
+			},
+		},
+		"magistuarmoryaddon:landsknecht_red_hat_decoration": {
+			modifiers: {
+				"generic.armor": [
+					"0",
+					"0",
+				],
+			},
+		},
+		"magistuarmoryaddon:landsknecht_white_hat_decoration": {
+			modifiers: {
+				"generic.armor": [
+					"0",
+					"0",
+				],
+			},
+		},
+		"magistuarmoryaddon:landsknecht_yellow_hat_decoration": {
+			modifiers: {
+				"generic.armor": [
+					"0",
+					"0",
+				],
+			},
+		},
+		"miskatonicmysteries:dark_hood": {
+			modifiers: {
+				"generic.armor": [
+					"0",
 					"0",
 				],
 				"generic.durability": [
@@ -2661,78 +2444,58 @@
 				],
 			},
 		},
-		"magistuarmory:chainmail_chestplate": {
+		"miskatonicmysteries:dark_robe": {
+			modifiers: {
+				"generic.armor": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"120",
+					"0",
+				],
+			},
+		},
+		"miskatonicmysteries:dark_skirt": {
+			modifiers: {
+				"generic.armor": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"120",
+					"0",
+				],
+			},
+		},
+		"vinery:straw_hat": {
+			modifiers: {
+				"generic.armor": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"120",
+					"0",
+				],
+			},
+		},
+		"minecraft:diamond_helmet": {
 			modifiers: {
 				"generic.armor": [
 					"4",
 					"0",
 				],
 				"generic.durability": [
-					"480",
+					"1920",
 					"0",
 				],
-			},
-		},
-		"elysium:maglia_verde_lunga_alt": {
-			modifiers: {
-				"generic.armor": [
-					"1",
-					"0",
-				],
-				"generic.durability": [
-					"60",
-					"0",
-				],
-			},
-		},
-		"minecraft:leather_boots": {
-			modifiers: {
-				"generic.armor": [
-					"1",
-					"0",
-				],
-				"generic.durability": [
-					"240",
-					"0",
-				],
-			},
-		},
-		"elysium:pantalone_rosso": {
-			modifiers: {
-				"generic.armor": [
-					"1",
-					"0",
-				],
-				"generic.durability": [
-					"60",
-					"0",
-				],
-			},
-		},
-		"wizards:frost_robe_chest": {
-			modifiers: {
-				"generic.armor": [
-					"3",
-					"0",
-				],
-				"generic.durability": [
-					"480",
-					"0",
-				],
-			},
-		},
-		"elysium:t3_prior_robe_feet": {
-			modifiers: {
-				"generic.armor": [
-					"3",
-					"0",
-				],
-				"generic.durability": [
-					"960",
-					"0",
+				"elysium:armor_unbreaking": [
+					"0.06",
+					"2",
 				],
 				"generic.armor_toughness": [
-					"1",
+					"2",
 					"0",
 				],
 			},
@@ -2747,35 +2510,219 @@
 					"1920",
 					"0",
 				],
+				"elysium:armor_unbreaking": [
+					"0.06",
+					"2",
+				],
 				"generic.armor_toughness": [
 					"2",
 					"0",
 				],
 			},
 		},
-		"magistuarmoryaddon:landsknecht_white_hat_decoration": {
+		"minecraft:diamond_boots": {
 			modifiers: {
-				"generic.armor": [
-					"0",
-					"0",
-				],
-			},
-		},
-		"magistuarmory:maximilian_chestplate": {
-			modifiers: {
-				"generic.max_health": [
-					"1",
-					"0",
-				],
 				"generic.armor": [
 					"4",
 					"0",
 				],
 				"generic.durability": [
-					"960",
+					"1920",
 					"0",
 				],
+				"elysium:armor_unbreaking": [
+					"0.06",
+					"2",
+				],
 				"generic.armor_toughness": [
+					"2",
+					"0",
+				],
+			},
+		},
+		"minecraft:diamond_leggings": {
+			modifiers: {
+				"generic.armor": [
+					"5",
+					"0",
+				],
+				"generic.durability": [
+					"1920",
+					"0",
+				],
+				"elysium:armor_unbreaking": [
+					"0.06",
+					"2",
+				],
+				"generic.armor_toughness": [
+					"2",
+					"0",
+				],
+			},
+		},
+		"magistuarmoryaddon:darkblued_maximilian_chestplate": {
+			modifiers: {
+				"generic.armor": [
+					"5",
+					"0",
+				],
+				"generic.durability": [
+					"1920",
+					"0",
+				],
+				"elysium:armor_unbreaking": [
+					"0.12",
+					"2",
+				],
+				"generic.armor_toughness": [
+					"3",
+					"0",
+				],
+				"generic.max_health": [
+					"2",
+					"0",
+				],
+			},
+		},
+		"magistuarmoryaddon:darkblued_maximilian_helmet": {
+			modifiers: {
+				"generic.armor": [
+					"4",
+					"0",
+				],
+				"generic.durability": [
+					"1920",
+					"0",
+				],
+				"elysium:armor_unbreaking": [
+					"0.12",
+					"2",
+				],
+				"generic.armor_toughness": [
+					"3",
+					"0",
+				],
+				"generic.max_health": [
+					"2",
+					"0",
+				],
+			},
+		},
+		"magistuarmoryaddon:darkblued_maximilian_leggings": {
+			modifiers: {
+				"generic.armor": [
+					"5",
+					"0",
+				],
+				"generic.durability": [
+					"1920",
+					"0",
+				],
+				"elysium:armor_unbreaking": [
+					"0.12",
+					"2",
+				],
+				"generic.armor_toughness": [
+					"3",
+					"0",
+				],
+				"generic.max_health": [
+					"2",
+					"0",
+				],
+			},
+		},
+		"magistuarmoryaddon:darkblued_maximilian_boots": {
+			modifiers: {
+				"generic.armor": [
+					"4",
+					"0",
+				],
+				"generic.durability": [
+					"1920",
+					"0",
+				],
+				"elysium:armor_unbreaking": [
+					"0.12",
+					"2",
+				],
+				"generic.armor_toughness": [
+					"3",
+					"0",
+				],
+				"generic.max_health": [
+					"2",
+					"0",
+				],
+			},
+		},
+		"magistuarmoryaddon:darkblued_knight_chestplate": {
+			modifiers: {
+				"generic.armor": [
+					"5",
+					"0",
+				],
+				"generic.durability": [
+					"1920",
+					"0",
+				],
+				"elysium:armor_unbreaking": [
+					"0.12",
+					"2",
+				],
+				"generic.armor_toughness": [
+					"3",
+					"0",
+				],
+				"generic.max_health": [
+					"2",
+					"0",
+				],
+			},
+		},
+		"magistuarmoryaddon:darkblued_knight_leggings": {
+			modifiers: {
+				"generic.armor": [
+					"5",
+					"0",
+				],
+				"generic.durability": [
+					"1920",
+					"0",
+				],
+				"elysium:armor_unbreaking": [
+					"0.12",
+					"2",
+				],
+				"generic.armor_toughness": [
+					"3",
+					"0",
+				],
+				"generic.max_health": [
+					"2",
+					"0",
+				],
+			},
+		},
+		"magistuarmoryaddon:darkblued_knight_boots": {
+			modifiers: {
+				"generic.armor": [
+					"4",
+					"0",
+				],
+				"generic.durability": [
+					"1920",
+					"0",
+				],
+				"elysium:armor_unbreaking": [
+					"0.12",
+					"2",
+				],
+				"generic.armor_toughness": [
+					"3",
+					"0",
+				],
+				"generic.max_health": [
 					"2",
 					"0",
 				],
@@ -2783,10 +2730,6 @@
 		},
 		"magistuarmoryaddon:darkblued_sallet": {
 			modifiers: {
-				"generic.max_health": [
-					"2",
-					"0",
-				],
 				"generic.armor": [
 					"4",
 					"0",
@@ -2795,34 +2738,158 @@
 					"1920",
 					"0",
 				],
+				"elysium:armor_unbreaking": [
+					"0.12",
+					"2",
+				],
 				"generic.armor_toughness": [
 					"3",
 					"0",
 				],
+				"generic.max_health": [
+					"2",
+					"0",
+				],
 			},
 		},
-		"magistuarmory:xivcenturyknight_leggings": {
+		"magistuarmoryaddon:darkblued_greenwich_armet": {
 			modifiers: {
 				"generic.armor": [
 					"4",
 					"0",
 				],
 				"generic.durability": [
-					"960",
+					"1920",
+					"0",
+				],
+				"elysium:armor_unbreaking": [
+					"0.12",
+					"2",
+				],
+				"generic.armor_toughness": [
+					"3",
+					"0",
+				],
+				"generic.max_health": [
+					"2",
+					"0",
+				],
+			},
+		},
+		"magistuarmoryaddon:darkblued_gothic_chestplate": {
+			modifiers: {
+				"generic.armor": [
+					"5",
+					"0",
+				],
+				"generic.durability": [
+					"1920",
+					"0",
+				],
+				"elysium:armor_unbreaking": [
+					"0.12",
+					"2",
+				],
+				"generic.armor_toughness": [
+					"3",
+					"0",
+				],
+				"generic.max_health": [
+					"2",
+					"0",
+				],
+			},
+		},
+		"magistuarmoryaddon:darkblued_gothic_leggings": {
+			modifiers: {
+				"generic.armor": [
+					"5",
+					"0",
+				],
+				"generic.durability": [
+					"1920",
+					"0",
+				],
+				"elysium:armor_unbreaking": [
+					"0.12",
+					"2",
+				],
+				"generic.armor_toughness": [
+					"3",
+					"0",
+				],
+				"generic.max_health": [
+					"2",
+					"0",
+				],
+			},
+		},
+		"magistuarmoryaddon:darkblued_gothic_boots": {
+			modifiers: {
+				"generic.armor": [
+					"4",
+					"0",
+				],
+				"generic.durability": [
+					"1920",
+					"0",
+				],
+				"elysium:armor_unbreaking": [
+					"0.12",
+					"2",
+				],
+				"generic.armor_toughness": [
+					"3",
+					"0",
+				],
+				"generic.max_health": [
+					"2",
+					"0",
+				],
+			},
+		},
+		"magistuarmoryaddon:dark_maximilian_chestplate": {
+			modifiers: {
+				"generic.armor": [
+					"5",
+					"0",
+				],
+				"generic.durability": [
+					"2160",
 					"0",
 				],
 				"generic.armor_toughness": [
-					"1",
+					"4",
+					"0",
+				],
+				"generic.max_health": [
+					"3",
+					"0",
+				],
+			},
+		},
+		"magistuarmoryaddon:dark_maximilian_helmet": {
+			modifiers: {
+				"generic.armor": [
+					"5",
+					"0",
+				],
+				"generic.durability": [
+					"2160",
+					"0",
+				],
+				"generic.armor_toughness": [
+					"4",
+					"0",
+				],
+				"generic.max_health": [
+					"3",
 					"0",
 				],
 			},
 		},
 		"magistuarmoryaddon:dark_maximilian_leggings": {
 			modifiers: {
-				"generic.max_health": [
-					"3",
-					"0",
-				],
 				"generic.armor": [
 					"5",
 					"0",
@@ -2835,24 +2902,16 @@
 					"4",
 					"0",
 				],
-			},
-		},
-		"wizards:frost_robe_head": {
-			modifiers: {
-				"generic.armor": [
+				"generic.max_health": [
 					"3",
-					"0",
-				],
-				"generic.durability": [
-					"480",
 					"0",
 				],
 			},
 		},
-		"elysium:t5_fire_robe_feet": {
+		"magistuarmoryaddon:dark_maximilian_boots": {
 			modifiers: {
 				"generic.armor": [
-					"3",
+					"5",
 					"0",
 				],
 				"generic.durability": [
@@ -2860,112 +2919,176 @@
 					"0",
 				],
 				"generic.armor_toughness": [
-					"3",
+					"4",
 					"0",
 				],
-			},
-		},
-		"elysium:maglia_blu_corta_alt": {
-			modifiers: {
-				"generic.armor": [
-					"1",
-					"0",
-				],
-				"generic.durability": [
-					"60",
-					"0",
-				],
-			},
-		},
-		"minecraft:chainmail_boots": {
-			modifiers: {
-				"generic.armor": [
-					"3",
-					"0",
-				],
-				"generic.durability": [
-					"480",
-					"0",
-				],
-			},
-		},
-		"magistuarmory:gambeson_chestplate": {
-			modifiers: {
-				"generic.armor": [
-					"2",
-					"0",
-				],
-				"generic.durability": [
-					"120",
-					"0",
-				],
-			},
-		},
-		"magistuarmoryaddon:heavy_brigandine_chestplate": {
-			modifiers: {
-				"generic.armor": [
-					"3",
-					"0",
-				],
-				"generic.durability": [
-					"240",
-					"0",
-				],
-			},
-		},
-		"magistuarmoryaddon:darkblued_maximilian_chestplate": {
-			modifiers: {
 				"generic.max_health": [
-					"2",
+					"3",
 					"0",
 				],
+			},
+		},
+		"magistuarmoryaddon:dark_knight_chestplate": {
+			modifiers: {
 				"generic.armor": [
 					"5",
 					"0",
 				],
 				"generic.durability": [
-					"1920",
+					"2160",
 					"0",
 				],
 				"generic.armor_toughness": [
-					"3",
-					"0",
-				],
-			},
-		},
-		"immersive_armors:wooden_leggings": {
-			modifiers: {
-				"generic.armor": [
-					"3",
-					"0",
-				],
-				"generic.durability": [
-					"240",
-					"0",
-				],
-			},
-		},
-		"magistuarmory:maximilian_leggings": {
-			modifiers: {
-				"generic.max_health": [
-					"1",
-					"0",
-				],
-				"generic.armor": [
 					"4",
 					"0",
 				],
-				"generic.durability": [
-					"960",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"2",
+				"generic.max_health": [
+					"3",
 					"0",
 				],
 			},
 		},
-		"elysium:t4_frost_robe_chest": {
+		"magistuarmoryaddon:dark_knight_leggings": {
+			modifiers: {
+				"generic.armor": [
+					"5",
+					"0",
+				],
+				"generic.durability": [
+					"2160",
+					"0",
+				],
+				"generic.armor_toughness": [
+					"4",
+					"0",
+				],
+				"generic.max_health": [
+					"3",
+					"0",
+				],
+			},
+		},
+		"magistuarmoryaddon:dark_knight_boots": {
+			modifiers: {
+				"generic.armor": [
+					"5",
+					"0",
+				],
+				"generic.durability": [
+					"2160",
+					"0",
+				],
+				"generic.armor_toughness": [
+					"4",
+					"0",
+				],
+				"generic.max_health": [
+					"3",
+					"0",
+				],
+			},
+		},
+		"magistuarmoryaddon:dark_knight_helmet": {
+			modifiers: {
+				"generic.armor": [
+					"5",
+					"0",
+				],
+				"generic.durability": [
+					"2160",
+					"0",
+				],
+				"generic.armor_toughness": [
+					"4",
+					"0",
+				],
+				"generic.max_health": [
+					"3",
+					"0",
+				],
+			},
+		},
+		"magistuarmoryaddon:dark_jousting_helmet": {
+			modifiers: {
+				"generic.armor": [
+					"5",
+					"0",
+				],
+				"generic.durability": [
+					"2160",
+					"0",
+				],
+				"generic.armor_toughness": [
+					"4",
+					"0",
+				],
+				"generic.max_health": [
+					"3",
+					"0",
+				],
+			},
+		},
+		"magistuarmoryaddon:dark_jousting_chestplate": {
+			modifiers: {
+				"generic.armor": [
+					"5",
+					"0",
+				],
+				"generic.durability": [
+					"2160",
+					"0",
+				],
+				"generic.armor_toughness": [
+					"4",
+					"0",
+				],
+				"generic.max_health": [
+					"3",
+					"0",
+				],
+			},
+		},
+		"magistuarmoryaddon:dark_jousting_leggings": {
+			modifiers: {
+				"generic.armor": [
+					"5",
+					"0",
+				],
+				"generic.durability": [
+					"2160",
+					"0",
+				],
+				"generic.armor_toughness": [
+					"4",
+					"0",
+				],
+				"generic.max_health": [
+					"3",
+					"0",
+				],
+			},
+		},
+		"magistuarmoryaddon:dark_jousting_boots": {
+			modifiers: {
+				"generic.armor": [
+					"5",
+					"0",
+				],
+				"generic.durability": [
+					"2160",
+					"0",
+				],
+				"generic.armor_toughness": [
+					"4",
+					"0",
+				],
+				"generic.max_health": [
+					"3",
+					"0",
+				],
+			},
+		},
+		"elysium:t4_arcane_robe_chest": {
 			modifiers: {
 				"generic.armor": [
 					"3",
@@ -2997,50 +3120,10 @@
 				],
 			},
 		},
-		"magistuarmory:knight_leggings": {
-			modifiers: {
-				"generic.max_health": [
-					"1",
-					"0",
-				],
-				"generic.armor": [
-					"4",
-					"0",
-				],
-				"generic.durability": [
-					"960",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"2",
-					"0",
-				],
-			},
-		},
-		"magistuarmoryaddon:tunic_boots": {
+		"elysium:t4_arcane_robe_head": {
 			modifiers: {
 				"generic.armor": [
-					"0",
-					"0",
-				],
-				"generic.durability": [
-					"60",
-					"0",
-				],
-			},
-		},
-		"magistuarmoryaddon:landsknecht_yellow_hat_decoration": {
-			modifiers: {
-				"generic.armor": [
-					"0",
-					"0",
-				],
-			},
-		},
-		"minecraft:diamond_helmet": {
-			modifiers: {
-				"generic.armor": [
-					"4",
+					"3",
 					"0",
 				],
 				"generic.durability": [
@@ -3053,26 +3136,370 @@
 				],
 			},
 		},
-		"magistuarmoryaddon:gallowglass_leggings": {
+		"elysium:t4_arcane_robe_legs": {
 			modifiers: {
 				"generic.armor": [
 					"3",
 					"0",
 				],
 				"generic.durability": [
-					"240",
+					"1920",
+					"0",
+				],
+				"generic.armor_toughness": [
+					"2",
 					"0",
 				],
 			},
 		},
-		"miskatonicmysteries:dark_skirt": {
+		"elysium:t4_fire_robe_chest": {
 			modifiers: {
 				"generic.armor": [
-					"0",
+					"3",
 					"0",
 				],
 				"generic.durability": [
-					"120",
+					"1920",
+					"0",
+				],
+				"generic.armor_toughness": [
+					"2",
+					"0",
+				],
+			},
+		},
+		"elysium:t4_fire_robe_feet": {
+			modifiers: {
+				"generic.armor": [
+					"3",
+					"0",
+				],
+				"generic.durability": [
+					"1920",
+					"0",
+				],
+				"generic.armor_toughness": [
+					"2",
+					"0",
+				],
+			},
+		},
+		"elysium:t4_fire_robe_head": {
+			modifiers: {
+				"generic.armor": [
+					"3",
+					"0",
+				],
+				"generic.durability": [
+					"1920",
+					"0",
+				],
+				"generic.armor_toughness": [
+					"2",
+					"0",
+				],
+			},
+		},
+		"elysium:t4_fire_robe_legs": {
+			modifiers: {
+				"generic.armor": [
+					"3",
+					"0",
+				],
+				"generic.durability": [
+					"1920",
+					"0",
+				],
+				"generic.armor_toughness": [
+					"2",
+					"0",
+				],
+			},
+		},
+		"elysium:t4_frost_robe_chest": {
+			modifiers: {
+				"generic.armor": [
+					"3",
+					"0",
+				],
+				"generic.durability": [
+					"1920",
+					"0",
+				],
+				"generic.armor_toughness": [
+					"2",
+					"0",
+				],
+			},
+		},
+		"elysium:t4_frost_robe_feet": {
+			modifiers: {
+				"generic.armor": [
+					"3",
+					"0",
+				],
+				"generic.durability": [
+					"1920",
+					"0",
+				],
+				"generic.armor_toughness": [
+					"2",
+					"0",
+				],
+			},
+		},
+		"elysium:t4_frost_robe_head": {
+			modifiers: {
+				"generic.armor": [
+					"3",
+					"0",
+				],
+				"generic.durability": [
+					"1920",
+					"0",
+				],
+				"generic.armor_toughness": [
+					"2",
+					"0",
+				],
+			},
+		},
+		"elysium:t4_frost_robe_legs": {
+			modifiers: {
+				"generic.armor": [
+					"3",
+					"0",
+				],
+				"generic.durability": [
+					"1920",
+					"0",
+				],
+				"generic.armor_toughness": [
+					"2",
+					"0",
+				],
+			},
+		},
+		"elysium:t4_prior_robe_chest": {
+			modifiers: {
+				"generic.armor": [
+					"3",
+					"0",
+				],
+				"generic.durability": [
+					"1920",
+					"0",
+				],
+				"generic.armor_toughness": [
+					"2",
+					"0",
+				],
+			},
+		},
+		"elysium:t4_prior_robe_feet": {
+			modifiers: {
+				"generic.armor": [
+					"3",
+					"0",
+				],
+				"generic.durability": [
+					"1920",
+					"0",
+				],
+				"generic.armor_toughness": [
+					"2",
+					"0",
+				],
+			},
+		},
+		"elysium:t4_prior_robe_head": {
+			modifiers: {
+				"generic.armor": [
+					"3",
+					"0",
+				],
+				"generic.durability": [
+					"1920",
+					"0",
+				],
+				"generic.armor_toughness": [
+					"2",
+					"0",
+				],
+			},
+		},
+		"elysium:t4_prior_robe_legs": {
+			modifiers: {
+				"generic.armor": [
+					"3",
+					"0",
+				],
+				"generic.durability": [
+					"1920",
+					"0",
+				],
+				"generic.armor_toughness": [
+					"2",
+					"0",
+				],
+			},
+		},
+		"elysium:t5_arcane_robe_chest": {
+			modifiers: {
+				"generic.armor": [
+					"3",
+					"0",
+				],
+				"generic.durability": [
+					"2160",
+					"0",
+				],
+				"generic.armor_toughness": [
+					"3",
+					"0",
+				],
+			},
+		},
+		"elysium:t5_arcane_robe_feet": {
+			modifiers: {
+				"generic.armor": [
+					"3",
+					"0",
+				],
+				"generic.durability": [
+					"2160",
+					"0",
+				],
+				"generic.armor_toughness": [
+					"3",
+					"0",
+				],
+			},
+		},
+		"elysium:t5_arcane_robe_head": {
+			modifiers: {
+				"generic.armor": [
+					"3",
+					"0",
+				],
+				"generic.durability": [
+					"2160",
+					"0",
+				],
+				"generic.armor_toughness": [
+					"3",
+					"0",
+				],
+			},
+		},
+		"elysium:t5_arcane_robe_legs": {
+			modifiers: {
+				"generic.armor": [
+					"3",
+					"0",
+				],
+				"generic.durability": [
+					"2160",
+					"0",
+				],
+				"generic.armor_toughness": [
+					"3",
+					"0",
+				],
+			},
+		},
+		"elysium:t5_fire_robe_chest": {
+			modifiers: {
+				"generic.armor": [
+					"3",
+					"0",
+				],
+				"generic.durability": [
+					"2160",
+					"0",
+				],
+				"generic.armor_toughness": [
+					"3",
+					"0",
+				],
+			},
+		},
+		"elysium:t5_fire_robe_feet": {
+			modifiers: {
+				"generic.armor": [
+					"3",
+					"0",
+				],
+				"generic.durability": [
+					"2160",
+					"0",
+				],
+				"generic.armor_toughness": [
+					"3",
+					"0",
+				],
+			},
+		},
+		"elysium:t5_fire_robe_head": {
+			modifiers: {
+				"generic.armor": [
+					"3",
+					"0",
+				],
+				"generic.durability": [
+					"2160",
+					"0",
+				],
+				"generic.armor_toughness": [
+					"3",
+					"0",
+				],
+			},
+		},
+		"elysium:t5_fire_robe_legs": {
+			modifiers: {
+				"generic.armor": [
+					"3",
+					"0",
+				],
+				"generic.durability": [
+					"2160",
+					"0",
+				],
+				"generic.armor_toughness": [
+					"3",
+					"0",
+				],
+			},
+		},
+		"elysium:t5_frost_robe_chest": {
+			modifiers: {
+				"generic.armor": [
+					"3",
+					"0",
+				],
+				"generic.durability": [
+					"2160",
+					"0",
+				],
+				"generic.armor_toughness": [
+					"3",
+					"0",
+				],
+			},
+		},
+		"elysium:t5_frost_robe_feet": {
+			modifiers: {
+				"generic.armor": [
+					"3",
+					"0",
+				],
+				"generic.durability": [
+					"2160",
+					"0",
+				],
+				"generic.armor_toughness": [
+					"3",
 					"0",
 				],
 			},
@@ -3093,58 +3520,10 @@
 				],
 			},
 		},
-		"magistuarmoryaddon:darkblued_maximilian_boots": {
+		"elysium:t5_frost_robe_legs": {
 			modifiers: {
-				"generic.max_health": [
-					"2",
-					"0",
-				],
 				"generic.armor": [
-					"4",
-					"0",
-				],
-				"generic.durability": [
-					"1920",
-					"0",
-				],
-				"generic.armor_toughness": [
 					"3",
-					"0",
-				],
-			},
-		},
-		"elysium:maglia_acqua_corta_alt": {
-			modifiers: {
-				"generic.armor": [
-					"1",
-					"0",
-				],
-				"generic.durability": [
-					"60",
-					"0",
-				],
-			},
-		},
-		"elysium:pantalone": {
-			modifiers: {
-				"generic.armor": [
-					"1",
-					"0",
-				],
-				"generic.durability": [
-					"60",
-					"0",
-				],
-			},
-		},
-		"magistuarmoryaddon:dark_knight_helmet": {
-			modifiers: {
-				"generic.max_health": [
-					"3",
-					"0",
-				],
-				"generic.armor": [
-					"5",
 					"0",
 				],
 				"generic.durability": [
@@ -3152,79 +3531,7 @@
 					"0",
 				],
 				"generic.armor_toughness": [
-					"4",
-					"0",
-				],
-			},
-		},
-		"wizards:fire_robe_chest": {
-			modifiers: {
-				"generic.armor": [
 					"3",
-					"0",
-				],
-				"generic.durability": [
-					"480",
-					"0",
-				],
-			},
-		},
-		"magistuarmory:rustedchainmail_helmet": {
-			modifiers: {
-				"generic.armor": [
-					"0",
-					"0",
-				],
-				"generic.durability": [
-					"480",
-					"0",
-				],
-			},
-		},
-		"magistuarmory:lamellar_chestplate": {
-			modifiers: {
-				"generic.armor": [
-					"4",
-					"0",
-				],
-				"generic.durability": [
-					"480",
-					"0",
-				],
-			},
-		},
-		"magistuarmoryaddon:dark_jousting_chestplate": {
-			modifiers: {
-				"generic.max_health": [
-					"3",
-					"0",
-				],
-				"generic.armor": [
-					"5",
-					"0",
-				],
-				"generic.durability": [
-					"2160",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"4",
-					"0",
-				],
-			},
-		},
-		"magistuarmory:xivcenturyknight_boots": {
-			modifiers: {
-				"generic.armor": [
-					"4",
-					"0",
-				],
-				"generic.durability": [
-					"960",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"1",
 					"0",
 				],
 			},
@@ -3245,18 +3552,14 @@
 				],
 			},
 		},
-		"magistuarmoryaddon:darkblued_gothic_leggings": {
+		"elysium:t5_prior_robe_feet": {
 			modifiers: {
-				"generic.max_health": [
-					"2",
-					"0",
-				],
 				"generic.armor": [
-					"5",
+					"3",
 					"0",
 				],
 				"generic.durability": [
-					"1920",
+					"2160",
 					"0",
 				],
 				"generic.armor_toughness": [
@@ -3265,162 +3568,34 @@
 				],
 			},
 		},
-		"elysium:maglia_blu_lunga": {
-			modifiers: {
-				"generic.armor": [
-					"1",
-					"0",
-				],
-				"generic.durability": [
-					"60",
-					"0",
-				],
-			},
-		},
-		"elysium:t3_arcane_robe_chest": {
+		"elysium:t5_prior_robe_head": {
 			modifiers: {
 				"generic.armor": [
 					"3",
 					"0",
 				],
 				"generic.durability": [
-					"960",
+					"2160",
 					"0",
 				],
 				"generic.armor_toughness": [
-					"1",
+					"3",
 					"0",
 				],
 			},
 		},
-		"magistuarmoryaddon:xiii_century_knight_leggings": {
-			modifiers: {
-				"generic.armor": [
-					"4",
-					"0",
-				],
-				"generic.durability": [
-					"960",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"1",
-					"0",
-				],
-			},
-		},
-		"minecraft:diamond_leggings": {
-			modifiers: {
-				"generic.armor": [
-					"5",
-					"0",
-				],
-				"generic.durability": [
-					"1920",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"2",
-					"0",
-				],
-			},
-		},
-		"elysium:stivali": {
-			modifiers: {
-				"generic.armor": [
-					"0",
-					"0",
-				],
-				"generic.durability": [
-					"60",
-					"0",
-				],
-			},
-		},
-		"magistuarmory:coif": {
-			modifiers: {
-				"generic.armor": [
-					"1",
-					"0",
-				],
-				"generic.durability": [
-					"120",
-					"0",
-				],
-			},
-		},
-		"elysium:t3_prior_robe_head": {
+		"elysium:t5_prior_robe_legs": {
 			modifiers: {
 				"generic.armor": [
 					"3",
 					"0",
 				],
 				"generic.durability": [
-					"960",
+					"2160",
 					"0",
 				],
 				"generic.armor_toughness": [
-					"1",
-					"0",
-				],
-			},
-		},
-		"magistuarmoryaddon:landsknecht_cyan_hat_decoration": {
-			modifiers: {
-				"generic.armor": [
-					"0",
-					"0",
-				],
-			},
-		},
-		"wizards:arcane_robe_feet": {
-			modifiers: {
-				"generic.armor": [
 					"3",
-					"0",
-				],
-				"generic.durability": [
-					"480",
-					"0",
-				],
-			},
-		},
-		"wizards:frost_robe_legs": {
-			modifiers: {
-				"generic.armor": [
-					"3",
-					"0",
-				],
-				"generic.durability": [
-					"480",
-					"0",
-				],
-			},
-		},
-		"paladins:prior_robe_chest": {
-			modifiers: {
-				"generic.armor": [
-					"3",
-					"0",
-				],
-				"generic.durability": [
-					"480",
-					"0",
-				],
-			},
-		},
-		"magistuarmory:xivcenturyknight_chestplate": {
-			modifiers: {
-				"generic.armor": [
-					"4",
-					"0",
-				],
-				"generic.durability": [
-					"960",
-					"0",
-				],
-				"generic.armor_toughness": [
-					"1",
 					"0",
 				],
 			},

@@ -115,6 +115,10 @@
 		"elysium:mine": "adventure",
 		"elysium:heat": "adventure",
 		"elysium:dark": "adventure",
+		"elysium:arena": "adventure",
+		"elysium:battle": "adventure",
+		"elysium:soccer": "adventure",
+		"elysium:village": "adventure",
 		"minecraft:the_end": "adventure",
 	},
 	// Configuration for the ""simple"" anti-cheat
