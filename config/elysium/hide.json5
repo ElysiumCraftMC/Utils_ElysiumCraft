@@ -1025,7 +1025,6 @@
 		"minecraft:arrow{}",
 		"minecraft:bee_nest{}",
 		"minecraft:beehive{}",
-		"minecraft:cauldron{}",
 		"minecraft:composter{}",
 		"minecraft:crossbow{}",
 		"minecraft:diamond{Enchantments:[{id:\"minecraft:lure\",lvl:68s}],HideFlags:127,\"Polymer$itemId\":\"goml:crystal_upgrade_kit\",display:{Name:'{\"italic\":false,\"extra\":[{\"italic\":false,\"text\":\"Crystal Upgrade Kit\"}],\"text\":\"\"}'}}",
