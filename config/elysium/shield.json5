@@ -143,10 +143,6 @@
 					"1440",
 					"0",
 				],
-				"elysium:armor_unbreaking": [
-					"0.12",
-					"2",
-				],
 			},
 		},
 		"magistuarmory:steel_heatershield": {
@@ -242,10 +238,6 @@
 				"generic.durability": [
 					"720",
 					"0",
-				],
-				"elysium:armor_unbreaking": [
-					"0.08",
-					"2",
 				],
 			},
 		},
@@ -619,10 +611,6 @@
 					"1440",
 					"0",
 				],
-				"elysium:armor_unbreaking": [
-					"0.12",
-					"2",
-				],
 			},
 		},
 		"magistuarmory:netherite_target": {
@@ -923,10 +911,6 @@
 					"720",
 					"0",
 				],
-				"elysium:armor_unbreaking": [
-					"0.08",
-					"2",
-				],
 			},
 		},
 		"magistuarmory:gold_target": {
@@ -951,10 +935,6 @@
 					"1440",
 					"0",
 				],
-				"elysium:armor_unbreaking": [
-					"0.12",
-					"2",
-				],
 			},
 		},
 		"magistuarmory:gold_kiteshield": {
@@ -966,10 +946,6 @@
 				"generic.durability": [
 					"720",
 					"0",
-				],
-				"elysium:armor_unbreaking": [
-					"0.08",
-					"2",
 				],
 			},
 		},
