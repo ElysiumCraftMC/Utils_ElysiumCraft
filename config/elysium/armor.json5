@@ -950,6 +950,10 @@
 					"1",
 					"0",
 				],
+				"elysium:armor_unbreaking": [
+					"0.10",
+					"2",
+				],
 			},
 		},
 		"magistuarmory:cuirassier_chestplate": {
@@ -965,6 +969,10 @@
 				"generic.armor_toughness": [
 					"1",
 					"0",
+				],
+				"elysium:armor_unbreaking": [
+					"0.10",
+					"2",
 				],
 			},
 		},
@@ -982,6 +990,10 @@
 					"1",
 					"0",
 				],
+				"elysium:armor_unbreaking": [
+					"0.10",
+					"2",
+				],
 			},
 		},
 		"magistuarmory:cuirassier_leggings": {
@@ -997,6 +1009,10 @@
 				"generic.armor_toughness": [
 					"1",
 					"0",
+				],
+				"elysium:armor_unbreaking": [
+					"0.10",
+					"2",
 				],
 			},
 		},
@@ -1074,6 +1090,10 @@
 					"1",
 					"0",
 				],
+				"elysium:armor_unbreaking": [
+					"0.10",
+					"2",
+				],
 			},
 		},
 		"minecraft:iron_chestplate": {
@@ -1089,6 +1109,10 @@
 				"generic.armor_toughness": [
 					"1",
 					"0",
+				],
+				"elysium:armor_unbreaking": [
+					"0.10",
+					"2",
 				],
 			},
 		},
@@ -1106,6 +1130,10 @@
 					"1",
 					"0",
 				],
+				"elysium:armor_unbreaking": [
+					"0.10",
+					"2",
+				],
 			},
 		},
 		"minecraft:iron_leggings": {
@@ -1121,6 +1149,10 @@
 				"generic.armor_toughness": [
 					"1",
 					"0",
+				],
+				"elysium:armor_unbreaking": [
+					"0.10",
+					"2",
 				],
 			},
 		},
@@ -1583,7 +1615,7 @@
 					"0",
 				],
 				"elysium:armor_unbreaking": [
-					"0.08",
+					"0.12",
 					"2",
 				],
 				"generic.armor_toughness": [
@@ -1607,7 +1639,7 @@
 					"0",
 				],
 				"elysium:armor_unbreaking": [
-					"0.08",
+					"0.12",
 					"2",
 				],
 				"generic.armor_toughness": [
@@ -1631,7 +1663,7 @@
 					"0",
 				],
 				"elysium:armor_unbreaking": [
-					"0.08",
+					"0.12",
 					"2",
 				],
 				"generic.armor_toughness": [
@@ -1675,7 +1707,7 @@
 					"0",
 				],
 				"elysium:armor_unbreaking": [
-					"0.08",
+					"0.12",
 					"2",
 				],
 				"generic.armor_toughness": [
@@ -1699,7 +1731,7 @@
 					"0",
 				],
 				"elysium:armor_unbreaking": [
-					"0.08",
+					"0.12",
 					"2",
 				],
 				"generic.armor_toughness": [
@@ -1723,7 +1755,7 @@
 					"0",
 				],
 				"elysium:armor_unbreaking": [
-					"0.08",
+					"0.12",
 					"2",
 				],
 				"generic.armor_toughness": [
@@ -1747,7 +1779,7 @@
 					"0",
 				],
 				"elysium:armor_unbreaking": [
-					"0.08",
+					"0.12",
 					"2",
 				],
 				"generic.armor_toughness": [
@@ -1771,7 +1803,7 @@
 					"0",
 				],
 				"elysium:armor_unbreaking": [
-					"0.08",
+					"0.12",
 					"2",
 				],
 				"generic.armor_toughness": [
@@ -1823,7 +1855,7 @@
 					"0",
 				],
 				"elysium:armor_unbreaking": [
-					"0.08",
+					"0.12",
 					"2",
 				],
 				"generic.armor_toughness": [
@@ -1847,7 +1879,7 @@
 					"0",
 				],
 				"elysium:armor_unbreaking": [
-					"0.08",
+					"0.12",
 					"2",
 				],
 				"generic.armor_toughness": [
@@ -1951,7 +1983,7 @@
 					"0",
 				],
 				"elysium:armor_unbreaking": [
-					"0.08",
+					"0.12",
 					"2",
 				],
 				"generic.armor_toughness": [
@@ -1975,7 +2007,7 @@
 					"0",
 				],
 				"elysium:armor_unbreaking": [
-					"0.08",
+					"0.12",
 					"2",
 				],
 				"generic.armor_toughness": [
@@ -2571,7 +2603,7 @@
 					"0",
 				],
 				"elysium:armor_unbreaking": [
-					"0.12",
+					"0.14",
 					"2",
 				],
 				"generic.armor_toughness": [
@@ -2595,7 +2627,7 @@
 					"0",
 				],
 				"elysium:armor_unbreaking": [
-					"0.12",
+					"0.14",
 					"2",
 				],
 				"generic.armor_toughness": [
@@ -2619,7 +2651,7 @@
 					"0",
 				],
 				"elysium:armor_unbreaking": [
-					"0.12",
+					"0.14",
 					"2",
 				],
 				"generic.armor_toughness": [
@@ -2643,7 +2675,7 @@
 					"0",
 				],
 				"elysium:armor_unbreaking": [
-					"0.12",
+					"0.14",
 					"2",
 				],
 				"generic.armor_toughness": [
@@ -2667,7 +2699,7 @@
 					"0",
 				],
 				"elysium:armor_unbreaking": [
-					"0.12",
+					"0.14",
 					"2",
 				],
 				"generic.armor_toughness": [
@@ -2691,7 +2723,7 @@
 					"0",
 				],
 				"elysium:armor_unbreaking": [
-					"0.12",
+					"0.14",
 					"2",
 				],
 				"generic.armor_toughness": [
@@ -2715,7 +2747,7 @@
 					"0",
 				],
 				"elysium:armor_unbreaking": [
-					"0.12",
+					"0.14",
 					"2",
 				],
 				"generic.armor_toughness": [
@@ -2739,7 +2771,7 @@
 					"0",
 				],
 				"elysium:armor_unbreaking": [
-					"0.12",
+					"0.14",
 					"2",
 				],
 				"generic.armor_toughness": [
@@ -2763,7 +2795,7 @@
 					"0",
 				],
 				"elysium:armor_unbreaking": [
-					"0.12",
+					"0.14",
 					"2",
 				],
 				"generic.armor_toughness": [
@@ -2787,7 +2819,7 @@
 					"0",
 				],
 				"elysium:armor_unbreaking": [
-					"0.12",
+					"0.14",
 					"2",
 				],
 				"generic.armor_toughness": [
@@ -2811,7 +2843,7 @@
 					"0",
 				],
 				"elysium:armor_unbreaking": [
-					"0.12",
+					"0.14",
 					"2",
 				],
 				"generic.armor_toughness": [
@@ -2835,7 +2867,7 @@
 					"0",
 				],
 				"elysium:armor_unbreaking": [
-					"0.12",
+					"0.14",
 					"2",
 				],
 				"generic.armor_toughness": [
