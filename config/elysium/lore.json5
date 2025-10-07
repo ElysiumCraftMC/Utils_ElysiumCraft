@@ -117,7 +117,7 @@
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:magenta_silver_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"minecraft:iron_sword": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
@@ -126,7 +126,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_weathered_red_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"minecraft:loom": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -136,7 +136,7 @@
 		],
 		"magistuarmory:steel_morgenstern": [],
 		"mcwlights:covered_wall_lantern": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"uselessreptile:dragon_tail_armor_gold": [],
 		"excessive_building:snow_bricks": [
@@ -158,13 +158,13 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_exposed_black_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"vinery:strad_wine": [
 			"\u00a73Questo alcolico \u00e8 esclusivo per le gare di bevute",
 		],
 		"mcwdoors:iron_portcullis": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_macaw_acacia_stable_head_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -207,10 +207,10 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:black_golden_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:black_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwdoors:spruce_bamboo_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -230,6 +230,9 @@
 		"mcwdoors:bamboo_modern_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"byg:cypress_crafting_table": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
 		"magistuarmoryaddon:tunic": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -239,11 +242,14 @@
 		"clutter:warped_wall_fungi": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"byg:bulbis_crafting_table": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
 		"clutter:acacia_wall_bookshelf": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_light_gray_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"luphieclutteredmod:luphie_pastry_display_case": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -264,7 +270,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_weathered_blue_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"handcrafted:terracotta_thin_pot": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -313,7 +319,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_light_gray_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_macaw_birch_cottage_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -355,7 +361,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:purple_golden_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"twigs:light_gray_silt_shingle_wall": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -368,7 +374,7 @@
 		],
 		"dramaticdoors:tall_chipped_modern_jungle_door": [],
 		"clutter:pink_golden_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"table_top_craft:cyan_terracotta_chess": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -392,7 +398,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"handcrafted:dark_oak_drawer": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -401,10 +407,10 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:light_gray_silver_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:golden_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_byg_holly_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -430,7 +436,9 @@
 		"handcrafted:birch_desk": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"clutter:bonfire": [],
+		"clutter:bonfire": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
 		"dramaticdoors:tall_macaw_dark_oak_stable_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -465,7 +473,7 @@
 			"\u00a7eCrafted by: \u00a77Alchemist",
 		],
 		"clutter:waxed_oxidized_pink_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"luphieclutteredmod:luphie_flowering_pink_stairs": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -517,7 +525,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"mcwlights:striped_lantern": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwwindows:stone_pane_window": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -560,7 +568,7 @@
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:white_iron_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwholidays:red_cube_string_lights": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -590,7 +598,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:pink_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"chipped:botanist_workbench": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -605,7 +613,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:yellow_silver_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_macaw_bamboo_classic_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -632,7 +640,7 @@
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:purple_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwroofs:gutter_base_light_gray": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -691,7 +699,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:gray_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"twigs:yellow_silt_shingle_slab": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -729,9 +737,7 @@
 		"mcwholidays:christmas_tree_bottom": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"elysium:amplify_catalyst": [
-			"\u00a7eCrafted by: \u00a77Alchemist",
-		],
+		"elysium:amplify_catalyst": [],
 		"elysium:cote_copper": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
@@ -760,7 +766,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:gray_golden_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"luphieclutteredmod:anchorwallpaper": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -778,7 +784,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:green_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"multibeds:bed_kit": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -790,7 +796,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:green_golden_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwbridges:sandstone_bridge_stair": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -802,16 +808,19 @@
 			"\u00a73Gemma del Potere Magico",
 		],
 		"clutter:waxed_oxidized_copper_trapdoor": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwlights:cross_lantern": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"supplementaries:byg/sign_post_ether": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:copper_lantern": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
+		"elysium:diamond_shears": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"minecraft:damaged_anvil": [],
 		"handcrafted:kitchen_hood": [
@@ -827,10 +836,10 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_copper_soul_lantern": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:waxed_exposed_white_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"supplementaries:flower_box": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -861,7 +870,7 @@
 		],
 		"spellbladenext:deathchill_feet": [],
 		"supplementaries:iron_gate": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"excessive_building:chiseled_crimson": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -876,7 +885,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:iron_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"luphieclutteredmod:luphie_yellow_button": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -900,7 +909,7 @@
 			"\u00a73Gemma dell'Ispirazione",
 		],
 		"clutter:yellow_golden_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwdoors:spruce_mystic_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -945,7 +954,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"supplementaries:candle_holder_orange": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_chipped_beach_birch_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -978,7 +987,7 @@
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:waxed_oxidized_green_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"excessive_building:acacia_mosaic_stairs": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -1002,7 +1011,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_exposed_red_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwdoors:oak_swamp_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -1020,7 +1029,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_weathered_gray_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"excessive_building:cobbled_granite_vertical_stairs": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -1098,20 +1107,23 @@
 		"mcwdoors:acacia_paper_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"beautiful_ornaments:copper_ring_display": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
 		"excessive_building:polished_brimstone_tile_stairs": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_weathered_light_gray_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:lime_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwbridges:rope_acacia_bridge": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:red_silver_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"twigs:light_gray_silt_shingle_stairs": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -1129,7 +1141,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_red_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"luphieclutteredmod:luphie_dynasty_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -1156,7 +1168,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_exposed_light_gray_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"luphieclutteredmod:luphie_sewing_table_clutter": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -1204,7 +1216,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"supplementaries:candle_holder_red": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_chipped_glass_mangrove_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -1234,7 +1246,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"supplementaries:copper_lantern": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"excessive_building:netherite_bricks": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -1246,7 +1258,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_blue_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwholidays:carved_friendly_pumpkin": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -1255,14 +1267,14 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:orange_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:waxed_exposed_magenta_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"magistuarmory:platemail_boots": [],
 		"clutter:golden_door": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"table_top_craft:pink_concrete_chess": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -1274,7 +1286,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:lime_golden_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_chipped_tiled_mangrove_door": [],
 		"excessive_building:chiseled_dark_oak": [
@@ -1317,7 +1329,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_oxidized_magenta_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"magistuarmory:gold_target": [],
 		"clutter:granite_chimney": [],
@@ -1340,7 +1352,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:gray_silver_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_chipped_tile_windowed_mangrove_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -1355,10 +1367,10 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:brown_iron_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:waxed_oxidized_copper_bars": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_chipped_supported_jungle_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -1367,7 +1379,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_exposed_brown_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:tall_light_gray_lamp": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -1439,7 +1451,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_oxidized_light_blue_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwholidays:red_decorated_christmas_tree_bottom": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -1539,7 +1551,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_lime_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"farmersdelight:lime_canvas_sign": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -1572,6 +1584,9 @@
 		"mcwbridges:mossy_stone_bridge_stair": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"minecraft:bucket": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
 		"twigs:pink_silt_shingles": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -1579,7 +1594,7 @@
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:gray_silver_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_chipped_heavy_oak_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -1600,7 +1615,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_oxidized_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"luphieclutteredmod:luphie_halloween_wallpaper_b": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -1669,7 +1684,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"supplementaries:candle_holder_gray": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"excessive_building:polished_granite_brick_stairs": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -1708,16 +1723,16 @@
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:lime_golden_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:waxed_exposed_pink_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwwindows:stripped_acacia_pane_window": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:copper_chain": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwroofs:jungle_planks_upper_lower_roof": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -1729,7 +1744,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_oxidized_lime_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_chipped_dual_paneled_warped_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -1765,7 +1780,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_exposed_lime_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"elysium:patch_iron": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
@@ -1833,7 +1848,7 @@
 		],
 		"magistuarmory:steel_ellipticalshield": [],
 		"clutter:waxed_weathered_green_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"excessive_building:smooth_quartz_vertical_stairs": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -1842,7 +1857,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:purple_silver_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwwindows:mangrove_window2": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -1931,6 +1946,9 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_copper_candelabra": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
+		"spoornpink:pink_blossom_crafting_table": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"magistuarmory:iron_guisarme": [
@@ -2015,7 +2033,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_green_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_macaw_birch_japanese2_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -2030,16 +2048,16 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:blue_silver_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"twigs:dandelion_paper_lantern": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:lime_silver_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:blue_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"luphieclutteredmod:luphie_plant_jar": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -2048,7 +2066,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:orange_iron_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_macaw_spruce_waffle_door": [],
 		"twigs:polished_schist_brick_wall": [
@@ -2056,7 +2074,7 @@
 		],
 		"minecraft:golden_boots": [],
 		"clutter:red_golden_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"projectiles:netherite_arrow": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
@@ -2074,7 +2092,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"mcwlights:tavern_lantern": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_macaw_oak_barn_glass_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -2086,7 +2104,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_light_blue_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"luphieclutteredmod:luphie_mini_hanging_terrariums": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -2159,7 +2177,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_oxidized_blue_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwdoors:bamboo_paper_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -2199,7 +2217,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_exposed_light_gray_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"supplementaries:luphieclutteredmod/sign_post_luphie_flowering_pink": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -2227,7 +2245,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_copper_door": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwroofs:spruce_roof": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -2260,7 +2278,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_oxidized_gray_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwdoors:dark_oak_japanese2_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -2281,7 +2299,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_pink_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"projectiles:bone_arrow": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
@@ -2316,7 +2334,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_weathered_brown_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:red_lamp": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -2355,7 +2373,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:pink_iron_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwtrpdoors:warped_bamboo_trapdoor": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -2397,10 +2415,10 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_oxidized_cyan_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:light_blue_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:spruce_table": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -2451,7 +2469,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:red_golden_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"elysium:silver_pickaxe": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
@@ -2467,6 +2485,9 @@
 		],
 		"excessive_building:fiery_glass_pane": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"byg:therium_lamp": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"handcrafted:spruce_chair": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -2508,7 +2529,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_copper_chain": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"luphieclutteredmod:luphie_white_mini_cabinet": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -2565,7 +2586,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:pink_iron_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"elysium:t3_fire_robe_legs": [
 			"\u00a7eCrafted by: \u00a77Alchemist",
@@ -2610,7 +2631,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"twigs:copper_pillar": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:blackstone_chimney": [],
 		"twigs:silt_shingles": [
@@ -2699,7 +2720,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_weathered_gray_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwholidays:wreath_wall_deco_2": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -2762,7 +2783,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:black_golden_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"luphieclutteredmod:luphie_yellow_fence_gate": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -2807,10 +2828,10 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_exposed_cyan_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:waxed_yellow_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwbridges:mangrove_bridge_pier": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -2855,6 +2876,9 @@
 		"dramaticdoors:tall_chipped_glass_acacia_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"minecraft:waxed_cut_copper": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
 		"paladins:priest_robe_chest": [
 			"\u00a7eCrafted by: \u00a77Alchemist",
 		],
@@ -2880,6 +2904,9 @@
 		"mcwdoors:crimson_barn_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"byg:ebony_crafting_table": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
 		"dramaticdoors:tall_macaw_dark_oak_bamboo_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -2893,7 +2920,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_exposed_copper_lantern": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"handcrafted:jungle_bench": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -3003,9 +3030,7 @@
 		"mcwwindows:yellow_curtain": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"twigs:weathered_copper_pillar": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
+		"twigs:weathered_copper_pillar": [],
 		"mcwholidays:red_balloon": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -3013,7 +3038,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_oxidized_copper_button": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"excessive_building:polished_brimstone": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -3044,7 +3069,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:yellow_golden_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwdoors:bamboo_stable_head_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -3056,7 +3081,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:white_iron_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_chipped_secret_dark_oak_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -3081,7 +3106,7 @@
 		],
 		"magistuarmory:silver_lucernhammer": [],
 		"clutter:light_blue_silver_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"table_top_craft:lime_concrete_connect_four": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -3105,7 +3130,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_oxidized_yellow_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwwindows:gray_curtain": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -3142,7 +3167,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_lime_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwholidays:wavy_garland_orange_lights": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -3154,7 +3179,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:orange_golden_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"chimes:amethyst_chimes": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -3202,7 +3227,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"supplementaries:bubble_blower": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"elysium:blacksmith_hammer": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
@@ -3220,7 +3245,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:yellow_golden_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"excessive_building:quartz_tile_stairs": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -3246,7 +3271,12 @@
 		"mcwlights:green_ceiling_light": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"clutter:towel": [],
+		"beautiful_ornaments:wood_necklace_display": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
+		"clutter:towel": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
 		"woof:dog_bowl_block": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -3254,7 +3284,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_weathered_copper_pressure_plate": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwwindows:andesite_window2": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -3266,7 +3296,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:gray_silver_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwdoors:oak_mystic_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -3290,7 +3320,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:red_iron_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"luphieclutteredmod:luphie_blue_mushroom_block": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -3338,7 +3368,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_exposed_copper_door": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_macaw_birch_tropical_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -3378,7 +3408,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_black_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"handcrafted:acacia_drawer": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -3464,7 +3494,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:purple_silver_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwwindows:mud_brick_arrow_slit": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -3494,7 +3524,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"mcwlights:bell_wall_lantern": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwtrpdoors:spruce_bark_trapdoor": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -3503,7 +3533,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_exposed_pink_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"luphieclutteredmod:luphie_black_cat_garland": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -3512,7 +3542,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_orange_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_byg_palm_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -3573,7 +3603,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_oxidized_red_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwdoors:spruce_japanese2_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -3582,9 +3612,7 @@
 		"luphieclutteredmod:luphie_darkwood_geometric_bed": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"elysium:volatility_catalyst": [
-			"\u00a7eCrafted by: \u00a77Alchemist",
-		],
+		"elysium:volatility_catalyst": [],
 		"luphieclutteredmod:luphie_paint_water_jar": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -3592,7 +3620,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:lime_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwbridges:mud_brick_bridge_stair": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -3604,7 +3632,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:light_gray_silver_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_chipped_tile_windowed_jungle_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -3669,13 +3697,13 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_magenta_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"candlelight:mangrove_cabinet": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_exposed_purple_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"immersive_melodies:flute": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -3702,7 +3730,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"mcwlights:wall_lantern": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwholidays:purple_ornament_wall_deco_2": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -3723,13 +3751,13 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_weathered_lime_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_macaw_dark_oak_stable_head_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_weathered_magenta_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwtrpdoors:jungle_bark_trapdoor": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -3744,7 +3772,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:light_blue_iron_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_macaw_crimson_barn_glass_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -3753,12 +3781,15 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_light_gray_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"luphieclutteredmod:luphie_green_slab": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"mcwlights:brown_ceiling_light": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"byg:holly_crafting_table": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"mcwholidays:reindeer_doormat": [
@@ -3774,10 +3805,10 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:brown_silver_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:silver_coin": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"excessive_building:white_terracotta_tile_stairs": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -3819,10 +3850,10 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:light_blue_silver_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:brown_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"supplementaries:luphieclutteredmod/hanging_sign_luphie_green": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -3882,7 +3913,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"byg:glowstone_lantern": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwroofs:birch_planks_steep_roof": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -3891,7 +3922,7 @@
 			"\u00a7eCrafted by: \u00a77Cook",
 		],
 		"clutter:waxed_exposed_yellow_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"elysium:t3_frost_robe_head": [
 			"\u00a7eCrafted by: \u00a77Alchemist",
@@ -3948,6 +3979,9 @@
 		"mcwbridges:birch_log_bridge_stair": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"beautiful_ornaments:gem_cutting_station": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
 		"mcwtrpdoors:bamboo_trapdoor": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -3955,7 +3989,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_white_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_macaw_birch_glass_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -4021,7 +4055,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:blue_silver_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"excessive_building:mud_brick_vertical_stairs": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -4029,11 +4063,12 @@
 		"mcwwindows:granite_louvered_shutter": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"elysium:haste_catalyst": [
-			"\u00a7eCrafted by: \u00a77Alchemist",
-		],
+		"elysium:haste_catalyst": [],
 		"table_top_craft:jungle_chess_timer": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"beautiful_ornaments:copper_ring": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_chipped_glass_birch_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -4056,7 +4091,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_red_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"luphieclutteredmod:luphie_blue_mushroom_planks": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -4128,7 +4163,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:magenta_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:end_stone_brick_chimney": [],
 		"clutter:blue_bunk_bed": [
@@ -4153,7 +4188,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:golden_lantern": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"magistuarmory:tin_katzbalger": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
@@ -4195,7 +4230,7 @@
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:waxed_weathered_light_blue_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:polished_blackstone_brick_chimney": [],
 		"excessive_building:pink_terracotta_tile_slab": [
@@ -4211,7 +4246,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_blue_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwdoors:crimson_stable_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -4223,10 +4258,10 @@
 			"\u00a73Gemma della Forza",
 		],
 		"clutter:waxed_oxidized_black_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:gray_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_chipped_paneled_spruce_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -4260,7 +4295,7 @@
 			"\u00a7eCrafted by: \u00a77Alchemist",
 		],
 		"clutter:waxed_weathered_copper_soul_lantern": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwtrpdoors:bamboo_blossom_trapdoor": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -4278,7 +4313,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"byg:boric_lantern": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwroofs:acacia_planks_steep_roof": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -4325,6 +4360,9 @@
 		"handcrafted:terracotta_crockery_combo": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"byg:maple_crafting_table": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
 		"dramaticdoors:tall_chipped_screen_oak_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -4356,7 +4394,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"mcwlights:striped_wall_lantern": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwholidays:wavy_garland_colorful_lights": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -4383,7 +4421,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_weathered_red_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_macaw_jungle_japanese_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -4407,7 +4445,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_oxidized_yellow_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwpaths:spruce_planks_path": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -4450,10 +4488,10 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:blue_iron_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:green_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"supplementaries:flag_black": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -4468,7 +4506,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:yellow_silver_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"wizards:frost_robe_head": [
 			"\u00a7eCrafted by: \u00a77Alchemist",
@@ -4520,19 +4558,22 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"mcwlights:covered_lantern": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwbridges:stone_bridge_pier": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:cyan_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
+		"elysium:emerald_shears": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"chipped:mason_table": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:brown_golden_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwlights:blue_paper_lamp": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -4577,9 +4618,12 @@
 		"mcwwindows:oak_plank_window2": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"byg:imparius_crafting_table": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
 		"magistuarmory:xivcenturyknight_boots": [],
 		"clutter:waxed_copper_bars": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"magistuarmory:iron_zweihander": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
@@ -4630,7 +4674,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_weathered_copper_trapdoor": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"twigs:twisting_polished_blackstone_brick_slab": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -4652,7 +4696,7 @@
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:silver_block": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwwindows:andesite_pane_window": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -4682,7 +4726,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:purple_iron_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwbridges:orange_sandstone_bridge": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -4701,6 +4745,9 @@
 		],
 		"excessive_building:mud_tile_stairs": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"beautiful_ornaments:copper_necklace_display": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_darkwood_door": [],
 		"supplementaries:sign_post_mangrove": [
@@ -4725,7 +4772,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_oxidized_red_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_chipped_paper_warped_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -4736,7 +4783,7 @@
 		],
 		"spellbladenext:aetherfire_chest": [],
 		"clutter:orange_golden_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"magistuarmory:iron_ranseur": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
@@ -4745,7 +4792,10 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:red_iron_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
+		"beautiful_ornaments:netherite_ring": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"wizards:wizard_robe_chest": [
 			"\u00a7eCrafted by: \u00a77Alchemist",
@@ -4818,7 +4868,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_oxidized_cyan_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"medieval_deco:spruce_figureheads": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -4827,7 +4877,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_weathered_magenta_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwtrpdoors:bamboo_barred_trapdoor": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -4839,13 +4889,13 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:cyan_golden_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwtrpdoors:spruce_swamp_trapdoor": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:golden_trapdoor": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwwindows:stripped_spruce_log_window": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -4864,17 +4914,15 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:brown_golden_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_chipped_screen_birch_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"mcwlights:chain_wall_lantern": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
-		"twigs:oxidized_copper_pillar": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
+		"twigs:oxidized_copper_pillar": [],
 		"mcwroofs:mangrove_planks_top_roof": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -4946,7 +4994,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_oxidized_white_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"luphieclutteredmod:stripped_luphie_yellow_wood": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -4961,7 +5009,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:yellow_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwdoors:acacia_glass_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -4991,7 +5039,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:light_blue_silver_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"supplementaries:ash_bricks": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -5006,7 +5054,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"supplementaries:candle_holder_pink": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwroofs:warped_upper_lower_roof": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -5036,7 +5084,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_exposed_white_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"excessive_building:brimstone": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -5063,7 +5111,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_chipped_windowed_crimson_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -5087,7 +5135,7 @@
 			"\u00a73Il telaio per barche complesse",
 		],
 		"clutter:magenta_golden_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:brown_armchair": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -5096,7 +5144,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_weathered_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_byg_skyris_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -5120,7 +5168,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_weathered_pink_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwbridges:jungle_log_bridge_stair": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -5141,7 +5189,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:black_iron_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwholidays:yellow_tiny_string_lights": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -5164,6 +5212,9 @@
 		"mcwtrpdoors:oak_four_panel_trapdoor": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"byg:zelkova_crafting_table": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
 		"luphieclutteredmod:luphie_empty_small_jars": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -5181,13 +5232,16 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:raw_silver_block": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
+		"byg:palm_crafting_table": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"handcrafted:red_cushion": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:silver_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_byg_blue_enchanted_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -5205,7 +5259,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:green_silver_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:stripped_crimson_table": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -5302,8 +5356,11 @@
 		"dramaticdoors:tall_macaw_bamboo_stable_head_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"clutter:waxed_exposed_light_blue_copper_candelabra": [
+		"minecraft:diamond_horse_armor": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"clutter:waxed_exposed_light_blue_copper_candelabra": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"decorative_blocks:jungle_seat": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -5330,7 +5387,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_orange_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwdoors:print_nether": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -5348,7 +5405,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_exposed_cyan_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwdoors:mangrove_glass_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -5455,6 +5512,9 @@
 		"mcwlights:purple_lamp": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"beautiful_ornaments:ornament_crafting_station": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
 		"handcrafted:oven": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -5487,7 +5547,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:black_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwtrpdoors:acacia_classic_trapdoor": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -5552,10 +5612,10 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:blue_golden_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:yellow_silver_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwdoors:acacia_stable_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -5611,6 +5671,9 @@
 		"handcrafted:fancy_painting": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"byg:jacaranda_crafting_table": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
 		"dramaticdoors:tall_chipped_boarded_birch_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -5621,7 +5684,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_purple_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"farmersdelight:gray_canvas_sign": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -5677,10 +5740,10 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_weathered_copper_button": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwroofs:yellow_striped_awning": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -5707,7 +5770,7 @@
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:blue_golden_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwlights:soul_mangrove_tiki_torch": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -5724,6 +5787,9 @@
 		"excessive_building:soul_sandstone_vertical_stairs": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"minecraft:cut_copper_stairs": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
 		"mcwwindows:pink_curtain": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -5737,13 +5803,13 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_white_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"handcrafted:dark_oak_corner_trim": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:lime_iron_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"supplementaries:luphieclutteredmod/sign_post_luphie_green": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -5758,7 +5824,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:golden_chain": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwroofs:gutter_base": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -5777,6 +5843,12 @@
 		],
 		"mcwdoors:warped_paper_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"byg:sythian_crafting_table": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"beautiful_ornaments:netherite_necklace_display": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"luphieclutteredmod:stripped_luphie_flowering_pink_wood": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -5810,7 +5882,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_purple_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwtrpdoors:acacia_beach_trapdoor": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -5963,7 +6035,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:green_silver_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:food_box": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -5975,7 +6047,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:brown_iron_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwholidays:red_tiny_string_lights": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -5987,7 +6059,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_oxidized_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwtrpdoors:print_swamp": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -6026,7 +6098,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_weathered_yellow_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwbridges:spruce_log_bridge_stair": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -6053,7 +6125,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:gray_iron_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_macaw_acacia_nether_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -6062,7 +6134,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_weathered_yellow_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"handcrafted:jungle_chair": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -6117,7 +6189,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_weathered_lime_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwroofs:gutter_base_cyan": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -6132,7 +6204,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:light_blue_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"handcrafted:white_plate": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -6156,7 +6228,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"supplementaries:candle_holder_black": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwbridges:warped_log_bridge_stair": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -6165,6 +6237,9 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_exposed_gray_copper_candelabra": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
+		"byg:skyris_crafting_table": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"twigs:packed_silt": [
@@ -6220,7 +6295,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_weathered_green_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwroofs:dark_oak_lower_roof": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -6257,7 +6332,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:black_iron_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"luphieclutteredmod:luphie_darkwood_geometric_decorative_shelves": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -6328,7 +6403,9 @@
 		"dramaticdoors:tall_macaw_birch_nether_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"clutter:bowl": [],
+		"clutter:bowl": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
 		"excessive_building:blue_terracotta_tile_stairs": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -6339,16 +6416,19 @@
 			"\u00a7eCrafted by: \u00a77Alchemist",
 		],
 		"clutter:green_iron_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwwindows:yellow_mosaic_glass_pane": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"byg:rainbow_eucalyptus_crafting_table": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"dramaticdoors:tall_macaw_oak_bamboo_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_weathered_brown_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"luphieclutteredmod:luphie_purple_log": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -6384,10 +6464,10 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_orange_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:waxed_weathered_magenta_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"spellbladenext:deathchill_legs": [],
 		"handcrafted:warped_chair": [
@@ -6484,10 +6564,10 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_weathered_light_blue_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:yellow_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"luphieclutteredmod:luphie_lunar_observatory_small_table": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -6502,7 +6582,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_purple_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"handcrafted:spruce_fancy_bed": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -6515,10 +6595,10 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:light_gray_golden_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:silver_lantern": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"excessive_building:chiseled_oak": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -6600,7 +6680,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_red_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_macaw_spruce_stable_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -6609,6 +6689,9 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"excessive_building:lapis_lazuli_brick_stairs": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"byg:baobab_crafting_table": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"dramaticdoors:tall_macaw_spruce_classic_door": [
@@ -6630,7 +6713,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_oxidized_blue_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_minewood_door": [],
 		"twigs:silt_pot": [
@@ -6646,7 +6729,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_weathered_pink_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"luphieclutteredmod:luphie_red_armchair": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -6677,7 +6760,7 @@
 		],
 		"spellbladenext:chainmail_head": [],
 		"clutter:silver_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwbridges:crimson_rope_bridge_stair": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -6707,7 +6790,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:pink_iron_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"excessive_building:orange_terracotta_tile_stairs": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -6727,6 +6810,9 @@
 		"minecraft:diamond_shovel": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
+		"byg:aspen_crafting_table": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
 		"dramaticdoors:tall_chipped_sliding_mangrove_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -6740,7 +6826,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_oxidized_white_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"excessive_building:warped_mossy_blackstone_brick_slab": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -6758,10 +6844,10 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"supplementaries:candle_holder_purple": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:waxed_oxidized_magenta_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwroofs:jungle_upper_lower_roof": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -6782,7 +6868,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_cyan_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"excessive_building:cobbled_andesite_brick_stairs": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -6804,7 +6890,7 @@
 		],
 		"clutter:nether_brick_chimney": [],
 		"clutter:waxed_weathered_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"luphieclutteredmod:luphie_pink_window": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -6816,13 +6902,13 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:purple_iron_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwdoors:acacia_barn_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_weathered_black_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"table_top_craft:light_gray_concrete_chess": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -6831,10 +6917,10 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:iron_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:light_gray_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwholidays:blue_decorated_christmas_tree_middle": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -6873,7 +6959,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_green_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"magistuarmory:diamond_lochaberaxe": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
@@ -6892,7 +6978,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_exposed_light_blue_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"magistuarmory:diamond_chivalrylance": [],
 		"mcwholidays:snowman_with_ushanka": [
@@ -6908,9 +6994,12 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:black_golden_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"magistuarmory:tin_lochaberaxe": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
+		"minecraft:cut_copper_slab": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"luphieclutteredmod:luphie_gray_armchair": [
@@ -6946,6 +7035,9 @@
 		"supplementaries:luphieclutteredmod/hanging_sign_luphie_flowering_pink": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"byg:cika_crafting_table": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
 		"mcwdoors:oak_paper_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -6965,7 +7057,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:green_silver_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"magistuarmory:silver_guisarme": [],
 		"mcwdoors:crimson_paper_door": [
@@ -6978,7 +7070,7 @@
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:waxed_oxidized_light_gray_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"magistuarmory:iron_ahlspiess": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
@@ -6987,7 +7079,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:orange_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"magistuarmory:wood_heavymace": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
@@ -7093,6 +7185,9 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:purple_golden_chandelier": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
+		"byg:lament_crafting_table": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"twigs:white_silt_shingle_stairs": [
@@ -7108,7 +7203,7 @@
 			"\u00a7eCrafted by: \u00a77Alchemist",
 		],
 		"clutter:brown_iron_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"excessive_building:nether_tile_slab": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -7176,8 +7271,11 @@
 		"mcwwindows:window_base": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"minecraft:raw_copper_block": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
 		"clutter:white_silver_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"decorative_blocks:oak_support": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -7210,7 +7308,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_exposed_white_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwtrpdoors:mangrove_cottage_trapdoor": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -7272,8 +7370,11 @@
 		"mcwroofs:gutter_middle_yellow": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"supplementaries:key": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
 		"clutter:waxed_white_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwfences:birch_horse_fence": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -7294,7 +7395,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:brown_silver_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwtrpdoors:dark_oak_barn_trapdoor": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -7334,10 +7435,10 @@
 		],
 		"magistuarmory:wood_target": [],
 		"clutter:waxed_weathered_white_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:waxed_exposed_magenta_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwdoors:mangrove_barn_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -7346,7 +7447,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_exposed_blue_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwwindows:purple_mosaic_glass": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -7362,6 +7463,9 @@
 		],
 		"mcwbridges:deepslate_tile_bridge_pier": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"beautiful_ornaments:gold_chain": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"luphieclutteredmod:luphie_lunar_observatory_table": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -7397,7 +7501,7 @@
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:waxed_weathered_pink_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwdoors:dark_oak_beach_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -7415,9 +7519,12 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"supplementaries:candle_holder_yellow": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"magistuarmory:gold_zweihander": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
+		"beautiful_ornaments:iron_necklace_display": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"handcrafted:terracotta_wide_pot": [
@@ -7430,7 +7537,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_exposed_brown_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"candlelight:cobblestone_kitchen_sink": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -7458,10 +7565,10 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_weathered_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:waxed_exposed_orange_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwtrpdoors:warped_glass_trapdoor": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -7482,7 +7589,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_weathered_lime_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwwindows:spruce_log_parapet": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -7491,7 +7598,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:blue_iron_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"medieval_deco:birch_figureheads": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -7536,7 +7643,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_oxidized_red_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"supplementaries:crystal_display": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -7545,7 +7652,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:copper_trapdoor": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwwindows:green_curtain": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -7644,11 +7751,14 @@
 		"twigs:light_blue_silt_shingle_slab": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"byg:white_mangrove_crafting_table": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
 		"supplementaries:flag_pink": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_weathered_copper_chain": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwwindows:gray_mosaic_glass_pane": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -7673,7 +7783,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:raw_silver": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"twigs:pink_silt_pot": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -7694,7 +7804,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"supplementaries:candle_holder": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"minecraft:diamond_hoe": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
@@ -7722,7 +7832,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_oxidized_blue_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwlights:red_paper_lamp": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -7764,10 +7874,10 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_exposed_blue_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:waxed_weathered_red_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwwindows:magenta_mosaic_glass_pane": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -7825,7 +7935,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"byg:cryptic_lantern": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwfences:sandstone_railing_gate": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -7885,7 +7995,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_exposed_black_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwdoors:mangrove_nether_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -7906,7 +8016,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_weathered_cyan_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwbridges:dry_bamboo_bridge": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -7957,7 +8067,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:light_gray_iron_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_macaw_spruce_swamp_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -7978,6 +8088,9 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:cyan_copper_chandelier": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
+		"minecraft:leather_horse_armor": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"mcwholidays:blue_decorated_christmas_tree_base": [
@@ -7990,10 +8103,10 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:yellow_iron_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:brown_golden_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwfences:acacia_picket_fence": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -8005,7 +8118,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"supplementaries:candle_holder_green": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:jungle_table": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -8042,7 +8155,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:cyan_golden_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"vinery:basket": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -8051,7 +8164,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"mcwlights:chain_lantern": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_chipped_beach_oak_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -8066,6 +8179,9 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"mcwholidays:big_green_present": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"byg:blue_enchanted_crafting_table": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"dramaticdoors:tall_macaw_dark_oak_japanese_door": [
@@ -8098,6 +8214,9 @@
 		"magistuarmory:tin_shortsword": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
+		"elysium:copper_shears": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
 		"mcwholidays:cyan_present": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -8111,11 +8230,9 @@
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:waxed_weathered_light_blue_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
-		"twigs:waxed_oxidized_copper_pillar": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
+		"twigs:waxed_oxidized_copper_pillar": [],
 		"luphieclutteredmod:luphie_glow_trapdoor": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -8129,13 +8246,13 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:black_silver_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"betterfurnacesreforged:gold_furnace": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:brown_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_chipped_heavy_spruce_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -8192,7 +8309,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:black_iron_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:dark_oak_chair": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -8224,6 +8341,9 @@
 		],
 		"twigs:rhyolite_stairs": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"elysium:tin_shears": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwdoors:jungle_glass_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -8268,7 +8388,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:light_gray_golden_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"supplementaries:sign_post_crimson": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -8300,8 +8420,11 @@
 		"twigs:spruce_table": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"minecraft:cut_copper": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
 		"clutter:waxed_magenta_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"magistuarmory:silver_heavymace": [],
 		"luphieclutteredmod:luphie_tall_sketchbook_stack": [
@@ -8377,7 +8500,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_weathered_black_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwfences:acacia_highley_gate": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -8395,7 +8518,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:lime_iron_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwwindows:mangrove_plank_window2": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -8406,6 +8529,9 @@
 		"clutter:mangrove_cupboard": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"byg:embur_crafting_table": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
 		"woof:brown_dog_bed": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -8413,7 +8539,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"mcwlights:festive_wall_lantern": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"luphieclutteredmod:luphie_darkwood_decorative_shelves": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -8431,7 +8557,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_weathered_orange_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"excessive_building:yellow_terracotta_tile_stairs": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -8443,7 +8569,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_exposed_cyan_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"magistuarmory:steel_chivalrylance": [],
 		"supplementaries:timber_frame": [
@@ -8514,7 +8640,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_exposed_purple_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_chipped_tiled_acacia_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -8604,13 +8730,13 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:copper_button": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwtrpdoors:warped_classic_trapdoor": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:magenta_silver_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"luphieclutteredmod:luphie_mini_cactus_set": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -8685,10 +8811,10 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_light_blue_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:waxed_oxidized_yellow_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"elysium:copper_bow": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
@@ -8709,7 +8835,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:orange_silver_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwlights:birch_tiki_torch": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -8774,7 +8900,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:green_iron_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwroofs:jungle_planks_lower_roof": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -8807,7 +8933,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:purple_iron_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"magistuarmory:wood_guisarme": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
@@ -8829,7 +8955,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:silver_soul_lantern": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"twigs:polished_calcite_stairs": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -8850,7 +8976,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:cyan_silver_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwfences:end_brick_railing_gate": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -8880,7 +9006,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:cyan_iron_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"supplementaries:timber_cross_brace": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -8904,10 +9030,10 @@
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:magenta_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:light_blue_iron_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_chipped_barred_jungle_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -8918,6 +9044,9 @@
 		"twigs:gray_silt_shingle_wall": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"byg:willow_crafting_table": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
 		"handcrafted:birch_table": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -8925,7 +9054,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:cyan_silver_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"twigs:silt": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -8934,7 +9063,7 @@
 			"\u00a73Gemma del Potere Magico",
 		],
 		"clutter:brown_silver_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"excessive_building:cracked_polished_brimstone_brick_vertical_stairs": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -8943,7 +9072,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"supplementaries:candle_holder_white": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_macaw_spruce_paper_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -8962,7 +9091,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_oxidized_green_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_macaw_jungle_barn_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -8971,16 +9100,14 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"mcwlights:bell_lantern": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_macaw_bamboo_glass_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"brewinandchewin:item_coaster": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
+		"brewinandchewin:item_coaster": [],
 		"clutter:light_blue_iron_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwwindows:stripped_dark_oak_log_four_window": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -9038,7 +9165,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:magenta_iron_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"minecraft:anvil": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -9050,10 +9177,10 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_oxidized_light_gray_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:lime_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"reinfchest:iron_chest": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
@@ -9099,7 +9226,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:purple_golden_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwbridges:acacia_rail_bridge": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -9123,7 +9250,7 @@
 			"\u00a7eCrafted by: \u00a77Alchemist",
 		],
 		"supplementaries:candle_holder_cyan": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"luphieclutteredmod:luphie_fuschia_armchair": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -9136,6 +9263,9 @@
 		],
 		"excessive_building:red_nether_brick_vertical_stairs": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"beautiful_ornaments:iron_ring": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"minecraft:compass": [
 			"\u00a73Questa bussola indica sempre Eloria",
@@ -9177,10 +9307,10 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:pink_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:lime_golden_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwholidays:pine_middle": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -9198,7 +9328,7 @@
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"supplementaries:candle_holder_light_gray": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"luphieclutteredmod:stripped_luphie_flowering_wood": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -9231,13 +9361,13 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:white_golden_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"reinfbarrel:copper_barrel": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:waxed_oxidized_gray_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwbridges:jungle_bridge_pier": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -9267,7 +9397,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:white_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"magistuarmory:maximilian_boots": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
@@ -9288,7 +9418,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:red_golden_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"table_top_craft:cyan_concrete_connect_four": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -9297,10 +9427,10 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:red_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:copper_coin": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"luphieclutteredmod:luphie_purple_jar_bookshelf": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -9348,10 +9478,10 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:white_golden_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:blue_silver_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwtrpdoors:warped_swamp_trapdoor": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -9363,10 +9493,10 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:pink_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:pink_golden_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwtrpdoors:print_classic": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -9381,7 +9511,7 @@
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:pink_silver_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"magistuarmory:silver_heatershield": [],
 		"mcwwindows:dark_oak_window2": [
@@ -9409,7 +9539,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:white_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwholidays:triangle_cobweb": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -9458,7 +9588,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_oxidized_black_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwholidays:small_pumpkin": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -9501,7 +9631,7 @@
 		],
 		"spellbladenext:blade_frost": [],
 		"clutter:golden_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"luphieclutteredmod:luphie_pink_and_gold_moon_decor": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -9539,7 +9669,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_oxidized_pink_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"luphieclutteredmod:luphie_tea_kettle": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -9560,7 +9690,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_oxidized_black_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwholidays:mixed_oak_leaves": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -9581,7 +9711,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:silver_door": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"supplementaries:spoornpink/hanging_sign_pink_blossom": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -9611,7 +9741,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_exposed_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"multibeds:embroidery_thread": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -9626,11 +9756,11 @@
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:waxed_exposed_gray_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"magistuarmory:silver_heavywarhammer": [],
 		"clutter:waxed_weathered_cyan_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"luphieclutteredmod:luphie_pastel_armchair": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -9642,7 +9772,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_weathered_brown_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwdoors:dark_oak_nether_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -9657,7 +9787,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:lime_silver_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"luphieclutteredmod:luphie_cluttered_cat_mugs": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -9764,7 +9894,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_weathered_yellow_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwholidays:red_garland_wall_deco_1": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -9782,7 +9912,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:cyan_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"eypipes:pipe": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -9800,7 +9930,7 @@
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:waxed_exposed_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"excessive_building:acacia_mosaic": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -9818,7 +9948,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_copper_pressure_plate": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:oak_cupboard": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -9864,6 +9994,9 @@
 		],
 		"handcrafted:crimson_side_table": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"beautiful_ornaments:netherite_chain": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_chipped_beach_spruce_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -9912,7 +10045,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_exposed_copper_soul_lantern": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwwindows:blackstone_window": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -9976,7 +10109,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_brown_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwholidays:magenta_ornament": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -10033,14 +10166,12 @@
 		],
 		"elysium:cote_netherite": [],
 		"clutter:cyan_silver_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"excessive_building:mangrove_mosaic_slab": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"minecraft:shears": [
-			"\u00a7eCrafted by: \u00a77Blacksmith",
-		],
+		"minecraft:shears": [],
 		"supplementaries:byg/sign_post_baobab": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -10051,14 +10182,12 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:iron_button": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"luphieclutteredmod:luphie_decorative_mushroom": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"clutter:silver_nugget": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
+		"clutter:silver_nugget": [],
 		"minecraft:stonecutter": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -10069,10 +10198,10 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"bitsandchisels:wrench": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:waxed_exposed_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwfences:modern_deepslate_brick_wall": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -10081,7 +10210,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:light_blue_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"farmersdelight:purple_canvas_sign": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -10135,7 +10264,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_oxidized_orange_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"luphieclutteredmod:luphie_mushroom_lamp": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -10150,7 +10279,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:green_iron_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"elysium:decoration_base": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -10183,7 +10312,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_blue_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_macaw_birch_barn_glass_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -10221,8 +10350,11 @@
 		"twigs:stone_column": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"beautiful_ornaments:gold_necklace_display": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
 		"clutter:waxed_copper_trapdoor": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwdoors:crimson_bamboo_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -10247,7 +10379,7 @@
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:waxed_weathered_light_gray_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"handcrafted:bench": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -10257,7 +10389,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_exposed_magenta_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"table_top_craft:acacia_chess_timer": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -10284,6 +10416,9 @@
 		"mcwholidays:big_red_present": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"beautiful_ornaments:wood_ring_display": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
 		"clutter:oak_bench": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -10294,11 +10429,9 @@
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:waxed_weathered_light_gray_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
-		"twigs:waxed_weathered_copper_pillar": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
+		"twigs:waxed_weathered_copper_pillar": [],
 		"magistuarmory:silver_ellipticalshield": [],
 		"mcwwindows:warped_stem_four_window": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -10317,7 +10450,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:silver_button": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_macaw_oak_waffle_door": [],
 		"luphieclutteredmod:luphie_purple_plank_set_stairs": [
@@ -10364,7 +10497,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:blue_golden_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"excessive_building:green_terracotta_tile_stairs": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -10376,7 +10509,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:gray_iron_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"handcrafted:orange_sheet": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -10388,7 +10521,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_weathered_purple_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwwindows:oak_plank_pane_window": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -10459,6 +10592,9 @@
 		"mcwholidays:wooden_sled": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"minecraft:waxed_cut_copper_slab": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
 		"magistuarmory:copper_buckler": [],
 		"mcwholidays:orange_oak_leaves": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -10524,22 +10660,22 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_oxidized_copper_pressure_plate": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:golden_coin": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwdoors:spruce_four_panel_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_exposed_yellow_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwholidays:lit_evil_pumpkin": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_lime_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_macaw_acacia_stable_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -10551,7 +10687,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:golden_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"twigs:gravel_brick_wall": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -10560,10 +10696,10 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_pink_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:waxed_oxidized_purple_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"handcrafted:light_gray_sheet": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -10575,7 +10711,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_brown_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"handcrafted:oak_dining_bench": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -10596,7 +10732,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"supplementaries:wind_vane": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"luphieclutteredmod:luphie_tall_stack_of_small_books": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -10634,7 +10770,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_exposed_lime_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwfences:oak_wired_fence": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -10661,7 +10797,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_oxidized_brown_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwholidays:yellow_candy_cane_slab": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -10673,7 +10809,7 @@
 			"\u00a73Gemma del Potere Magico",
 		],
 		"clutter:waxed_weathered_blue_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwwindows:white_mosaic_glass": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -10703,7 +10839,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:green_golden_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwholidays:blue_ornament_wall_deco_2": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -10718,7 +10854,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:orange_golden_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:jungle_wall_cupboard": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -10727,7 +10863,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_exposed_pink_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_byg_cherry_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -10809,7 +10945,7 @@
 		],
 		"magistuarmory:wood_roundshield": [],
 		"clutter:white_silver_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwbridges:spruce_bridge_pier": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -10885,7 +11021,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:magenta_golden_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"twigs:red_silt_pot": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -10928,16 +11064,16 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_exposed_green_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:copper_soul_lantern": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:black_silver_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:waxed_light_blue_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"candlelight:end_kitchen_sink": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -10953,9 +11089,12 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"minecraft:saddle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"luphieclutteredmod:luphie_glow_wood_set_slab": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"byg:green_enchanted_crafting_table": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"elysium:tin_hoe": [
@@ -10999,7 +11138,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_exposed_brown_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_macaw_acacia_four_panel_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -11053,7 +11192,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:green_golden_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:stripped_dark_oak_bench": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -11101,7 +11240,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:magenta_silver_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"luphieclutteredmod:luphie_magenta_armchair": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -11155,13 +11294,13 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_exposed_orange_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwwindows:lime_curtain": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_yellow_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"magistuarmory:wood_kiteshield": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
@@ -11181,14 +11320,17 @@
 		"handcrafted:warped_shelf": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"clutter:waxed_exposed_lime_copper_chandelier": [
+		"byg:witch_hazel_crafting_table": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"clutter:waxed_exposed_lime_copper_chandelier": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"luphieclutteredmod:luphie_pink_fence_gate": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_oxidized_orange_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwbridges:stone_brick_bridge_stair": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -11200,17 +11342,17 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_weathered_copper_door": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"minecraft:air": [],
 		"clutter:waxed_exposed_blue_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"excessive_building:red_terracotta_tiles": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"mcwlights:sea_lantern_slab": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"supplementaries:byg/hanging_sign_aspen": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -11239,9 +11381,7 @@
 		"mcwfences:azalea_hedge": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"supplementaries:clock_block": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
+		"supplementaries:clock_block": [],
 		"candlelight:oak_table": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -11252,7 +11392,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:magenta_golden_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwlights:yellow_paper_lamp": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -11270,13 +11410,16 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"supplementaries:crimson_lantern": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"multibeds:blanket_blue": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"mcwwindows:dark_oak_window": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"beautiful_ornaments:gold_ring": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"luphieclutteredmod:luphie_green_bookshelf": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -11319,13 +11462,13 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_exposed_copper_trapdoor": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"handcrafted:crimson_couch": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"mcwlights:festive_lantern": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"twigs:polished_bloodstone_bricks": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -11352,8 +11495,11 @@
 		"excessive_building:blackstone_brick_stairs": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"clutter:silver_chain": [
+		"byg:cherry_crafting_table": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"clutter:silver_chain": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwwindows:crimson_stem_four_window": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -11365,7 +11511,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_pink_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"luphieclutteredmod:luphie_flowering_purple_wood": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -11398,7 +11544,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:gray_golden_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"bakery:baker_station": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -11426,7 +11572,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:gray_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"table_top_craft:cyan_terracotta_chess_timer": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -11456,7 +11602,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:golden_button": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:stripped_acacia_chair": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -11468,7 +11614,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:cyan_iron_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwtrpdoors:acacia_ranch_trapdoor": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -11489,10 +11635,13 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_oxidized_white_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"handcrafted:dark_oak_table": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"beautiful_ornaments:gold_ring_display": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwroofs:red_striped_awning": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -11519,7 +11668,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:copper_door": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"handcrafted:spruce_bench": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -11540,13 +11689,16 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"supplementaries:candle_holder_lime": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:waxed_exposed_orange_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"magistuarmory:copper_morgenstern": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
+		"byg:fir_crafting_table": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:light_blue_bunk_bed": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -11582,10 +11734,10 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:light_gray_golden_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:gray_golden_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwdoors:crimson_barn_glass_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -11615,10 +11767,13 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_weathered_white_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwdoors:mangrove_four_panel_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"beautiful_ornaments:iron_chain": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwdoors:mangrove_stable_head_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -11627,7 +11782,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_exposed_black_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"excessive_building:sandstone_brick_wall": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -11705,6 +11860,9 @@
 		"twigs:soul_lamp": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"decorative_blocks:chain": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
 		"luphieclutteredmod:luphie_mango_armchair": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -11718,6 +11876,9 @@
 		"alloy_forgery:deepslate_bricks_forge_controller": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"byg:nightshade_crafting_table": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
 		"luphieclutteredmod:luphie_sunflower_garland": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -11728,7 +11889,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_exposed_copper_chain": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"farmersdelight:blue_canvas_sign": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -11751,8 +11912,11 @@
 		"dramaticdoors:tall_chipped_paper_dark_oak_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"beautiful_ornaments:copper_chain": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
 		"supplementaries:candle_holder_blue": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"brewinandchewin:keg": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -11768,7 +11932,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:yellow_iron_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwdoors:crimson_swamp_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -11783,7 +11947,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:cyan_golden_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwholidays:white_wavy_garland_blue_lights": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -11795,7 +11959,7 @@
 			"\u00a7eCrafted by: \u00a77Alchemist",
 		],
 		"clutter:light_gray_iron_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"magistuarmory:iron_heavymace": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
@@ -11865,7 +12029,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:brown_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"luphieclutteredmod:luphie_darkwood_geometric_sofa": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -11907,14 +12071,12 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_exposed_light_blue_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"decorative_blocks:spruce_palisade": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"twigs:exposed_copper_pillar": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
+		"twigs:exposed_copper_pillar": [],
 		"candlelight:lamp": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -11967,7 +12129,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:light_gray_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwtrpdoors:dark_oak_beach_trapdoor": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -11989,13 +12151,13 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_exposed_copper_bars": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwholidays:light_blue_ornament": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_weathered_purple_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwroofs:gutter_middle_blue": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -12055,7 +12217,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:yellow_iron_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwbridges:deepslate_tile_bridge_stair": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -12064,7 +12226,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_oxidized_copper_lantern": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"candlelight:jungle_table": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -12081,6 +12243,9 @@
 		"dramaticdoors:tall_chipped_secret_mangrove_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"byg:pine_crafting_table": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
 		"mcwholidays:lit_shocked_pumpkin": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -12091,6 +12256,9 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"elysium:patch_silver": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
+		"beautiful_ornaments:netherite_ring_display": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:lime_armchair": [
@@ -12105,9 +12273,7 @@
 		"clutter:tall_magenta_lamp": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"elysium:archer_catalyst": [
-			"\u00a7eCrafted by: \u00a77Alchemist",
-		],
+		"elysium:archer_catalyst": [],
 		"handcrafted:dark_oak_shelf": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -12128,7 +12294,7 @@
 			"\u00a7eCrafted by: \u00a77Cook",
 		],
 		"clutter:waxed_oxidized_pink_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"twigs:yellow_silt_pot": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -12195,7 +12361,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_oxidized_lime_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_chipped_beach_mangrove_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -12273,6 +12439,9 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:white_iron_chandelier": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
+		"byg:redwood_crafting_table": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"mcwwindows:acacia_plank_window": [
@@ -12339,7 +12508,7 @@
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:orange_iron_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_byg_pine_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -12366,7 +12535,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:blue_iron_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"twigs:orange_silt_pot": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -12390,13 +12559,13 @@
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:waxed_black_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:waxed_oxidized_purple_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:waxed_copper_button": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"luphieclutteredmod:luphie_flowering_pink_trapdoor": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -12414,7 +12583,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_exposed_green_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwdoors:crimson_western_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -12426,7 +12595,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_oxidized_copper_chain": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"luphieclutteredmod:stripped_luphie_flowering_log": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -12435,7 +12604,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:red_iron_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"twigs:pink_silt_shingle_stairs": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -12444,7 +12613,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:light_gray_silver_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"excessive_building:smooth_soul_sandstone_slab": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -12474,7 +12643,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:black_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwdoors:mangrove_cottage_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -12524,9 +12693,7 @@
 		"luphieclutteredmod:luphie_floral_striped_wallpaper": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"twigs:waxed_exposed_copper_pillar": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
+		"twigs:waxed_exposed_copper_pillar": [],
 		"dramaticdoors:tall_oak_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -12535,7 +12702,7 @@
 		],
 		"magistuarmory:diamond_heatershield": [],
 		"clutter:waxed_exposed_gray_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwholidays:carved_shocked_pumpkin": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -12557,13 +12724,13 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_oxidized_brown_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwholidays:white_garland_blue_lights": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_weathered_copper_bars": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"magistuarmory:gold_claymore": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
@@ -12578,10 +12745,13 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:purple_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwholidays:big_yellow_present": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"minecraft:waxed_cut_copper_stairs": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"luphieclutteredmod:luphie_blue_mushroom_fence": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -12593,7 +12763,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_exposed_purple_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"luphieclutteredmod:luphie_vial_stand": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -12611,17 +12781,17 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:light_gray_iron_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"supplementaries:cog_block": [],
 		"clutter:light_gray_armchair": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:white_silver_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:waxed_copper_lantern": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwwindows:crimson_stem_parapet": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -12647,9 +12817,7 @@
 		"mcwfences:modern_andesite_wall": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"clutter:silver_ingot": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
+		"clutter:silver_ingot": [],
 		"spellbladenext:chainmail_chest": [],
 		"mcwfences:crimson_horse_fence": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -12740,7 +12908,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:orange_iron_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"excessive_building:birch_mosaic_vertical_stairs": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -12776,10 +12944,10 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"mcwlights:tavern_wall_lantern": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:purple_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_macaw_acacia_beach_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -12791,7 +12959,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_exposed_light_gray_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"table_top_craft:white_concrete_chess_timer": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -12800,10 +12968,10 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:cyan_iron_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"supplementaries:candle_holder_brown": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"supplementaries:stone_lamp": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -12819,13 +12987,13 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_weathered_orange_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:blue_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:pink_silver_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"supplementaries:byg/sign_post_pine": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -12840,13 +13008,13 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwbridges:iron_bridge_pier": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_oxidized_copper_door": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_macaw_birch_barn_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -12865,7 +13033,7 @@
 		],
 		"magistuarmory:iron_chivalrylance": [],
 		"clutter:red_silver_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwwindows:crimson_planks_window": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -12962,7 +13130,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"supplementaries:candle_holder_magenta": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"handcrafted:terracotta_cup": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -12971,7 +13139,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_gray_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"farmersdelight:cutting_board": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -13009,10 +13177,10 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:lime_silver_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:red_silver_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"table_top_craft:lime_terracotta_chess": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -13021,7 +13189,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"candlelight:cooking_pot": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
@@ -13062,7 +13230,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_green_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"luphieclutteredmod:luphie_light_gray_armchair": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -13077,7 +13245,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:red_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"luphieclutteredmod:luphie_flowering_yellow_stairs": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -13086,13 +13254,13 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:red_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwdoors:metal_windowed_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:copper_bars": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"supplementaries:blackstone_lamp": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -13159,7 +13327,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:light_blue_golden_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwholidays:snowy_spruce_leaves": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -13171,13 +13339,13 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"chimes:copper_chimes": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"farmersdelight:green_canvas_sign": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_black_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_chipped_tile_windowed_oak_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -13213,7 +13381,7 @@
 			"\u00a7eCrafted by: \u00a77Cook",
 		],
 		"clutter:waxed_brown_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"twigs:smooth_stone_bricks": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -13249,10 +13417,10 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_exposed_yellow_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:pink_golden_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:stripped_spruce_bench": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -13320,11 +13488,14 @@
 		"excessive_building:tuff_tiles": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"beautiful_ornaments:iron_ring_display": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
 		"candlelight:oak_cabinet": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_gray_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"candlelight:birch_big_table": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -13367,7 +13538,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:orange_silver_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwtrpdoors:dark_oak_bamboo_trapdoor": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -13379,7 +13550,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_weathered_purple_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:pink_kitchen_curtains": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -13422,20 +13593,20 @@
 			"\u00a7eCrafted by: \u00a77Cook",
 		],
 		"clutter:light_blue_golden_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"spellbladenext:rimeblaze_feet": [],
 		"supplementaries:flag_yellow": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:gray_iron_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:waxed_oxidized_light_blue_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:white_golden_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwdoors:acacia_bamboo_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -13444,7 +13615,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_weathered_copper_lantern": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"excessive_building:cobbled_diorite_slab": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -13462,7 +13633,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_oxidized_gray_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"excessive_building:polished_blackstone_brick_vertical_stairs": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -13505,20 +13676,23 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:purple_silver_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"magistuarmory:silver_chivalrylance": [],
 		"elysium:rosette_bread": [
 			"\u00a7eCrafted by: \u00a77Cook",
 		],
 		"clutter:waxed_oxidized_copper_soul_lantern": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
+		"minecraft:copper_ingot": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:waxed_weathered_gray_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:silver_trapdoor": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"smallships:cannon_ball": [],
 		"elysium:fish_bait": [],
@@ -13538,7 +13712,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_weathered_cyan_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwfences:modern_diorite_wall": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -13553,10 +13727,10 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_oxidized_orange_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:waxed_cyan_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwholidays:orn_silver_wavy_garland": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -13572,7 +13746,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_gray_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwroofs:jungle_planks_top_roof": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -13614,7 +13788,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:white_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"luphieclutteredmod:luphie_wall_bookshelf": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -13695,13 +13869,13 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_oxidized_cyan_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"luphieclutteredmod:luphie_flowering_purple_log": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_yellow_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwholidays:outlined_cobweb": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -13719,7 +13893,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_cyan_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwbridges:mangrove_log_bridge_middle": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -13761,7 +13935,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_weathered_green_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_chipped_fortified_oak_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -13791,10 +13965,10 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:black_silver_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:light_gray_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwlights:framed_torch": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -13803,7 +13977,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"supplementaries:candle_holder_light_blue": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwholidays:blue_decorated_christmas_tree_bottom": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -13821,7 +13995,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_weathered_blue_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwtrpdoors:acacia_barred_trapdoor": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -13830,7 +14004,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_exposed_red_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"magistuarmory:diamond_heavymace": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
@@ -13839,10 +14013,10 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:magenta_iron_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:yellow_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"chimes:iron_chimes": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -13860,10 +14034,10 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_oxidized_light_blue_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:orange_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"twigs:polished_tuff_brick_slab": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -13941,10 +14115,10 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:light_blue_golden_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:waxed_magenta_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"luphieclutteredmod:luphie_yellow_stair_recipe": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -13959,7 +14133,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:silver_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwroofs:crimson_upper_lower_roof": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -13974,13 +14148,13 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_oxidized_green_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwtrpdoors:oak_blossom_trapdoor": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:blue_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"handcrafted:dark_oak_dining_bench": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -14015,12 +14189,15 @@
 		"table_top_craft:acacia_connect_four": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"byg:ether_crafting_table": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
 		"supplementaries:hanging_sign_mangrove": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"spellbladenext:aetherfire_head": [],
 		"clutter:iron_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwtrpdoors:mangrove_mystic_trapdoor": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -14035,7 +14212,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_oxidized_light_gray_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_macaw_acacia_paper_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -14055,11 +14232,14 @@
 		"table_top_craft:brown_concrete_connect_four": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"minecraft:soul_lantern": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
 		"mcwdoors:spruce_western_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"supplementaries:lock_block": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_macaw_mangrove_glass_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -14129,7 +14309,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:lime_iron_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"luphieclutteredmod:luphie_berry_cake": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -14148,7 +14328,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_weathered_black_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"magistuarmory:steel_lucernhammer": [],
 		"luphieclutteredmod:luphie_assorted_jam_jars": [
@@ -14235,7 +14415,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_oxidized_brown_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"woof:white_dog_bed": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -14244,7 +14424,7 @@
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:pink_silver_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_macaw_jungle_four_panel_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -14265,10 +14445,10 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_weathered_orange_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:waxed_exposed_copper_pressure_plate": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwdoors:crimson_modern_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -14283,7 +14463,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:magenta_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:mossy_stone_brick_chimney": [],
 		"dramaticdoors:tall_spruce_door": [
@@ -14293,7 +14473,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"supplementaries:silver_lantern": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"handcrafted:dark_oak_desk": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -14311,7 +14491,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:green_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"magistuarmory:wood_katzbalger": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
@@ -14329,7 +14509,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_exposed_copper_button": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwdoors:jungle_barn_glass_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -14346,7 +14526,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_oxidized_lime_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"handcrafted:jungle_dining_bench": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -14370,10 +14550,13 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"mcwlights:cross_wall_lantern": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"clutter:red_bunk_bed": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"elysium:gold_shears": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_transwood_door": [],
 		"mcwdoors:dark_oak_glass_door": [
@@ -14392,13 +14575,13 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_exposed_green_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"excessive_building:mossy_cobblestone_brick_stairs": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_oxidized_purple_copper_chandelier": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"table_top_craft:orange_concrete_chess_timer": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -14428,19 +14611,19 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:orange_silver_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"luphieclutteredmod:seaweed_planter": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_exposed_red_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"handcrafted:crimson_fancy_bed": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:copper_pressure_plate": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"twigs:white_silt_pot": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -14470,7 +14653,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_weathered_white_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"supplementaries:luphieclutteredmod/sign_post_luphie_flowering_purple": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -14518,7 +14701,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:golden_soul_lantern": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"multibeds:sheet": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -14533,6 +14716,9 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"excessive_building:prismarine_brick_vertical_stairs": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"byg:mahogany_crafting_table": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"excessive_building:deepslate_tile_vertical_stairs": [
@@ -14608,7 +14794,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:waxed_oxidized_copper_candelabra": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"dramaticdoors:tall_chipped_fortified_spruce_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -14627,13 +14813,13 @@
 		],
 		"farmersdelight:egg_sandwich": [],
 		"clutter:waxed_oxidized_magenta_copper_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwdoors:spruce_modern_door": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"clutter:magenta_iron_wall_candle": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwbridges:blackstone_bridge_stair": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -14645,7 +14831,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"twigs:waxed_copper_pillar": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"excessive_building:sulfuric_brimstone_vertical_stairs": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
