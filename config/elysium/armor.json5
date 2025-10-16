@@ -2619,7 +2619,7 @@
 		"magistuarmoryaddon:darkblued_maximilian_helmet": {
 			modifiers: {
 				"generic.armor": [
-					"4",
+					"5",
 					"0",
 				],
 				"generic.durability": [
@@ -2739,7 +2739,7 @@
 		"magistuarmoryaddon:darkblued_knight_boots": {
 			modifiers: {
 				"generic.armor": [
-					"4",
+					"5",
 					"0",
 				],
 				"generic.durability": [
@@ -2763,7 +2763,7 @@
 		"magistuarmoryaddon:darkblued_sallet": {
 			modifiers: {
 				"generic.armor": [
-					"4",
+					"5",
 					"0",
 				],
 				"generic.durability": [
@@ -2787,7 +2787,7 @@
 		"magistuarmoryaddon:darkblued_greenwich_armet": {
 			modifiers: {
 				"generic.armor": [
-					"4",
+					"5",
 					"0",
 				],
 				"generic.durability": [
@@ -2859,7 +2859,7 @@
 		"magistuarmoryaddon:darkblued_gothic_boots": {
 			modifiers: {
 				"generic.armor": [
-					"4",
+					"5",
 					"0",
 				],
 				"generic.durability": [
