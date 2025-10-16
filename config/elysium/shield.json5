@@ -16,7 +16,7 @@
 		"magistuarmory:wood_rondache": {
 			modifiers: {
 				"generic.armor": [
-					"1",
+					"2",
 					"0",
 				],
 				"generic.durability": [
@@ -28,7 +28,7 @@
 		"magistuarmory:copper_heatershield": {
 			modifiers: {
 				"generic.armor": [
-					"3",
+					"4",
 					"0",
 				],
 				"generic.durability": [
@@ -40,7 +40,7 @@
 		"magistuarmory:diamond_rondache": {
 			modifiers: {
 				"generic.armor": [
-					"6",
+					"7",
 					"0",
 				],
 				"generic.durability": [
@@ -52,7 +52,7 @@
 		"magistuarmory:iron_buckler": {
 			modifiers: {
 				"generic.armor": [
-					"4",
+					"5",
 					"0",
 				],
 				"generic.durability": [
@@ -64,7 +64,7 @@
 		"magistuarmory:iron_tartsche": {
 			modifiers: {
 				"generic.armor": [
-					"4",
+					"5",
 					"0",
 				],
 				"generic.durability": [
@@ -76,7 +76,7 @@
 		"magistuarmory:wood_tartsche": {
 			modifiers: {
 				"generic.armor": [
-					"1",
+					"2",
 					"0",
 				],
 				"generic.durability": [
@@ -88,7 +88,7 @@
 		"magistuarmory:wood_kiteshield": {
 			modifiers: {
 				"generic.armor": [
-					"1",
+					"2",
 					"0",
 				],
 				"generic.durability": [
@@ -100,7 +100,7 @@
 		"magistuarmory:wood_buckler": {
 			modifiers: {
 				"generic.armor": [
-					"1",
+					"2",
 					"0",
 				],
 				"generic.durability": [
@@ -112,7 +112,7 @@
 		"magistuarmory:gold_rondache": {
 			modifiers: {
 				"generic.armor": [
-					"5",
+					"6",
 					"0",
 				],
 				"generic.durability": [
@@ -124,7 +124,7 @@
 		"magistuarmory:iron_rondache": {
 			modifiers: {
 				"generic.armor": [
-					"4",
+					"5",
 					"0",
 				],
 				"generic.durability": [
@@ -136,7 +136,7 @@
 		"magistuarmory:diamond_tartsche": {
 			modifiers: {
 				"generic.armor": [
-					"6",
+					"7",
 					"0",
 				],
 				"generic.durability": [
@@ -148,7 +148,7 @@
 		"magistuarmory:steel_heatershield": {
 			modifiers: {
 				"generic.armor": [
-					"5",
+					"6",
 					"0",
 				],
 				"generic.durability": [
@@ -160,7 +160,7 @@
 		"magistuarmory:silver_rondache": {
 			modifiers: {
 				"generic.armor": [
-					"6",
+					"7",
 					"0",
 				],
 				"generic.durability": [
@@ -172,7 +172,7 @@
 		"magistuarmory:diamond_heatershield": {
 			modifiers: {
 				"generic.armor": [
-					"6",
+					"7",
 					"0",
 				],
 				"generic.durability": [
@@ -184,7 +184,7 @@
 		"magistuarmory:iron_heatershield": {
 			modifiers: {
 				"generic.armor": [
-					"4",
+					"5",
 					"0",
 				],
 				"generic.durability": [
@@ -196,7 +196,7 @@
 		"magistuarmory:iron_kiteshield": {
 			modifiers: {
 				"generic.armor": [
-					"4",
+					"5",
 					"0",
 				],
 				"generic.durability": [
@@ -208,7 +208,7 @@
 		"magistuarmory:tin_buckler": {
 			modifiers: {
 				"generic.armor": [
-					"2",
+					"3",
 					"0",
 				],
 				"generic.durability": [
@@ -220,7 +220,7 @@
 		"magistuarmory:copper_buckler": {
 			modifiers: {
 				"generic.armor": [
-					"3",
+					"4",
 					"0",
 				],
 				"generic.durability": [
@@ -232,7 +232,7 @@
 		"magistuarmory:gold_tartsche": {
 			modifiers: {
 				"generic.armor": [
-					"5",
+					"6",
 					"0",
 				],
 				"generic.durability": [
@@ -244,7 +244,7 @@
 		"magistuarmory:silver_tartsche": {
 			modifiers: {
 				"generic.armor": [
-					"6",
+					"7",
 					"0",
 				],
 				"generic.durability": [
@@ -256,7 +256,7 @@
 		"magistuarmory:copper_kiteshield": {
 			modifiers: {
 				"generic.armor": [
-					"3",
+					"4",
 					"0",
 				],
 				"generic.durability": [
@@ -268,7 +268,7 @@
 		"magistuarmory:gold_roundshield": {
 			modifiers: {
 				"generic.armor": [
-					"5",
+					"6",
 					"0",
 				],
 				"generic.durability": [
@@ -280,7 +280,7 @@
 		"magistuarmory:steel_ellipticalshield": {
 			modifiers: {
 				"generic.armor": [
-					"5",
+					"6",
 					"0",
 				],
 				"generic.durability": [
@@ -292,7 +292,7 @@
 		"magistuarmory:silver_heatershield": {
 			modifiers: {
 				"generic.armor": [
-					"6",
+					"7",
 					"0",
 				],
 				"generic.durability": [
@@ -304,7 +304,7 @@
 		"magistuarmory:tin_kiteshield": {
 			modifiers: {
 				"generic.armor": [
-					"2",
+					"3",
 					"0",
 				],
 				"generic.durability": [
@@ -316,7 +316,7 @@
 		"magistuarmory:copper_rondache": {
 			modifiers: {
 				"generic.armor": [
-					"3",
+					"4",
 					"0",
 				],
 				"generic.durability": [
@@ -328,7 +328,7 @@
 		"magistuarmory:steel_kiteshield": {
 			modifiers: {
 				"generic.armor": [
-					"5",
+					"6",
 					"0",
 				],
 				"generic.durability": [
@@ -340,7 +340,7 @@
 		"magistuarmory:iron_pavese": {
 			modifiers: {
 				"generic.armor": [
-					"4",
+					"5",
 					"0",
 				],
 				"generic.durability": [
@@ -352,7 +352,7 @@
 		"magistuarmory:silver_buckler": {
 			modifiers: {
 				"generic.armor": [
-					"6",
+					"7",
 					"0",
 				],
 				"generic.durability": [
@@ -364,7 +364,7 @@
 		"magistuarmory:diamond_buckler": {
 			modifiers: {
 				"generic.armor": [
-					"6",
+					"7",
 					"0",
 				],
 				"generic.durability": [
@@ -376,7 +376,7 @@
 		"magistuarmory:copper_ellipticalshield": {
 			modifiers: {
 				"generic.armor": [
-					"3",
+					"4",
 					"0",
 				],
 				"generic.durability": [
@@ -388,7 +388,7 @@
 		"magistuarmory:steel_tartsche": {
 			modifiers: {
 				"generic.armor": [
-					"5",
+					"6",
 					"0",
 				],
 				"generic.durability": [
@@ -400,7 +400,7 @@
 		"magistuarmory:iron_roundshield": {
 			modifiers: {
 				"generic.armor": [
-					"4",
+					"5",
 					"0",
 				],
 				"generic.durability": [
@@ -412,7 +412,7 @@
 		"magistuarmory:diamond_roundshield": {
 			modifiers: {
 				"generic.armor": [
-					"6",
+					"7",
 					"0",
 				],
 				"generic.durability": [
@@ -424,7 +424,7 @@
 		"magistuarmory:netherite_rondache": {
 			modifiers: {
 				"generic.armor": [
-					"7",
+					"8",
 					"0",
 				],
 				"generic.durability": [
@@ -436,7 +436,7 @@
 		"magistuarmory:wood_target": {
 			modifiers: {
 				"generic.armor": [
-					"1",
+					"2",
 					"0",
 				],
 				"generic.durability": [
@@ -448,7 +448,7 @@
 		"magistuarmory:steel_pavese": {
 			modifiers: {
 				"generic.armor": [
-					"5",
+					"6",
 					"0",
 				],
 				"generic.durability": [
@@ -460,7 +460,7 @@
 		"magistuarmory:netherite_buckler": {
 			modifiers: {
 				"generic.armor": [
-					"7",
+					"8",
 					"0",
 				],
 				"generic.durability": [
@@ -472,7 +472,7 @@
 		"magistuarmory:copper_target": {
 			modifiers: {
 				"generic.armor": [
-					"3",
+					"4",
 					"0",
 				],
 				"generic.durability": [
@@ -484,7 +484,7 @@
 		"magistuarmory:silver_ellipticalshield": {
 			modifiers: {
 				"generic.armor": [
-					"6",
+					"7",
 					"0",
 				],
 				"generic.durability": [
@@ -496,7 +496,7 @@
 		"magistuarmory:tin_roundshield": {
 			modifiers: {
 				"generic.armor": [
-					"2",
+					"3",
 					"0",
 				],
 				"generic.durability": [
@@ -508,7 +508,7 @@
 		"magistuarmory:netherite_pavese": {
 			modifiers: {
 				"generic.armor": [
-					"7",
+					"8",
 					"0",
 				],
 				"generic.durability": [
@@ -520,7 +520,7 @@
 		"magistuarmory:tin_target": {
 			modifiers: {
 				"generic.armor": [
-					"2",
+					"3",
 					"0",
 				],
 				"generic.durability": [
@@ -532,7 +532,7 @@
 		"magistuarmory:netherite_ellipticalshield": {
 			modifiers: {
 				"generic.armor": [
-					"7",
+					"8",
 					"0",
 				],
 				"generic.durability": [
@@ -544,7 +544,7 @@
 		"magistuarmory:wood_pavese": {
 			modifiers: {
 				"generic.armor": [
-					"1",
+					"2",
 					"0",
 				],
 				"generic.durability": [
@@ -556,7 +556,7 @@
 		"magistuarmory:copper_roundshield": {
 			modifiers: {
 				"generic.armor": [
-					"3",
+					"4",
 					"0",
 				],
 				"generic.durability": [
@@ -568,7 +568,7 @@
 		"magistuarmory:gold_heatershield": {
 			modifiers: {
 				"generic.armor": [
-					"5",
+					"6",
 					"0",
 				],
 				"generic.durability": [
@@ -580,7 +580,7 @@
 		"magistuarmory:gold_pavese": {
 			modifiers: {
 				"generic.armor": [
-					"5",
+					"6",
 					"0",
 				],
 				"generic.durability": [
@@ -592,7 +592,7 @@
 		"magistuarmory:silver_pavese": {
 			modifiers: {
 				"generic.armor": [
-					"6",
+					"7",
 					"0",
 				],
 				"generic.durability": [
@@ -604,7 +604,7 @@
 		"magistuarmory:diamond_ellipticalshield": {
 			modifiers: {
 				"generic.armor": [
-					"6",
+					"7",
 					"0",
 				],
 				"generic.durability": [
@@ -616,7 +616,7 @@
 		"magistuarmory:netherite_target": {
 			modifiers: {
 				"generic.armor": [
-					"7",
+					"8",
 					"0",
 				],
 				"generic.durability": [
@@ -628,7 +628,7 @@
 		"magistuarmory:wood_ellipticalshield": {
 			modifiers: {
 				"generic.armor": [
-					"1",
+					"2",
 					"0",
 				],
 				"generic.durability": [
@@ -640,7 +640,7 @@
 		"magistuarmory:gold_buckler": {
 			modifiers: {
 				"generic.armor": [
-					"5",
+					"6",
 					"0",
 				],
 				"generic.durability": [
@@ -652,7 +652,7 @@
 		"magistuarmory:wood_roundshield": {
 			modifiers: {
 				"generic.armor": [
-					"1",
+					"2",
 					"0",
 				],
 				"generic.durability": [
@@ -664,7 +664,7 @@
 		"magistuarmory:silver_roundshield": {
 			modifiers: {
 				"generic.armor": [
-					"6",
+					"7",
 					"0",
 				],
 				"generic.durability": [
@@ -676,7 +676,7 @@
 		"magistuarmory:tin_ellipticalshield": {
 			modifiers: {
 				"generic.armor": [
-					"2",
+					"3",
 					"0",
 				],
 				"generic.durability": [
@@ -688,7 +688,7 @@
 		"magistuarmory:silver_kiteshield": {
 			modifiers: {
 				"generic.armor": [
-					"6",
+					"7",
 					"0",
 				],
 				"generic.durability": [
@@ -700,7 +700,7 @@
 		"magistuarmory:steel_roundshield": {
 			modifiers: {
 				"generic.armor": [
-					"5",
+					"6",
 					"0",
 				],
 				"generic.durability": [
@@ -712,7 +712,7 @@
 		"magistuarmory:tin_heatershield": {
 			modifiers: {
 				"generic.armor": [
-					"2",
+					"3",
 					"0",
 				],
 				"generic.durability": [
@@ -724,7 +724,7 @@
 		"magistuarmory:iron_ellipticalshield": {
 			modifiers: {
 				"generic.armor": [
-					"4",
+					"5",
 					"0",
 				],
 				"generic.durability": [
@@ -736,7 +736,7 @@
 		"magistuarmory:tin_tartsche": {
 			modifiers: {
 				"generic.armor": [
-					"2",
+					"3",
 					"0",
 				],
 				"generic.durability": [
@@ -748,7 +748,7 @@
 		"magistuarmory:diamond_pavese": {
 			modifiers: {
 				"generic.armor": [
-					"6",
+					"7",
 					"0",
 				],
 				"generic.durability": [
@@ -760,7 +760,7 @@
 		"magistuarmory:iron_target": {
 			modifiers: {
 				"generic.armor": [
-					"4",
+					"5",
 					"0",
 				],
 				"generic.durability": [
@@ -772,7 +772,7 @@
 		"magistuarmory:netherite_heatershield": {
 			modifiers: {
 				"generic.armor": [
-					"7",
+					"8",
 					"0",
 				],
 				"generic.durability": [
@@ -784,7 +784,7 @@
 		"magistuarmory:wood_heatershield": {
 			modifiers: {
 				"generic.armor": [
-					"1",
+					"2",
 					"0",
 				],
 				"generic.durability": [
@@ -796,7 +796,7 @@
 		"magistuarmory:diamond_target": {
 			modifiers: {
 				"generic.armor": [
-					"6",
+					"7",
 					"0",
 				],
 				"generic.durability": [
@@ -808,7 +808,7 @@
 		"magistuarmory:tin_pavese": {
 			modifiers: {
 				"generic.armor": [
-					"2",
+					"3",
 					"0",
 				],
 				"generic.durability": [
@@ -820,7 +820,7 @@
 		"magistuarmory:copper_pavese": {
 			modifiers: {
 				"generic.armor": [
-					"3",
+					"4",
 					"0",
 				],
 				"generic.durability": [
@@ -832,7 +832,7 @@
 		"magistuarmory:steel_target": {
 			modifiers: {
 				"generic.armor": [
-					"5",
+					"6",
 					"0",
 				],
 				"generic.durability": [
@@ -844,7 +844,7 @@
 		"magistuarmory:steel_buckler": {
 			modifiers: {
 				"generic.armor": [
-					"5",
+					"6",
 					"0",
 				],
 				"generic.durability": [
@@ -856,7 +856,7 @@
 		"magistuarmory:tin_rondache": {
 			modifiers: {
 				"generic.armor": [
-					"2",
+					"3",
 					"0",
 				],
 				"generic.durability": [
@@ -868,7 +868,7 @@
 		"magistuarmory:netherite_kiteshield": {
 			modifiers: {
 				"generic.armor": [
-					"7",
+					"8",
 					"0",
 				],
 				"generic.durability": [
@@ -880,7 +880,7 @@
 		"magistuarmory:netherite_tartsche": {
 			modifiers: {
 				"generic.armor": [
-					"7",
+					"8",
 					"0",
 				],
 				"generic.durability": [
@@ -892,7 +892,7 @@
 		"magistuarmory:copper_tartsche": {
 			modifiers: {
 				"generic.armor": [
-					"3",
+					"4",
 					"0",
 				],
 				"generic.durability": [
@@ -904,7 +904,7 @@
 		"magistuarmory:gold_ellipticalshield": {
 			modifiers: {
 				"generic.armor": [
-					"5",
+					"6",
 					"0",
 				],
 				"generic.durability": [
@@ -916,7 +916,7 @@
 		"magistuarmory:gold_target": {
 			modifiers: {
 				"generic.armor": [
-					"5",
+					"6",
 					"0",
 				],
 				"generic.durability": [
@@ -928,7 +928,7 @@
 		"magistuarmory:diamond_kiteshield": {
 			modifiers: {
 				"generic.armor": [
-					"6",
+					"7",
 					"0",
 				],
 				"generic.durability": [
@@ -940,7 +940,7 @@
 		"magistuarmory:gold_kiteshield": {
 			modifiers: {
 				"generic.armor": [
-					"5",
+					"6",
 					"0",
 				],
 				"generic.durability": [
@@ -952,7 +952,7 @@
 		"magistuarmory:steel_rondache": {
 			modifiers: {
 				"generic.armor": [
-					"5",
+					"6",
 					"0",
 				],
 				"generic.durability": [
@@ -964,7 +964,7 @@
 		"magistuarmory:netherite_roundshield": {
 			modifiers: {
 				"generic.armor": [
-					"7",
+					"8",
 					"0",
 				],
 				"generic.durability": [
@@ -976,7 +976,7 @@
 		"magistuarmory:silver_target": {
 			modifiers: {
 				"generic.armor": [
-					"6",
+					"7",
 					"0",
 				],
 				"generic.durability": [
