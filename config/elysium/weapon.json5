@@ -2954,5 +2954,53 @@
 				],
 			},
 		},
+		"elysium:tin_flute": {
+			modifiers: {
+				"generic.durability": [
+					"120",
+					"0",
+				],
+			},
+		},
+		"elysium:copper_flute": {
+			modifiers: {
+				"generic.durability": [
+					"240",
+					"0",
+				],
+			},
+		},
+		"elysium:iron_flute": {
+			modifiers: {
+				"generic.durability": [
+					"480",
+					"0",
+				],
+			},
+		},
+		"elysium:gold_flute": {
+			modifiers: {
+				"generic.durability": [
+					"960",
+					"0",
+				],
+			},
+		},
+		"elysium:diamond_flute": {
+			modifiers: {
+				"generic.durability": [
+					"1920",
+					"0",
+				],
+			},
+		},
+		"elysium:diamond_flute": {
+			modifiers: {
+				"generic.durability": [
+					"2160",
+					"0",
+				],
+			},
+		},
 	},
 }
