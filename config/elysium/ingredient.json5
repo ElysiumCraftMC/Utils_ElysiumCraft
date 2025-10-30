@@ -2,6 +2,7 @@
 	enable: true,
 	// Specify as "modid:id_item":"repair_item" 
 	items: {
+		"elysium:miner_helmet": "magistuarmory:woolen_fabric",
 		"minecraft:iron_leggings": "elysium:patch_iron",
 		"paladins:iron_claymore": "elysium:cote_iron",
 		"onlyhammersandexcavators:iron_hammer": "elysium:cote_iron",
