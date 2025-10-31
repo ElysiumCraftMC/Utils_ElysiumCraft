@@ -453,7 +453,6 @@
 		"extraalchemy:breakable_potion{Potion:\"elysium:levitation_lv1\"}",
 		"extraalchemy:breakable_potion{Potion:\"elysium:levitation_lv2\"}",
 		"extraalchemy:breakable_potion{Potion:\"elysium:levitation_lv3\"}",
-		"extraalchemy:breakable_potion{Potion:\"elysium:spawn_recall\"}",
 		"extraalchemy:breakable_potion{Potion:\"elysium:swiftness_lv2\"}",
 		"extraalchemy:breakable_potion{Potion:\"enderzoology:confusion\"}",
 		"extraalchemy:breakable_potion{Potion:\"enderzoology:decay\"}",
