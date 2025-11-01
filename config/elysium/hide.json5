@@ -1633,7 +1633,6 @@
 		"minecraft:potion{Potion:\"elysium:levitation_lv1\"}",
 		"minecraft:potion{Potion:\"elysium:levitation_lv2\"}",
 		"minecraft:potion{Potion:\"elysium:levitation_lv3\"}",
-		"minecraft:potion{Potion:\"elysium:spawn_recall\"}",
 		"minecraft:potion{Potion:\"enderzoology:confusion\"}",
 		"minecraft:potion{Potion:\"enderzoology:decay\"}",
 		"minecraft:potion{Potion:\"enderzoology:displacement\"}",
