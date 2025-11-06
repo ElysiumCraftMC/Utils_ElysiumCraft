@@ -1887,7 +1887,6 @@
 		"minecraft:splash_potion{Potion:\"minecraft:strength\"}",
 		"minecraft:splash_potion{Potion:\"minecraft:strong_healing\"}",
 		"minecraft:splash_potion{Potion:\"minecraft:strong_leaping\"}",
-		"minecraft:splash_potion{Potion:\"minecraft:strong_poison\"}",
 		"minecraft:splash_potion{Potion:\"minecraft:strong_regeneration\"}",
 		"minecraft:splash_potion{Potion:\"minecraft:strong_slowness\"}",
 		"minecraft:splash_potion{Potion:\"minecraft:strong_strength\"}",
