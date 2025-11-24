@@ -3002,5 +3002,37 @@
 				],
 			},
 		},
+		"onlyhammersandexcavators:emerald_excavator": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.4",
+					"0",
+				],
+				"generic.attack_damage": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"15360",
+					"0",
+				],
+			},
+		},
+		"onlyhammersandexcavators:emerald_hammer": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.4",
+					"0",
+				],
+				"generic.attack_damage": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"15360",
+					"0",
+				],
+			},
+		},
 	},
 }
