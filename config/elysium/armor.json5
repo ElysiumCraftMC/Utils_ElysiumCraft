@@ -2883,11 +2883,11 @@
 		"magistuarmoryaddon:dark_maximilian_chestplate": {
 			modifiers: {
 				"generic.armor": [
-					"5",
+					"6",
 					"0",
 				],
 				"generic.durability": [
-					"2160",
+					"3840",
 					"0",
 				],
 				"elysium:armor_unbreaking": [
@@ -2899,7 +2899,7 @@
 					"0",
 				],
 				"generic.max_health": [
-					"3",
+					"4",
 					"0",
 				],
 			},
@@ -2911,7 +2911,7 @@
 					"0",
 				],
 				"generic.durability": [
-					"2160",
+					"3840",
 					"0",
 				],
 				"elysium:armor_unbreaking": [
@@ -2923,7 +2923,7 @@
 					"0",
 				],
 				"generic.max_health": [
-					"3",
+					"4",
 					"0",
 				],
 			},
@@ -2931,11 +2931,11 @@
 		"magistuarmoryaddon:dark_maximilian_leggings": {
 			modifiers: {
 				"generic.armor": [
-					"5",
+					"6",
 					"0",
 				],
 				"generic.durability": [
-					"2160",
+					"3840",
 					"0",
 				],
 				"elysium:armor_unbreaking": [
@@ -2947,7 +2947,7 @@
 					"0",
 				],
 				"generic.max_health": [
-					"3",
+					"4",
 					"0",
 				],
 			},
@@ -2959,7 +2959,7 @@
 					"0",
 				],
 				"generic.durability": [
-					"2160",
+					"3840",
 					"0",
 				],
 				"elysium:armor_unbreaking": [
@@ -2971,7 +2971,7 @@
 					"0",
 				],
 				"generic.max_health": [
-					"3",
+					"4",
 					"0",
 				],
 			},
@@ -2979,11 +2979,11 @@
 		"magistuarmoryaddon:dark_knight_chestplate": {
 			modifiers: {
 				"generic.armor": [
-					"5",
+					"6",
 					"0",
 				],
 				"generic.durability": [
-					"2160",
+					"3840",
 					"0",
 				],
 				"elysium:armor_unbreaking": [
@@ -2995,7 +2995,7 @@
 					"0",
 				],
 				"generic.max_health": [
-					"3",
+					"4",
 					"0",
 				],
 			},
@@ -3003,11 +3003,11 @@
 		"magistuarmoryaddon:dark_knight_leggings": {
 			modifiers: {
 				"generic.armor": [
-					"5",
+					"6",
 					"0",
 				],
 				"generic.durability": [
-					"2160",
+					"3840",
 					"0",
 				],
 				"elysium:armor_unbreaking": [
@@ -3019,7 +3019,7 @@
 					"0",
 				],
 				"generic.max_health": [
-					"3",
+					"4",
 					"0",
 				],
 			},
@@ -3031,7 +3031,7 @@
 					"0",
 				],
 				"generic.durability": [
-					"2160",
+					"3840",
 					"0",
 				],
 				"elysium:armor_unbreaking": [
@@ -3043,7 +3043,7 @@
 					"0",
 				],
 				"generic.max_health": [
-					"3",
+					"4",
 					"0",
 				],
 			},
@@ -3055,7 +3055,7 @@
 					"0",
 				],
 				"generic.durability": [
-					"2160",
+					"3840",
 					"0",
 				],
 				"elysium:armor_unbreaking": [
@@ -3067,7 +3067,7 @@
 					"0",
 				],
 				"generic.max_health": [
-					"3",
+					"4",
 					"0",
 				],
 			},
@@ -3079,7 +3079,7 @@
 					"0",
 				],
 				"generic.durability": [
-					"2160",
+					"3840",
 					"0",
 				],
 				"elysium:armor_unbreaking": [
@@ -3091,7 +3091,7 @@
 					"0",
 				],
 				"generic.max_health": [
-					"3",
+					"4",
 					"0",
 				],
 			},
@@ -3099,11 +3099,11 @@
 		"magistuarmoryaddon:dark_jousting_chestplate": {
 			modifiers: {
 				"generic.armor": [
-					"5",
+					"6",
 					"0",
 				],
 				"generic.durability": [
-					"2160",
+					"3840",
 					"0",
 				],
 				"elysium:armor_unbreaking": [
@@ -3115,7 +3115,7 @@
 					"0",
 				],
 				"generic.max_health": [
-					"3",
+					"4",
 					"0",
 				],
 			},
@@ -3123,11 +3123,11 @@
 		"magistuarmoryaddon:dark_jousting_leggings": {
 			modifiers: {
 				"generic.armor": [
-					"5",
+					"6",
 					"0",
 				],
 				"generic.durability": [
-					"2160",
+					"3840",
 					"0",
 				],
 				"elysium:armor_unbreaking": [
@@ -3139,7 +3139,7 @@
 					"0",
 				],
 				"generic.max_health": [
-					"3",
+					"4",
 					"0",
 				],
 			},
@@ -3151,7 +3151,7 @@
 					"0",
 				],
 				"generic.durability": [
-					"2160",
+					"3840",
 					"0",
 				],
 				"elysium:armor_unbreaking": [
@@ -3163,7 +3163,7 @@
 					"0",
 				],
 				"generic.max_health": [
-					"3",
+					"4",
 					"0",
 				],
 			},
@@ -3427,11 +3427,11 @@
 		"elysium:t5_arcane_robe_chest": {
 			modifiers: {
 				"generic.armor": [
-					"3",
+					"4",
 					"0",
 				],
 				"generic.durability": [
-					"2160",
+					"3840",
 					"0",
 				],
 				"generic.armor_toughness": [
@@ -3447,7 +3447,7 @@
 					"0",
 				],
 				"generic.durability": [
-					"2160",
+					"3840",
 					"0",
 				],
 				"generic.armor_toughness": [
@@ -3463,7 +3463,7 @@
 					"0",
 				],
 				"generic.durability": [
-					"2160",
+					"3840",
 					"0",
 				],
 				"generic.armor_toughness": [
@@ -3475,11 +3475,11 @@
 		"elysium:t5_arcane_robe_legs": {
 			modifiers: {
 				"generic.armor": [
-					"3",
+					"4",
 					"0",
 				],
 				"generic.durability": [
-					"2160",
+					"3840",
 					"0",
 				],
 				"generic.armor_toughness": [
@@ -3491,11 +3491,11 @@
 		"elysium:t5_fire_robe_chest": {
 			modifiers: {
 				"generic.armor": [
-					"3",
+					"4",
 					"0",
 				],
 				"generic.durability": [
-					"2160",
+					"3840",
 					"0",
 				],
 				"generic.armor_toughness": [
@@ -3511,7 +3511,7 @@
 					"0",
 				],
 				"generic.durability": [
-					"2160",
+					"3840",
 					"0",
 				],
 				"generic.armor_toughness": [
@@ -3527,7 +3527,7 @@
 					"0",
 				],
 				"generic.durability": [
-					"2160",
+					"3840",
 					"0",
 				],
 				"generic.armor_toughness": [
@@ -3539,11 +3539,11 @@
 		"elysium:t5_fire_robe_legs": {
 			modifiers: {
 				"generic.armor": [
-					"3",
+					"4",
 					"0",
 				],
 				"generic.durability": [
-					"2160",
+					"3840",
 					"0",
 				],
 				"generic.armor_toughness": [
@@ -3555,11 +3555,11 @@
 		"elysium:t5_frost_robe_chest": {
 			modifiers: {
 				"generic.armor": [
-					"3",
+					"4",
 					"0",
 				],
 				"generic.durability": [
-					"2160",
+					"3840",
 					"0",
 				],
 				"generic.armor_toughness": [
@@ -3575,7 +3575,7 @@
 					"0",
 				],
 				"generic.durability": [
-					"2160",
+					"3840",
 					"0",
 				],
 				"generic.armor_toughness": [
@@ -3591,7 +3591,7 @@
 					"0",
 				],
 				"generic.durability": [
-					"2160",
+					"3840",
 					"0",
 				],
 				"generic.armor_toughness": [
@@ -3603,11 +3603,11 @@
 		"elysium:t5_frost_robe_legs": {
 			modifiers: {
 				"generic.armor": [
-					"3",
+					"4",
 					"0",
 				],
 				"generic.durability": [
-					"2160",
+					"3840",
 					"0",
 				],
 				"generic.armor_toughness": [
@@ -3619,11 +3619,11 @@
 		"elysium:t5_prior_robe_chest": {
 			modifiers: {
 				"generic.armor": [
-					"3",
+					"4",
 					"0",
 				],
 				"generic.durability": [
-					"2160",
+					"3840",
 					"0",
 				],
 				"generic.armor_toughness": [
@@ -3639,7 +3639,7 @@
 					"0",
 				],
 				"generic.durability": [
-					"2160",
+					"3840",
 					"0",
 				],
 				"generic.armor_toughness": [
@@ -3655,7 +3655,7 @@
 					"0",
 				],
 				"generic.durability": [
-					"2160",
+					"3840",
 					"0",
 				],
 				"generic.armor_toughness": [
@@ -3667,15 +3667,95 @@
 		"elysium:t5_prior_robe_legs": {
 			modifiers: {
 				"generic.armor": [
-					"3",
+					"4",
 					"0",
 				],
 				"generic.durability": [
-					"2160",
+					"3840",
 					"0",
 				],
 				"generic.armor_toughness": [
 					"3",
+					"0",
+				],
+			},
+		},
+		"minecraft:netherite_leggings": {
+			modifiers: {
+				"generic.armor": [
+					"5",
+					"0",
+				],
+				"generic.durability": [
+					"3840",
+					"0",
+				],
+				"elysium:armor_unbreaking": [
+					"0.08",
+					"0",
+				],
+				"generic.armor_toughness": [
+					"2",
+					"0",
+				],
+			},
+		},
+		"minecraft:netherite_helmet": {
+			modifiers: {
+				"generic.armor": [
+					"5",
+					"0",
+				],
+				"generic.durability": [
+					"3840",
+					"0",
+				],
+				"elysium:armor_unbreaking": [
+					"0.08",
+					"0",
+				],
+				"generic.armor_toughness": [
+					"2",
+					"0",
+				],
+			},
+		},
+		"minecraft:netherite_boots": {
+			modifiers: {
+				"generic.armor": [
+					"5",
+					"0",
+				],
+				"generic.durability": [
+					"3840",
+					"0",
+				],
+				"elysium:armor_unbreaking": [
+					"0.08",
+					"0",
+				],
+				"generic.armor_toughness": [
+					"2",
+					"0",
+				],
+			},
+		},
+		"minecraft:netherite_chestplate": {
+			modifiers: {
+				"generic.armor": [
+					"5",
+					"0",
+				],
+				"generic.durability": [
+					"3840",
+					"0",
+				],
+				"elysium:armor_unbreaking": [
+					"0.08",
+					"0",
+				],
+				"generic.armor_toughness": [
+					"2",
 					"0",
 				],
 			},
