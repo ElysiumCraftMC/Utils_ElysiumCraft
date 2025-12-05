@@ -646,7 +646,7 @@
 		"minecraft:netherite_leggings": "elsyium:patch_netherite",
 		"minecraft:netherite_helmet": "elsyium:patch_netherite",
 		"minecraft:netherite_boots": "elsyium:patch_netherite",
-		"minecraft:netherite_chestplate": "elsyium:patch_netherite"
+		"minecraft:netherite_chestplate": "elsyium:patch_netherite",
 
 	},
 }
