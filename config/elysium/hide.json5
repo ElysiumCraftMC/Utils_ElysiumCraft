@@ -1813,7 +1813,6 @@
 		"minecraft:splash_potion{Potion:\"extraalchemy:detection_long\"}",
 		"minecraft:splash_potion{Potion:\"extraalchemy:detection_strong\"}",
 		"minecraft:splash_potion{Potion:\"extraalchemy:detection\"}",
-		"minecraft:splash_potion{Potion:\"extraalchemy:fuse_long\"}",
 		"minecraft:splash_potion{Potion:\"extraalchemy:fuse_strong\"}",
 		"minecraft:splash_potion{Potion:\"extraalchemy:fuse\"}",
 		"minecraft:splash_potion{Potion:\"extraalchemy:gravity_long\"}",
