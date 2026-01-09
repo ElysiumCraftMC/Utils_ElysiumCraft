@@ -2907,7 +2907,7 @@
 		"magistuarmoryaddon:dark_maximilian_helmet": {
 			modifiers: {
 				"generic.armor": [
-					"5",
+					"6",
 					"0",
 				],
 				"generic.durability": [
@@ -2955,7 +2955,7 @@
 		"magistuarmoryaddon:dark_maximilian_boots": {
 			modifiers: {
 				"generic.armor": [
-					"5",
+					"6",
 					"0",
 				],
 				"generic.durability": [
@@ -3027,7 +3027,7 @@
 		"magistuarmoryaddon:dark_knight_boots": {
 			modifiers: {
 				"generic.armor": [
-					"5",
+					"6",
 					"0",
 				],
 				"generic.durability": [
@@ -3051,7 +3051,7 @@
 		"magistuarmoryaddon:dark_knight_helmet": {
 			modifiers: {
 				"generic.armor": [
-					"5",
+					"6",
 					"0",
 				],
 				"generic.durability": [
@@ -3075,7 +3075,7 @@
 		"magistuarmoryaddon:dark_jousting_helmet": {
 			modifiers: {
 				"generic.armor": [
-					"5",
+					"6",
 					"0",
 				],
 				"generic.durability": [
@@ -3147,7 +3147,7 @@
 		"magistuarmoryaddon:dark_jousting_boots": {
 			modifiers: {
 				"generic.armor": [
-					"5",
+					"6",
 					"0",
 				],
 				"generic.durability": [
@@ -3443,7 +3443,7 @@
 		"elysium:t5_arcane_robe_feet": {
 			modifiers: {
 				"generic.armor": [
-					"3",
+					"4",
 					"0",
 				],
 				"generic.durability": [
@@ -3459,7 +3459,7 @@
 		"elysium:t5_arcane_robe_head": {
 			modifiers: {
 				"generic.armor": [
-					"3",
+					"4",
 					"0",
 				],
 				"generic.durability": [
@@ -3507,7 +3507,7 @@
 		"elysium:t5_fire_robe_feet": {
 			modifiers: {
 				"generic.armor": [
-					"3",
+					"4",
 					"0",
 				],
 				"generic.durability": [
@@ -3523,7 +3523,7 @@
 		"elysium:t5_fire_robe_head": {
 			modifiers: {
 				"generic.armor": [
-					"3",
+					"4",
 					"0",
 				],
 				"generic.durability": [
@@ -3571,7 +3571,7 @@
 		"elysium:t5_frost_robe_feet": {
 			modifiers: {
 				"generic.armor": [
-					"3",
+					"4",
 					"0",
 				],
 				"generic.durability": [
@@ -3587,7 +3587,7 @@
 		"elysium:t5_frost_robe_head": {
 			modifiers: {
 				"generic.armor": [
-					"3",
+					"4",
 					"0",
 				],
 				"generic.durability": [
@@ -3635,7 +3635,7 @@
 		"elysium:t5_prior_robe_feet": {
 			modifiers: {
 				"generic.armor": [
-					"3",
+					"4",
 					"0",
 				],
 				"generic.durability": [
@@ -3651,7 +3651,7 @@
 		"elysium:t5_prior_robe_head": {
 			modifiers: {
 				"generic.armor": [
-					"3",
+					"4",
 					"0",
 				],
 				"generic.durability": [
@@ -3703,7 +3703,7 @@
 		"minecraft:netherite_helmet": {
 			modifiers: {
 				"generic.armor": [
-					"5",
+					"6",
 					"0",
 				],
 				"generic.durability": [
@@ -3743,7 +3743,7 @@
 		"minecraft:netherite_chestplate": {
 			modifiers: {
 				"generic.armor": [
-					"5",
+					"6",
 					"0",
 				],
 				"generic.durability": [
