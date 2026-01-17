@@ -3683,7 +3683,7 @@
 		"minecraft:netherite_leggings": {
 			modifiers: {
 				"generic.armor": [
-					"5",
+					"6",
 					"0",
 				],
 				"generic.durability": [
@@ -3703,7 +3703,7 @@
 		"minecraft:netherite_helmet": {
 			modifiers: {
 				"generic.armor": [
-					"6",
+					"5",
 					"0",
 				],
 				"generic.durability": [

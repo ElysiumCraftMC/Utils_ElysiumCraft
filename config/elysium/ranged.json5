@@ -119,7 +119,7 @@
 		"archers_arsenal:bow_gold": {
 			modifiers: {
 				"generic.durability": [
-					"720",
+					"960",
 					"0",
 				],
 			},
@@ -327,7 +327,7 @@
 		"archers_arsenal:bow_netherite": {
 			modifiers: {
 				"generic.durability": [
-					"2160",
+					"3840",
 					"0",
 				],
 			},
@@ -343,7 +343,7 @@
 		"archers_arsenal:bow_diamond": {
 			modifiers: {
 				"generic.durability": [
-					"1440",
+					"1920",
 					"0",
 				],
 			},
