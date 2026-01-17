@@ -68,7 +68,7 @@
 					"0",
 				],
 				"generic.knockback_resistance": [
-					"2",
+					"0.2",
 					"0",
 				],
 				"generic.durability": [
@@ -144,7 +144,7 @@
 					"0",
 				],
 				"generic.knockback_resistance": [
-					"4",
+					"0.4",
 					"0",
 				],
 				"generic.durability": [
@@ -208,7 +208,7 @@
 					"0",
 				],
 				"generic.knockback_resistance": [
-					"2",
+					"0.2",
 					"0",
 				],
 				"generic.durability": [
@@ -248,7 +248,7 @@
 					"0",
 				],
 				"generic.knockback_resistance": [
-					"3",
+					"0.3",
 					"0",
 				],
 				"generic.durability": [
@@ -276,7 +276,7 @@
 					"0",
 				],
 				"generic.knockback_resistance": [
-					"1",
+					"0.1",
 					"0",
 				],
 				"generic.durability": [
@@ -400,7 +400,7 @@
 					"0",
 				],
 				"generic.knockback_resistance": [
-					"1",
+					"0.1",
 					"0",
 				],
 				"generic.durability": [
@@ -560,7 +560,7 @@
 					"0",
 				],
 				"generic.knockback_resistance": [
-					"5",
+					"0.5",
 					"0",
 				],
 				"generic.durability": [
@@ -636,7 +636,7 @@
 					"0",
 				],
 				"generic.knockback_resistance": [
-					"4",
+					"0.4",
 					"0",
 				],
 				"generic.durability": [
@@ -760,7 +760,7 @@
 					"0",
 				],
 				"generic.knockback_resistance": [
-					"2",
+					"0.2",
 					"0",
 				],
 				"generic.durability": [
@@ -908,7 +908,7 @@
 					"0",
 				],
 				"generic.knockback_resistance": [
-					"5",
+					"0.5",
 					"0",
 				],
 				"generic.durability": [
@@ -924,7 +924,7 @@
 					"0",
 				],
 				"generic.knockback_resistance": [
-					"5",
+					"0.5",
 					"0",
 				],
 				"generic.durability": [
@@ -940,7 +940,7 @@
 					"0",
 				],
 				"generic.knockback_resistance": [
-					"1",
+					"0.1",
 					"0",
 				],
 				"generic.durability": [
@@ -956,7 +956,7 @@
 					"0",
 				],
 				"generic.knockback_resistance": [
-					"3",
+					"0.3",
 					"0",
 				],
 				"generic.durability": [
@@ -984,7 +984,7 @@
 					"0",
 				],
 				"generic.knockback_resistance": [
-					"4",
+					"0.4",
 					"0",
 				],
 				"generic.durability": [
@@ -1000,7 +1000,7 @@
 					"0",
 				],
 				"generic.knockback_resistance": [
-					"3",
+					"0.3",
 					"0",
 				],
 				"generic.durability": [
