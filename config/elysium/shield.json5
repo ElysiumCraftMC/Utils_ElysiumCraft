@@ -68,7 +68,7 @@
 					"0",
 				],
 				"generic.knockback_resistance": [
-					"0.15",
+					"0.2",
 					"0",
 				],
 				"generic.durability": [
@@ -83,6 +83,10 @@
 					"2",
 					"0",
 				],
+				"generic.knockback_resistance": [
+					"0.1",
+					"0",
+				],
 				"generic.durability": [
 					"60",
 					"0",
@@ -93,6 +97,10 @@
 			modifiers: {
 				"generic.armor": [
 					"2",
+					"0",
+				],
+				"generic.knockback_resistance": [
+					"0.1",
 					"0",
 				],
 				"generic.durability": [
@@ -144,7 +152,7 @@
 					"0",
 				],
 				"generic.knockback_resistance": [
-					"0.25",
+					"0.30",
 					"0",
 				],
 				"generic.durability": [
@@ -208,7 +216,7 @@
 					"0",
 				],
 				"generic.knockback_resistance": [
-					"0.15",
+					"0.2",
 					"0",
 				],
 				"generic.durability": [
@@ -248,7 +256,7 @@
 					"0",
 				],
 				"generic.knockback_resistance": [
-					"0.2",
+					"0.25",
 					"0",
 				],
 				"generic.durability": [
@@ -276,7 +284,7 @@
 					"0",
 				],
 				"generic.knockback_resistance": [
-					"0.1",
+					"0.15",
 					"0",
 				],
 				"generic.durability": [
@@ -325,6 +333,10 @@
 			modifiers: {
 				"generic.armor": [
 					"3",
+					"0",
+				],
+				"generic.knockback_resistance": [
+					"0.1",
 					"0",
 				],
 				"generic.durability": [
@@ -400,7 +412,7 @@
 					"0",
 				],
 				"generic.knockback_resistance": [
-					"0.1",
+					"0.15",
 					"0",
 				],
 				"generic.durability": [
@@ -560,7 +572,7 @@
 					"0",
 				],
 				"generic.knockback_resistance": [
-					"0.30",
+					"0.35",
 					"0",
 				],
 				"generic.durability": [
@@ -636,7 +648,7 @@
 					"0",
 				],
 				"generic.knockback_resistance": [
-					"0.25",
+					"0.30",
 					"0",
 				],
 				"generic.durability": [
@@ -661,6 +673,10 @@
 			modifiers: {
 				"generic.armor": [
 					"2",
+					"0",
+				],
+				"generic.knockback_resistance": [
+					"0.1",
 					"0",
 				],
 				"generic.durability": [
@@ -709,6 +725,10 @@
 			modifiers: {
 				"generic.armor": [
 					"3",
+					"0",
+				],
+				"generic.knockback_resistance": [
+					"0.1",
 					"0",
 				],
 				"generic.durability": [
@@ -760,7 +780,7 @@
 					"0",
 				],
 				"generic.knockback_resistance": [
-					"0.15",
+					"0.2",
 					"0",
 				],
 				"generic.durability": [
@@ -773,6 +793,10 @@
 			modifiers: {
 				"generic.armor": [
 					"3",
+					"0",
+				],
+				"generic.knockback_resistance": [
+					"0.1",
 					"0",
 				],
 				"generic.durability": [
@@ -908,7 +932,7 @@
 					"0",
 				],
 				"generic.knockback_resistance": [
-					"0.30",
+					"0.35",
 					"0",
 				],
 				"generic.durability": [
@@ -924,7 +948,7 @@
 					"0",
 				],
 				"generic.knockback_resistance": [
-					"0.30",
+					"0.35",
 					"0",
 				],
 				"generic.durability": [
@@ -940,7 +964,7 @@
 					"0",
 				],
 				"generic.knockback_resistance": [
-					"0.1",
+					"0.15",
 					"0",
 				],
 				"generic.durability": [
@@ -956,7 +980,7 @@
 					"0",
 				],
 				"generic.knockback_resistance": [
-					"0.2",
+					"0.25",
 					"0",
 				],
 				"generic.durability": [
@@ -984,7 +1008,7 @@
 					"0",
 				],
 				"generic.knockback_resistance": [
-					"0.25",
+					"0.30",
 					"0",
 				],
 				"generic.durability": [
@@ -1000,7 +1024,7 @@
 					"0",
 				],
 				"generic.knockback_resistance": [
-					"0.2",
+					"0.25",
 					"0",
 				],
 				"generic.durability": [
