@@ -2667,7 +2667,7 @@
 		"magistuarmoryaddon:darkblued_maximilian_boots": {
 			modifiers: {
 				"generic.armor": [
-					"4",
+					"5",
 					"0",
 				],
 				"generic.durability": [
