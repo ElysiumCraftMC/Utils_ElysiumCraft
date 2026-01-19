@@ -14857,5 +14857,11 @@
 		"mcwwindows:orange_mosaic_glass_pane": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"minecraft:crimson_stem": [
+			"\u00a7eCrafted by: \u00a77Carpenter"
+		],
+        "minecraft:warped_stem": [
+			"\u00a7eCrafted by: \u00a77Carpenter"
+		]
 	},
 }
