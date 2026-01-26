@@ -14862,6 +14862,9 @@
 		],
         "minecraft:warped_stem": [
 			"\u00a7eCrafted by: \u00a77Carpenter"
+		],
+		"farmersdelight:stove": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		]
 	},
 }
