@@ -14865,6 +14865,9 @@
 		],
 		"farmersdelight:stove": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
+		"minecraft:lantern": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		]
 	},
 }
