@@ -14868,6 +14868,9 @@
 		],
 		"minecraft:lantern": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
+		"soulsweapons:soul_lamp": [
+			"\u00a7eCrafted by: \u00a77Carpenter"
 		]
 	},
 }
