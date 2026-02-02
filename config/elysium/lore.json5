@@ -14871,6 +14871,9 @@
 		],
 		"soulsweapons:soul_lamp": [
 			"\u00a7eCrafted by: \u00a77Carpenter"
+		],
+		"byg:therium_lantern": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		]
 	},
 }
