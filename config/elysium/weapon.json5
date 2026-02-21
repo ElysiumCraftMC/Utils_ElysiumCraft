@@ -2610,6 +2610,14 @@
 				],
 			},
 		},
+		"magistuarmory:gold_shortsword": {
+			modifiers: {
+				"generic.attack_damage": [
+					"1.34",
+					"0",
+				],
+			},
+		},
 		"magistuarmory:wood_morgenstern": {
 			modifiers: {
 				"generic.attack_speed": [
