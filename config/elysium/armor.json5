@@ -3763,11 +3763,11 @@
 		"endermanoverhaul:snowy_hood": {
 			modifiers: {
 				"generic.armor": [
-					"-4",
+					"-3",
 					"0",
 				],
 				"generic.durability": [
-					"-180",
+					"-120",
 					"0",
 				],
 			},
@@ -3775,11 +3775,11 @@
 		"endermanoverhaul:savanna_hood": {
 			modifiers: {
 				"generic.armor": [
-					"-4",
+					"-3",
 					"0",
 				],
 				"generic.durability": [
-					"-180",
+					"-120",
 					"0",
 				],
 			},
@@ -3787,11 +3787,11 @@
 		"endermanoverhaul:badlands_hood": {
 			modifiers: {
 				"generic.armor": [
-					"-4",
+					"-3",
 					"0",
 				],
 				"generic.durability": [
-					"-180",
+					"-120",
 					"0",
 				],
 			},
