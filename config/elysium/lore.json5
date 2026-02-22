@@ -14874,6 +14874,9 @@
 		],
 		"byg:therium_lantern": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
-		]
+		],
+		"minecraft:daylight_detector": [
+			"\u00a7eCrafted by: \u00a77Carpenter"
+		],
 	},
 }
