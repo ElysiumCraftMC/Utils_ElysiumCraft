@@ -3760,41 +3760,5 @@
 				],
 			},
 		},
-		"endermanoverhaul:snowy_hood": {
-			modifiers: {
-				"generic.armor": [
-					"-4",
-					"0",
-				],
-				"generic.durability": [
-					"-180",
-					"0",
-				],
-			},
-		},
-		"endermanoverhaul:savanna_hood": {
-			modifiers: {
-				"generic.armor": [
-					"-4",
-					"0",
-				],
-				"generic.durability": [
-					"-180",
-					"0",
-				],
-			},
-		},
-		"endermanoverhaul:badlands_hood": {
-			modifiers: {
-				"generic.armor": [
-					"-4",
-					"0",
-				],
-				"generic.durability": [
-					"-180",
-					"0",
-				],
-			},
-		},
 	},
 }
