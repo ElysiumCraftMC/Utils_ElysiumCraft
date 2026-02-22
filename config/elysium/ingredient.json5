@@ -1,6 +1,6 @@
 {
 	enable: true,
-	// Specify as "modid:id_item":"repair_item" 
+	// Specify as "modid:id_item":"repair_item"
 	items: {
 
 		"archers_arsenal:bow_diamond": "elysium:cote_diamond",
@@ -63,6 +63,9 @@
 		"elysium:maglia_viola_corta": "multibeds:woolen_cloth",
 		"elysium:maglia_viola_lunga_alt": "multibeds:woolen_cloth",
 		"elysium:maglia_viola_lunga": "multibeds:woolen_cloth",
+		"endermanoverhaul:badlands_hood": "multibeds:woolen_cloth",
+		"endermanoverhaul:savanna_hood": "multibeds:woolen_cloth",
+		"endermanoverhaul:snowy_hood": "multibeds:woolen_cloth",
 		"elysium:miner_helmet": "magistuarmory:woolen_fabric",
 		"elysium:pantalone_acqua": "multibeds:woolen_cloth",
 		"elysium:pantalone_blu": "multibeds:woolen_cloth",
