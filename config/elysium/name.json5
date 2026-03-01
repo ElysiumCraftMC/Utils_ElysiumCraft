@@ -2,6 +2,7 @@
 	enable: true,
 	// Specify as "modid:id_item":"name" TEST
 	items: {
+		"miskatonicmysteries:yog_chalk": "Ritual Chalk",
 		"summoningrituals:altar": "Transmutation Altar",
 		"jewelry:iron_ring": "Magic Ring",
 		"elysium:offer1": "Inferior Offer",
