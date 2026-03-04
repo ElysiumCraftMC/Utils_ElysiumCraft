@@ -1622,10 +1622,6 @@
 					"2",
 					"0",
 				],
-				"generic.max_health": [
-					"1",
-					"0",
-				],
 			},
 		},
 		"magistuarmory:jousting_chestplate": {
@@ -1646,10 +1642,6 @@
 					"2",
 					"0",
 				],
-				"generic.max_health": [
-					"1",
-					"0",
-				],
 			},
 		},
 		"magistuarmory:jousting_leggings": {
@@ -1668,10 +1660,6 @@
 				],
 				"generic.armor_toughness": [
 					"2",
-					"0",
-				],
-				"generic.max_health": [
-					"1",
 					"0",
 				],
 			},
@@ -1714,10 +1702,6 @@
 					"2",
 					"0",
 				],
-				"generic.max_health": [
-					"1",
-					"0",
-				],
 			},
 		},
 		"magistuarmory:knight_chestplate": {
@@ -1736,10 +1720,6 @@
 				],
 				"generic.armor_toughness": [
 					"2",
-					"0",
-				],
-				"generic.max_health": [
-					"1",
 					"0",
 				],
 			},
@@ -1762,10 +1742,6 @@
 					"2",
 					"0",
 				],
-				"generic.max_health": [
-					"1",
-					"0",
-				],
 			},
 		},
 		"magistuarmory:maximilian_boots": {
@@ -1784,10 +1760,6 @@
 				],
 				"generic.armor_toughness": [
 					"2",
-					"0",
-				],
-				"generic.max_health": [
-					"1",
 					"0",
 				],
 			},
@@ -1810,10 +1782,6 @@
 					"2",
 					"0",
 				],
-				"generic.max_health": [
-					"1",
-					"0",
-				],
 			},
 		},
 		"magistuarmoryaddon:dark_gilded_greenwich_chestplate": {
@@ -1834,16 +1802,8 @@
 					"2",
 					"0",
 				],
-				"generic.max_health": [
-					"80",
-					"0",
-				],
 			},
 		},
-
-
-
-
 		"magistuarmory:maximilian_helmet": {
 			modifiers: {
 				"generic.armor": [
@@ -1860,10 +1820,6 @@
 				],
 				"generic.armor_toughness": [
 					"2",
-					"0",
-				],
-				"generic.max_health": [
-					"1",
 					"0",
 				],
 			},
@@ -1884,10 +1840,6 @@
 				],
 				"generic.armor_toughness": [
 					"2",
-					"0",
-				],
-				"generic.max_health": [
-					"1",
 					"0",
 				],
 			},
@@ -1990,10 +1942,6 @@
 					"2",
 					"0",
 				],
-				"generic.max_health": [
-					"1",
-					"0",
-				],
 			},
 		},
 		"magistuarmory:stechhelm": {
@@ -2012,10 +1960,6 @@
 				],
 				"generic.armor_toughness": [
 					"2",
-					"0",
-				],
-				"generic.max_health": [
-					"1",
 					"0",
 				],
 			},
@@ -2610,10 +2554,6 @@
 					"3",
 					"0",
 				],
-				"generic.max_health": [
-					"2",
-					"0",
-				],
 			},
 		},
 		"magistuarmoryaddon:darkblued_maximilian_helmet": {
@@ -2632,10 +2572,6 @@
 				],
 				"generic.armor_toughness": [
 					"3",
-					"0",
-				],
-				"generic.max_health": [
-					"2",
 					"0",
 				],
 			},
@@ -2658,10 +2594,6 @@
 					"3",
 					"0",
 				],
-				"generic.max_health": [
-					"2",
-					"0",
-				],
 			},
 		},
 		"magistuarmoryaddon:darkblued_maximilian_boots": {
@@ -2680,10 +2612,6 @@
 				],
 				"generic.armor_toughness": [
 					"3",
-					"0",
-				],
-				"generic.max_health": [
-					"2",
 					"0",
 				],
 			},
@@ -2706,10 +2634,6 @@
 					"3",
 					"0",
 				],
-				"generic.max_health": [
-					"2",
-					"0",
-				],
 			},
 		},
 		"magistuarmoryaddon:darkblued_knight_leggings": {
@@ -2728,10 +2652,6 @@
 				],
 				"generic.armor_toughness": [
 					"3",
-					"0",
-				],
-				"generic.max_health": [
-					"2",
 					"0",
 				],
 			},
@@ -2754,10 +2674,6 @@
 					"3",
 					"0",
 				],
-				"generic.max_health": [
-					"2",
-					"0",
-				],
 			},
 		},
 		"magistuarmoryaddon:darkblued_sallet": {
@@ -2776,10 +2692,6 @@
 				],
 				"generic.armor_toughness": [
 					"3",
-					"0",
-				],
-				"generic.max_health": [
-					"2",
 					"0",
 				],
 			},
@@ -2802,10 +2714,6 @@
 					"3",
 					"0",
 				],
-				"generic.max_health": [
-					"2",
-					"0",
-				],
 			},
 		},
 		"magistuarmoryaddon:darkblued_gothic_chestplate": {
@@ -2824,10 +2732,6 @@
 				],
 				"generic.armor_toughness": [
 					"3",
-					"0",
-				],
-				"generic.max_health": [
-					"2",
 					"0",
 				],
 			},
@@ -2850,10 +2754,6 @@
 					"3",
 					"0",
 				],
-				"generic.max_health": [
-					"2",
-					"0",
-				],
 			},
 		},
 		"magistuarmoryaddon:darkblued_gothic_boots": {
@@ -2874,10 +2774,6 @@
 					"3",
 					"0",
 				],
-				"generic.max_health": [
-					"2",
-					"0",
-				],
 			},
 		},
 		"magistuarmoryaddon:dark_maximilian_chestplate": {
@@ -2895,10 +2791,6 @@
 					"2",
 				],
 				"generic.armor_toughness": [
-					"4",
-					"0",
-				],
-				"generic.max_health": [
 					"4",
 					"0",
 				],
@@ -2922,10 +2814,6 @@
 					"4",
 					"0",
 				],
-				"generic.max_health": [
-					"4",
-					"0",
-				],
 			},
 		},
 		"magistuarmoryaddon:dark_maximilian_leggings": {
@@ -2943,10 +2831,6 @@
 					"2",
 				],
 				"generic.armor_toughness": [
-					"4",
-					"0",
-				],
-				"generic.max_health": [
 					"4",
 					"0",
 				],
@@ -2970,10 +2854,6 @@
 					"4",
 					"0",
 				],
-				"generic.max_health": [
-					"4",
-					"0",
-				],
 			},
 		},
 		"magistuarmoryaddon:dark_knight_chestplate": {
@@ -2991,10 +2871,6 @@
 					"2",
 				],
 				"generic.armor_toughness": [
-					"4",
-					"0",
-				],
-				"generic.max_health": [
 					"4",
 					"0",
 				],
@@ -3018,10 +2894,6 @@
 					"4",
 					"0",
 				],
-				"generic.max_health": [
-					"4",
-					"0",
-				],
 			},
 		},
 		"magistuarmoryaddon:dark_knight_boots": {
@@ -3039,10 +2911,6 @@
 					"2",
 				],
 				"generic.armor_toughness": [
-					"4",
-					"0",
-				],
-				"generic.max_health": [
 					"4",
 					"0",
 				],
@@ -3066,10 +2934,6 @@
 					"4",
 					"0",
 				],
-				"generic.max_health": [
-					"4",
-					"0",
-				],
 			},
 		},
 		"magistuarmoryaddon:dark_jousting_helmet": {
@@ -3087,10 +2951,6 @@
 					"2",
 				],
 				"generic.armor_toughness": [
-					"4",
-					"0",
-				],
-				"generic.max_health": [
 					"4",
 					"0",
 				],
@@ -3114,10 +2974,6 @@
 					"4",
 					"0",
 				],
-				"generic.max_health": [
-					"4",
-					"0",
-				],
 			},
 		},
 		"magistuarmoryaddon:dark_jousting_leggings": {
@@ -3138,10 +2994,6 @@
 					"4",
 					"0",
 				],
-				"generic.max_health": [
-					"4",
-					"0",
-				],
 			},
 		},
 		"magistuarmoryaddon:dark_jousting_boots": {
@@ -3159,10 +3011,6 @@
 					"2",
 				],
 				"generic.armor_toughness": [
-					"4",
-					"0",
-				],
-				"generic.max_health": [
 					"4",
 					"0",
 				],
