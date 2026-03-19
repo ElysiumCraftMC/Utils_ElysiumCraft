@@ -4103,10 +4103,10 @@
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"elysium:copper_chisel_gross": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"elysium:copper_chisel_precision": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"elysium:copper_hoe": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
@@ -4147,7 +4147,19 @@
 		"elysium:decoration_base": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"elysium:diamond_chisel_gross": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
+		"elysium:diamond_chisel_precision": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
 		"elysium:diamond_shears": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
+		"elysium:emerald_chisel_gross": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
+		"elysium:emerald_chisel_precision": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"elysium:emerald_shears": [
@@ -4173,6 +4185,12 @@
 		"elysium:gauntlet": [
 			"\u00a73Allows to challenge an opponent",
 		],
+		"elysium:gold_chisel_gross": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
+		"elysium:gold_chisel_precision": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
 		"elysium:gold_shears": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
@@ -4196,6 +4214,12 @@
 		],
 		"elysium:instrument_strength": [
 			"\u00a7eCrafted by: \u00a77Alchemist",
+		],
+		"elysium:iron_chisel_gross": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
+		"elysium:iron_chisel_precision": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"elysium:jade_common": [
 			"\u00a73Gem of Protection",
@@ -4432,6 +4456,12 @@
 			"\u00a7eCrafted by: \u00a77Alchemist",
 		],
 		"elysium:tin_axe": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
+		"elysium:tin_chisel_gross": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
+		"elysium:tin_chisel_precision": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"elysium:tin_hoe": [
