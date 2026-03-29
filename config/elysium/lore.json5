@@ -2655,6 +2655,9 @@
 		"culturaldelights:tropical_roll": [
 			"\u00a7eCrafted by: \u00a77Cook",
 		],
+		"custommachinery:custom_machine_item": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
 		"davespotioneering:rudimentary_gauntlet": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],

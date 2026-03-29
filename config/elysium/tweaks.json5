@@ -162,4 +162,7 @@
 	mysticSpeed: 0.3100000023841858,
 	// Time kick player
 	afkPlayer: 1800,
+
+    // Make the tindalus vanish when the target respawn
+    tindalusVanishOnTargetDeath : false
 }
