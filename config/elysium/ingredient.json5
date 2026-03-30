@@ -534,7 +534,7 @@
 		"minecraft:iron_boots": "elysium:patch_iron",
 		"minecraft:iron_chestplate": "elysium:patch_iron",
 		"minecraft:iron_helmet": "elysium:patch_iron",
-		"minecraft:iron_hoe": "minecraft:cote_iron",
+		"minecraft:iron_hoe": "elysium:cote_iron",
 		"minecraft:iron_leggings": "elysium:patch_iron",
 		"minecraft:iron_pickaxe": "minecraft:air",
 		"minecraft:iron_shovel": "elysium:cote_iron",
