@@ -6,7 +6,9 @@
   {    "item": "minecraft:iron_hoe",    "value": 0.50  },
   {    "item": "minecraft:gold_hoe",    "value": 0.40  },
   {    "item": "minecraft:diamond_hoe",    "value": 0.30  },
-  {    "item": "minecraft:netherite_hoe",    "value": 0.20  }
+  {    "item": "minecraft:netherite_hoe",    "value": 0.20  },
+ 	{    "item": "onlyhammersandexcavators:emerald_excavator",    "value": 1.00  },
+	{    "item": "onlyhammersandexcavators:emerald_hammer",    "value": 1.00  },
+ 	{    "item": "treeaxe:emerald_treeaxe",    "value": 1.00  }
 
-  
 ]
