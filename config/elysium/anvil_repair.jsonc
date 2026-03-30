@@ -1,4 +1,5 @@
 //Change how much the item will repair (1 = 100%, 0.5 = 50%, DEFAULT = 0.25 = 25%)
+/*
 [
 
   {    "item": "elysium:tin_hoe",    "value": 1.00  },
@@ -12,3 +13,4 @@
  	{    "item": "treeaxe:emerald_treeaxe",    "value": 1.00  }
 
 ]
+*/
