@@ -1,7 +1,12 @@
-//Change how much the item will rapair (1 = 100%, 0.5 = 50%, DEFAULT = 0.25 = 25%)
+//Change how much the item will repair (1 = 100%, 0.5 = 50%, DEFAULT = 0.25 = 25%)
 [
-  {
-    "item": "minecraft:bedrock",
-    "value": 0.25
-  }
+
+  {    "item": "elysium:tin_hoe",    "value": 1.00  },
+  {    "item": "elysium:copper_hoe",    "value": 0.80  },
+  {    "item": "minecraft:iron_hoe",    "value": 0.50  },
+  {    "item": "minecraft:gold_hoe",    "value": 0.40  },
+  {    "item": "minecraft:diamond_hoe",    "value": 0.30  },
+  {    "item": "minecraft:netherite_hoe",    "value": 0.20  }
+
+  
 ]
