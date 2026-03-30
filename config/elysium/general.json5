@@ -1,0 +1,4 @@
+{
+	// Tindalus hound should despawn after killing the player?
+	houndDespawnAfterKill: false,
+}
