@@ -150,6 +150,9 @@
 		"betterfurnacesreforged:iron_furnace": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
+		"betterfurnacesreforged:platinum_furnace": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
 		"bitsandchisels:diamond_chisel": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -6601,6 +6604,9 @@
 		"luphieclutteredmod:anchorwallpaperwainscot": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"luphieclutteredmod:bamboo_bookshelf": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
 		"luphieclutteredmod:blue_birdhouse": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -6797,6 +6803,15 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"luphieclutteredmod:luphie_card_index": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"luphieclutteredmod:luphie_cat_counter_a": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"luphieclutteredmod:luphie_cat_kitchen_counter_b": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"luphieclutteredmod:luphie_cat_kitchen_table": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"luphieclutteredmod:luphie_cat_window": [
@@ -7222,6 +7237,15 @@
 		"luphieclutteredmod:luphie_honeycomb_lamp": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"luphieclutteredmod:luphie_hoppin_park_lantern": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"luphieclutteredmod:luphie_imperial_chair": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"luphieclutteredmod:luphie_imperial_table": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
 		"luphieclutteredmod:luphie_jack_o_lantern_bookshelf": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -7280,6 +7304,9 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"luphieclutteredmod:luphie_moon_string": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"luphieclutteredmod:luphie_mushroom_bed": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"luphieclutteredmod:luphie_mushroom_bookshelf": [
@@ -7622,6 +7649,9 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"luphieclutteredmod:luphie_sweetheart_counter_b": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"luphieclutteredmod:luphie_sweetheart_kitchen_table": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"luphieclutteredmod:luphie_table_with_cloth": [
@@ -10577,9 +10607,6 @@
 		"mcwlights:chain_wall_lantern": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
-		"mcwlights:classic_street_lamp": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
 		"mcwlights:covered_lantern": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
@@ -10607,9 +10634,6 @@
 		"mcwlights:dark_oak_tiki_torch": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"mcwlights:double_street_lamp": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
 		"mcwlights:festive_lantern": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
@@ -10617,9 +10641,6 @@
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwlights:framed_torch": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
-		"mcwlights:garden_light": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"mcwlights:glowstone_slab": [
@@ -10647,9 +10668,6 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"mcwlights:jungle_tiki_torch": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
-		"mcwlights:lava_lamp": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"mcwlights:light_blue_ceiling_light": [
@@ -10754,16 +10772,10 @@
 		"mcwlights:soul_birch_tiki_torch": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
-		"mcwlights:soul_classic_street_lamp": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
 		"mcwlights:soul_crimson_tiki_torch": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"mcwlights:soul_dark_oak_tiki_torch": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
-		"mcwlights:soul_double_street_lamp": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"mcwlights:soul_jungle_tiki_torch": [
@@ -14238,6 +14250,9 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"twigs:birch_table": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"twigs:black_packed_silt": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"twigs:black_silt_pot": [
