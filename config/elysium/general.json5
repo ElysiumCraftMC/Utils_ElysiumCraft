@@ -1,6 +1,10 @@
 {
 	// Tindalus hound should despawn after killing the player?
 	houndDespawnAfterKill: false,
+
+	// Night Shade should despawn after killing the target?
+	nightShadeDespawnAfterKill: false,
+
 	/*  If returnToSpawn is set to false and atPos is empty, the player just won't die and be left with half-hearth
 	    Every value is optional and will change how it behave
 	    for every dimension add an entry like this, you can omit the fields you aren't using
