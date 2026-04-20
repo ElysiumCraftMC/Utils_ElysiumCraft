@@ -117,6 +117,9 @@
 		"beautiful_ornaments:iron_ring_display": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
+		"beautiful_ornaments:lace": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
 		"beautiful_ornaments:netherite_chain": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
@@ -6152,7 +6155,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"handcrafted:hammer": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"handcrafted:jungle_bench": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -8158,6 +8161,9 @@
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"magistuarmory:netherite_chainmorgenstern": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
+		"magistuarmory:netherite_claymore": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"magistuarmory:netherite_ellipticalshield": [
