@@ -1,6 +1,6 @@
 {
 	// dimensions in which the combat log won't trigger
-	blacklistCombatLog: ["elysium:war"],
+	blacklistCombatLog: ["elysium:war", "elysium:battle"],
   
 	/*  If returnToSpawn is set to false and atPos is empty, the player just won't die and be left with half-hearth
 	    Every value is optional and will change how it behave
