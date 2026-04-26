@@ -1,0 +1,19 @@
+{
+	// how many item of a type should be smelted before dropping the scrap
+	dropScrapAt: 10,
+	// base percentage where to start, the value goes from 0 to 100
+	initialPercent: 50,
+	// how much 'initialPercent should' increase on fail, the value goes from 0 to 100
+	increasePercent: 10,
+	// material name : resulting scrap item
+	materialToScrap: {
+        tin: "minecraft:dirt",
+		copper: "minecraft:dirt",
+		iron: "minecraft:dirt",
+		gold: "minecraft:dirt",
+        silver: "minecraft:dirt",
+		diamond: "minecraft:dirt",
+		netherite: "minecraft:dirt",
+        emerald: "minecraft:dirt",
+	},
+}

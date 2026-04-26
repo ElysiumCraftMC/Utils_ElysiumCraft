@@ -1,0 +1,6 @@
+{
+	// Tindalos hound should despawn after killing the target?
+	houndDespawnAfterKill: false,
+	// Night Shade should despawn after killing the target?
+	nightShadeDespawnAfterKill: false,
+}
