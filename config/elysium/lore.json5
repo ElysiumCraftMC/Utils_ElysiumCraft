@@ -5824,13 +5824,250 @@
 		"farmersdelight:yellow_canvas_sign": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"furnish:acacia_bedside_table": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:acacia_bookshelf_chest": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:acacia_cabinet": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:acacia_chair": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:acacia_kitchen_cabinet": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:acacia_ladder": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:acacia_pedestal_table": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:acacia_square_table": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:acacia_table": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:acacia_wardrobe": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:birch_bedside_table": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:birch_bookshelf_chest": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:birch_cabinet": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:birch_chair": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:birch_kitchen_cabinet": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:birch_ladder": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:birch_pedestal_table": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:birch_square_table": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:birch_table": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:birch_wardrobe": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:crimson_bookshelf_chest": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:crimson_cabinet": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:crimson_chair": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:crimson_drawers": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:crimson_ladder": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:crimson_pedestal_table": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:crimson_square_table": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:crimson_table": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:crimson_wardrobe": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:dark_oak_bedside_table": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:dark_oak_bookshelf_chest": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:dark_oak_cabinet": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:dark_oak_kitchen_cabinet": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:dark_oak_ladder": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:dark_oak_pedestal_table": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:dark_oak_square_table": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:dark_oak_table": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:dark_oak_wardrobe": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
 		"furnish:furniture_workbench": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:jungle_bedside_table": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:jungle_bookshelf_chest": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:jungle_cabinet": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:jungle_chair": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:jungle_kitchen_cabinet": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:jungle_ladder": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:jungle_pedestal_table": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:jungle_square_table": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:jungle_table": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:jungle_wardrobe": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"furnish:letter": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"furnish:metal_mailbox": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:oak_bedside_table": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:oak_bench": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:oak_bookshelf_chest": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:oak_cabinet": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:oak_chair": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:oak_kitchen_cabinet": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:oak_ladder": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:oak_pedestal_table": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:oak_square_table": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:oak_stool": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:oak_table": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:oak_wardrobe": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:recycle_bin": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:spruce_bedside_table": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:spruce_bookshelf_chest": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:spruce_cabinet": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:spruce_kitchen_cabinet": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:spruce_ladder": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:spruce_pedestal_table": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:spruce_square_table": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:spruce_table": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:spruce_wardrobe": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:warped_bookshelf_chest": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:warped_cabinet": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:warped_chair": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:warped_drawers": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:warped_ladder": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:warped_pedestal_table": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:warped_square_table": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:warped_table": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"furnish:warped_wardrobe": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"gag:escape_rope": [
@@ -7267,6 +7504,24 @@
 		"luphieclutteredmod:luphie_light_gray_armchair": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"luphieclutteredmod:luphie_light_green_cabinet": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"luphieclutteredmod:luphie_light_green_glass_cabinet": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"luphieclutteredmod:luphie_light_green_inner_corner_cabinet": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"luphieclutteredmod:luphie_light_green_mini_cabinet": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"luphieclutteredmod:luphie_light_green_outer_corner_cabinet": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"luphieclutteredmod:luphie_light_green_shelf_cabinet": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
 		"luphieclutteredmod:luphie_lime_armchair": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
@@ -7693,7 +7948,22 @@
 		"luphieclutteredmod:luphie_white_armchair": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
+		"luphieclutteredmod:luphie_white_cabinet": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"luphieclutteredmod:luphie_white_glass_cabinet": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"luphieclutteredmod:luphie_white_inner_corner_cabinet": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
 		"luphieclutteredmod:luphie_white_mini_cabinet": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"luphieclutteredmod:luphie_white_outer_corner_cabinet": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"luphieclutteredmod:luphie_white_shelf_cabinet": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"luphieclutteredmod:luphie_wine_bottle_rack": [
@@ -7721,6 +7991,9 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"luphieclutteredmod:luphie_yellow_door": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"luphieclutteredmod:luphie_yellow_endtable": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"luphieclutteredmod:luphie_yellow_fence": [
@@ -12696,6 +12969,21 @@
 		],
 		"minecells:blank_rune": [
 			"\u00a7eCrafted by: \u00a77Alchemist",
+		],
+		"minecells:putrid_board_block": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"minecells:putrid_door": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"minecells:putrid_sign": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"minecells:putrid_stairs": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
+		"minecells:putrid_trapdoor": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"minecraft:air": [
 		],
