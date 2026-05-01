@@ -525,7 +525,6 @@
 		"extraalchemy:breakable_potion{Potion:\"minecraft:long_night_vision\"}",
 		"extraalchemy:breakable_potion{Potion:\"minecraft:long_poison\"}",
 		"extraalchemy:breakable_potion{Potion:\"minecraft:long_regeneration\"}",
-		"extraalchemy:breakable_potion{Potion:\"minecraft:long_slow_falling\"}",
 		"extraalchemy:breakable_potion{Potion:\"minecraft:long_slowness\"}",
 		"extraalchemy:breakable_potion{Potion:\"minecraft:long_strength\"}",
 		"extraalchemy:breakable_potion{Potion:\"minecraft:long_swiftness\"}",
