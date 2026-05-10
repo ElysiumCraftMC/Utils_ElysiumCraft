@@ -56,7 +56,7 @@
 					"0",
 				],
 				"generic.durability": [
-							"3940",		
+							"3940",
 					"0",
 				],
 			},
@@ -72,7 +72,7 @@
 					"0",
 				],
 				"generic.durability": [
-							"3940",		
+							"3940",
 					"0",
 				],
 			},
@@ -142,7 +142,7 @@
 				],
 			},
 		},
-		"mythicmobs:kobold_spear": { 
+		"mythicmobs:kobold_spear": {
 			modifiers: {
 				"generic.attack_speed": [
 					"-4.0",
@@ -1793,7 +1793,7 @@
 					"0",
 				],
 								"generic.durability": [
-					"7680",		
+					"7680",
 					"0",
 				],
 			},
@@ -2473,7 +2473,7 @@
 		"magistuarmory:netherite_claymore": {
 			modifiers: {
 				"generic.attack_speed": [
-					"-3.28",
+					"-2.84",
 					"0",
 				],
 				"generic.attack_damage": [
@@ -2897,7 +2897,7 @@
 					"0",
 				],
 								"generic.durability": [
-					"7680",		
+					"7680",
 					"0",
 				],
 			},
