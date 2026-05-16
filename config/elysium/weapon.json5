@@ -2134,6 +2134,14 @@
 				],
 			},
 		},
+		"mcdw:spear_venom_glaive": {
+			modifiers: {
+					"generic.attack_damage": [
+					"15",
+					"0",
+				],
+			},
+		},
 		"elysium:steel_sword": {
 			modifiers: {
 				"generic.attack_speed": [
