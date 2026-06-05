@@ -11589,6 +11589,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"mcwroofs:roofing_hammer": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"mcwroofs:spruce_attic_roof": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
@@ -14032,9 +14033,6 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"supplementaries:planter_rich": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
-		],
-		"supplementaries:present": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"supplementaries:redstone_illuminator": [

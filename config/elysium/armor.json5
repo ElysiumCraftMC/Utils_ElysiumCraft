@@ -3644,5 +3644,12 @@
 				],
 			},
 		},
+		"magistuarmoryaddon:landsknecht_pink_hat_decoration": {
+			"modifiers": {
+				"generic.armor": [
+					"0", "0"
+				]
+			}
+		}
 	},
 }
