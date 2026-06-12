@@ -13,68 +13,6 @@
 	   		},
 	*/
 	weapon: {
-		"elysium:tin_chisel_gross": {
-			modifiers: {
-				"generic.durability": [ "0.1", "2" ],
-			},
-		},
-		"elysium:copper_chisel_gross": {
-			modifiers: {
-				"generic.durability": [ "0.1", "2" ],
-			},
-		},
-		"elysium:iron_chisel_gross": {
-			modifiers: {
-				"generic.durability": [ "0.1", "2" ],
-			},
-		},
-		"elysium:gold_chisel_gross": {
-			modifiers: {
-				"generic.durability": [ "0.1", "2" ],
-			},
-		},
-		"elysium:diamond_chisel_gross": {
-			modifiers: {
-				"generic.durability": [ "0.1", "2" ],
-			},
-		},
-		"elysium:emerald_chisel_gross": {
-			modifiers: {
-				"generic.durability": [ "0.1", "2" ],
-			},
-		},
-		"elysium:tin_chisel_precision": {
-			modifiers: {
-				"generic.durability": [ "0.01", "2" ],
-			},
-		},
-		"elysium:copper_chisel_precision": {
-			modifiers: {
-				"generic.durability": [ "0.01", "2" ],
-			},
-		},
-		"elysium:iron_chisel_precision": {
-			modifiers: {
-				"generic.durability": [ "0.01", "2" ],
-			},
-		},
-		"elysium:gold_chisel_precision": {
-			modifiers: {
-				"generic.durability": [ "0.01", "2" ],
-			},
-		},
-		"elysium:diamond_chisel_precision": {
-			modifiers: {
-				"generic.durability": [ "0.01", "2" ],
-			},
-		},
-		"elysium:emerald_chisel_precision": {
-			modifiers: {
-				"generic.durability": [ "0.01", "2" ],
-			},
-		},
-
-
 		"elysium:bronze_pickaxe": {
 			modifiers: {
 				"generic.attack_speed": [
