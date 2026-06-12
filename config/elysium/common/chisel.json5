@@ -1,8 +1,36 @@
 {
-	tinDurability: 491520,
-	copperDurability: 983040,
-	ironDurability: 1966080,
-	goldDurability: 3932160,
-	diamondDurability: 7864320,
-	emeraldDurability: 15728640,
+	//old values
+	// tinDurability: 491520,
+	// copperDurability: 983040,
+	// ironDurability: 1966080,
+	// goldDurability: 3932160,
+	// diamondDurability: 7864320,
+	// emeraldDurability: 15728640,
+
+
+	tinDurability: {
+		gross: 49152,
+		precision: 4915,
+	},
+	copperDurability: {
+		gross: 98304,
+		precision: 9830,
+	},
+	ironDurability: {
+		gross: 196608,
+		precision: 19660,
+	},
+	goldDurability: {
+		gross: 393216,
+		precision: 39321,
+	},
+	diamondDurability: {
+		gross: 786432,
+		precision: 78643,
+	},
+	emeraldDurability: {
+		gross: 1572864,
+		precision: 157286,
+	},
+
 }
