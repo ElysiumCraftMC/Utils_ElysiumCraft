@@ -4,5 +4,8 @@
 	// Night Shade should despawn after killing the target?
 	nightShadeDespawnAfterKill: false,
 	// If true, all the clients will see night, even during the day. Doesn't affect real game time
-    enableEternalNight: true
+    enableEternalNight: true,
+
+    disableRevive: false,
+    disableImmortality: false,
 }
