@@ -1,5 +1,5 @@
 {
-	enabled: false,
+	enabled: true,
 	// After how many pickup from the smeltery the generic scrap should be dropped
 	dropGenericScrap: 10,
     
