@@ -652,10 +652,10 @@
 		"minecraft:netherite_helmet": "elysium:patch_netherite",
 		"minecraft:netherite_boots": "elysium:patch_netherite",
 		"minecraft:netherite_chestplate": "elysium:patch_netherite",
-		"crystaldraft:copper_trowel": "elysium:copper_cote",
-		"crystaldraft:iron_trowel": "elysium:iron_cote",
-		"crystaldraft:gold_trowel": "elysium:gold_cote",
-		"crystaldraft:diamond_trowel": "elysium:diamond_cote",
-		"crystaldraft:netherite_trowel": "elysium:netherite_cote"
+		"crystaldraft:copper_trowel": "elysium:cote_copper",
+		"crystaldraft:iron_trowel": "elysium:cote_iron",
+		"crystaldraft:gold_trowel": "elysium:cote_gold",
+		"crystaldraft:diamond_trowel": "elysium:cote_diamond",
+		"crystaldraft:netherite_trowel": "elysium:cote_netherite"
 	},
 }
