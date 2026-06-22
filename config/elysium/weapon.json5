@@ -581,7 +581,7 @@
 		"magistuarmory:gold_stylet": {
 			modifiers: {
 				"generic.attack_speed": [
-					"-2.3",
+					"-2.2",
 					"0",
 				],
 				"generic.piercing": [
@@ -1125,7 +1125,7 @@
 		"magistuarmory:netherite_stylet": {
 			modifiers: {
 				"generic.attack_speed": [
-					"-2.3",
+					"-2.2",
 					"0",
 				],
 				"generic.piercing": [
@@ -1165,7 +1165,7 @@
 		"magistuarmory:steel_stylet": {
 			modifiers: {
 				"generic.attack_speed": [
-					"-2.3",
+					"-2.2",
 					"0",
 				],
 				"generic.piercing": [
@@ -1317,7 +1317,7 @@
 		"magistuarmory:iron_stylet": {
 			modifiers: {
 				"generic.attack_speed": [
-					"-2.3",
+					"-2.2",
 					"0",
 				],
 				"generic.piercing": [
@@ -1381,7 +1381,7 @@
 		"magistuarmory:copper_stylet": {
 			modifiers: {
 				"generic.attack_speed": [
-					"-2.3",
+					"-2.2",
 					"0",
 				],
 				"generic.piercing": [
@@ -1769,7 +1769,7 @@
 		"magistuarmory:tin_stylet": {
 			modifiers: {
 				"generic.attack_speed": [
-					"-2.3",
+					"-2.2",
 					"0",
 				],
 				"generic.piercing": [
@@ -1961,7 +1961,7 @@
 		"magistuarmory:diamond_stylet": {
 			modifiers: {
 				"generic.attack_speed": [
-					"-2.3",
+					"-2.2",
 					"0",
 				],
 				"generic.piercing": [
@@ -2465,7 +2465,7 @@
 		"magistuarmory:silver_stylet": {
 			modifiers: {
 				"generic.attack_speed": [
-					"-2.3",
+					"-2.2",
 					"0",
 				],
 				"generic.piercing": [
@@ -2685,7 +2685,7 @@
 		"magistuarmory:wood_stylet": {
 			modifiers: {
 				"generic.attack_speed": [
-					"-2.3",
+					"-2.2",
 					"0",
 				],
 				"generic.piercing": [
