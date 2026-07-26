@@ -1,6 +1,13 @@
 {
 	// dimensions in which the combat log won't trigger
 	blacklistCombatLog: [ "elysium:war" ],
+
+	// dimensions in which the player will lose hunger
+	allowedHungerInDims: [
+		"elysium:mine",
+		"elysium:heat",
+		"minecraft:overworld",
+	],
   
 	/*  If returnToSpawn is set to false and atPos is empty, the player just won't die and be left with half-hearth
 	    Every value is optional and will change how it behave
