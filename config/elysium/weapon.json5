@@ -3114,13 +3114,13 @@
 				],
 			},
 		},
-		"elysium:infinity_knife": {
-			modifiers: {
-				"generic.piercing": [
-					"20",
-					"0",
-				]
-			},
-		},
+		// "elysium:infinity_knife": {
+		// 	modifiers: {
+		// 		"generic.piercing": [
+		// 			"20",
+		// 			"0",
+		// 		]
+		// 	},
+		// },
 	},
 }
