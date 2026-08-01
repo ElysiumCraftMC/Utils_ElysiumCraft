@@ -3082,5 +3082,45 @@
 				],
 			},
 		},
+		"elysium:infinity_staff": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3.0",
+					"0",
+				],
+				"spell_power:arcane": [
+					"5",
+					"0",
+				],
+				"spell_power:fire": [
+					"5",
+					"0",
+				],
+				"spell_power:frost": [
+					"5",
+					"0",
+				],
+				"spell_power:healing": [
+					"5",
+					"0",
+				],
+				"generic.attack_damage": [
+					"1.0",
+					"0",
+				],
+				"generic.durability": [
+					"3840",
+					"0",
+				],
+			},
+		},
+		"elysium:infinity_knife": {
+			modifiers: {
+				"generic.piercing": [
+					"20",
+					"0",
+				]
+			},
+		},
 	},
 }
