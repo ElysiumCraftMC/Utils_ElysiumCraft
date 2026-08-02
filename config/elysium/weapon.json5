@@ -3089,19 +3089,19 @@
 					"0",
 				],
 				"spell_power:arcane": [
-					"5",
+					"5.5",
 					"0",
 				],
 				"spell_power:fire": [
-					"5",
+					"5.5",
 					"0",
 				],
 				"spell_power:frost": [
-					"5",
+					"5.5",
 					"0",
 				],
 				"spell_power:healing": [
-					"5",
+					"5.5",
 					"0",
 				],
 				"generic.attack_damage": [
@@ -3128,12 +3128,8 @@
 					"-2.2",
 					"0",
 				],
-				"generic.piercing": [
-					"20",
-					"0",
-				],
 				"generic.attack_damage": [
-					"9",
+					"14",
 					"0",
 				]
 		 	},
