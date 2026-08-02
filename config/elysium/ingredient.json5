@@ -657,9 +657,9 @@
 		"crystaldraft:gold_trowel": "elysium:cote_gold",
 		"crystaldraft:diamond_trowel": "elysium:cote_diamond",
 		"crystaldraft:netherite_trowel": "elysium:cote_netherite",
-		"elysium:infinity_staff": "elysium:cote_infinity",
-		"elysium:infinity_knife": "elysium:cote_infinity",
-		"elysium:infinity_bow": "elysium:cote_infinity",
-		"elysium:infinity_greatsword": "elysium:cote_infinity",
+		"elysium:infinity_staff": "elysium:cote_netherite",
+		"elysium:infinity_knife": "elysium:cote_netherite",
+		"elysium:infinity_bow": "elysium:cote_netherite",
+		"elysium:infinity_greatsword": "elysium:cote_netherite",
 	},
 }
