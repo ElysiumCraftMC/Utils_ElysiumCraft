@@ -9,6 +9,10 @@
   {    "item": "minecraft:netherite_hoe",    "value": 0.20  },
  	{    "item": "onlyhammersandexcavators:emerald_excavator",    "value": 1.00  },
 	{    "item": "onlyhammersandexcavators:emerald_hammer",    "value": 1.00  },
- 	{    "item": "treeaxe:emerald_treeaxe",    "value": 1.00  }
+ 	{    "item": "treeaxe:emerald_treeaxe",    "value": 1.00  },
+	{    "item": "elysium:infinity_staff",    "value": 1.00  },
+	{    "item": "elysium:infinity_knife",    "value": 1.00  },
+	{    "item": "elysium:infinity_bow",    "value": 1.00  },
+	{    "item": "elysium:infinity_greatsword",    "value": 1.00  },
 
 ]
