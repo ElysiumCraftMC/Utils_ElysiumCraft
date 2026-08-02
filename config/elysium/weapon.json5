@@ -3114,13 +3114,13 @@
 				],
 			},
 		},
-		// "elysium:infinity_knife": {
-		// 	modifiers: {
-		// 		"generic.piercing": [
-		// 			"20",
-		// 			"0",
-		// 		]
-		// 	},
-		// },
+		 "minecraft:iron_sword": {
+		 	modifiers: {
+		 		"generic.piercing": [
+		 			"20",
+		 			"0",
+		 		]
+		 	},
+		 },
 	},
 }
